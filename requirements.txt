@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
+seaborn
+openpyxl
+xlrd
+reportlab
+xgboost
+streamlit-lottie
+requests
+openai
+groq
+Pillow

@@ -1,0 +1,1501 @@
+order_id,order_date,product_category,platform,city,customer_age,is_premium_member,unit_price,quantity,discount_pct,shipping_cost,gmv,order_status,review_score,days_to_deliver
+ORD100000,2022-06-01,Home & Kitchen,Android App,Surat,33,0,5841.05,3,0,149,17672.15,Processing,5.0,11.0
+ORD100001,2022-06-01,Books,iOS App,Mumbai,26,0,287.71,4,5,149,1242.3,Cancelled,5.0,
+ORD100002,2022-06-01,Health,iOS App,Bhopal,20,0,617.53,4,30,0,1729.08,Delivered,2.0,11.0
+ORD100003,2022-06-02,Fashion,Android App,Kanpur,49,0,2091.97,4,0,99,8466.88,Delivered,4.0,7.0
+ORD100004,2022-06-02,Food,Android App,Lucknow,53,0,298.72,1,5,99,382.78,Processing,4.0,4.0
+ORD100005,2022-06-03,Books,Android App,Ahmedabad,33,0,432.37,5,5,49,2102.76,Delivered,4.0,6.0
+ORD100006,2022-06-03,Food,iOS App,Kanpur,50,0,244.53,2,0,149,638.06,Delivered,2.0,6.0
+ORD100007,2022-06-03,Food,Tablet,Hyderabad,33,0,142.4,3,15,149,512.12,Delivered,4.0,11.0
+ORD100008,2022-06-04,Fashion,Tablet,Lucknow,28,1,948.48,4,0,99,3892.92,Shipped,5.0,3.0
+ORD100009,2022-06-04,Fashion,Android App,Surat,57,1,1970.94,2,0,0,3941.88,Processing,3.0,4.0
+ORD100010,2022-06-05,Electronics,Tablet,Surat,42,1,12549.14,4,10,0,45176.9,Delivered,,6.0
+ORD100011,2022-06-05,Health,iOS App,Kanpur,18,1,1790.1,3,25,149,4176.72,Delivered,,7.0
+ORD100012,2022-06-05,Home & Kitchen,Android App,Bangalore,50,0,5038.02,1,0,149,5187.02,Delivered,4.0,14.0
+ORD100013,2022-06-06,Fashion,Web,Delhi,36,0,2127.46,2,10,0,3829.43,Delivered,5.0,4.0
+ORD100014,2022-06-06,Health,Tablet,Jaipur,21,0,1628.93,4,0,0,6515.72,Delivered,5.0,13.0
+ORD100015,2022-06-07,Home & Kitchen,Web,Nagpur,29,0,4735.07,1,10,99,4360.56,Cancelled,3.0,
+ORD100016,2022-06-07,Automotive,Android App,Chennai,32,1,5996.37,2,5,0,11393.1,Delivered,4.0,8.0
+ORD100017,2022-06-07,Automotive,Web,Jaipur,19,0,9377.59,3,5,49,26775.13,Delivered,,12.0
+ORD100018,2022-06-08,Automotive,Android App,Bhopal,52,1,5698.95,2,30,149,8127.53,Delivered,3.0,5.0
+ORD100019,2022-06-08,Health,iOS App,Surat,28,1,579.36,3,10,0,1564.27,Delivered,5.0,4.0
+ORD100020,2022-06-09,Toys,Tablet,Delhi,25,0,976.27,5,0,99,4980.35,Cancelled,5.0,
+ORD100021,2022-06-09,Fashion,Web,Indore,26,1,790.02,1,30,49,602.01,Delivered,3.0,4.0
+ORD100022,2022-06-09,Automotive,Tablet,Bhopal,51,1,7415.41,5,0,0,37077.05,Delivered,4.0,1.0
+ORD100023,2022-06-10,Books,Android App,Lucknow,41,0,698.7,4,10,49,2564.32,Returned,,1.0
+ORD100024,2022-06-10,Fashion,Tablet,Surat,56,0,1815.37,5,10,49,8218.16,Delivered,3.0,7.0
+ORD100025,2022-06-11,Fashion,iOS App,Jaipur,38,0,978.99,4,20,99,3231.77,Processing,3.0,8.0
+ORD100026,2022-06-11,Home & Kitchen,Android App,Surat,50,0,2120.37,5,0,49,10650.85,Cancelled,4.0,
+ORD100027,2022-06-11,Home & Kitchen,Web,Pune,40,1,3103.74,1,10,149,2942.37,Shipped,5.0,4.0
+ORD100028,2022-06-12,Electronics,Android App,Surat,45,0,10779.72,4,10,0,38806.99,Delivered,5.0,11.0
+ORD100029,2022-06-12,Automotive,iOS App,Ahmedabad,59,1,6772.7,4,5,149,25885.26,Delivered,4.0,8.0
+ORD100030,2022-06-13,Books,Android App,Kanpur,46,0,586.13,5,25,49,2246.99,Delivered,5.0,9.0
+ORD100031,2022-06-13,Home & Kitchen,Tablet,Nagpur,41,1,4461.62,1,0,49,4510.62,Delivered,,11.0
+ORD100032,2022-06-14,Toys,iOS App,Lucknow,58,0,998.06,3,0,0,2994.18,Delivered,3.0,13.0
+ORD100033,2022-06-14,Books,iOS App,Bhopal,48,1,403.69,3,10,0,1089.96,Delivered,5.0,1.0
+ORD100034,2022-06-14,Automotive,Android App,Kolkata,61,0,3795.47,1,0,49,3844.47,Returned,4.0,7.0
+ORD100035,2022-06-15,Health,Tablet,Kanpur,48,1,1311.0,4,20,149,4344.2,Delivered,3.0,3.0
+ORD100036,2022-06-15,Toys,iOS App,Pune,50,1,790.32,3,0,99,2469.96,Delivered,4.0,10.0
+ORD100037,2022-06-16,Automotive,Tablet,Kanpur,42,0,4790.96,3,5,0,13654.24,Delivered,4.0,6.0
+ORD100038,2022-06-16,Fashion,iOS App,Hyderabad,57,0,1786.72,4,10,49,6481.19,Delivered,5.0,3.0
+ORD100039,2022-06-16,Fashion,Tablet,Lucknow,32,1,1281.36,4,20,49,4149.35,Delivered,4.0,13.0
+ORD100040,2022-06-17,Toys,Android App,Mumbai,43,1,526.75,4,10,149,2045.3,Delivered,5.0,8.0
+ORD100041,2022-06-17,Health,Android App,Kanpur,60,1,1102.74,2,0,99,2304.48,Delivered,2.0,2.0
+ORD100042,2022-06-18,Electronics,Android App,Hyderabad,27,0,14006.61,5,0,0,70033.05,Processing,2.0,4.0
+ORD100043,2022-06-18,Fashion,Tablet,Chennai,38,0,1920.28,2,15,0,3264.48,Delivered,,11.0
+ORD100044,2022-06-18,Food,Tablet,Pune,19,0,142.65,2,25,0,213.98,Processing,5.0,7.0
+ORD100045,2022-06-19,Fashion,iOS App,Kolkata,44,1,2135.12,3,10,49,5813.82,Delivered,4.0,14.0
+ORD100046,2022-06-19,Books,Android App,Delhi,34,0,417.21,2,10,0,750.98,Delivered,4.0,1.0
+ORD100047,2022-06-20,Electronics,Android App,Jaipur,44,0,7858.74,2,0,0,15717.48,Delivered,2.0,2.0
+ORD100048,2022-06-20,Books,Android App,Delhi,29,1,245.02,5,5,99,1262.84,Delivered,,10.0
+ORD100049,2022-06-20,Toys,Web,Jaipur,56,1,1342.71,1,5,49,1324.57,Delivered,1.0,5.0
+ORD100050,2022-06-21,Health,iOS App,Pune,64,1,1174.96,3,0,149,3673.88,Delivered,4.0,13.0
+ORD100051,2022-06-21,Fashion,Web,Jaipur,43,1,1983.38,3,0,99,6049.14,Processing,5.0,11.0
+ORD100052,2022-06-22,Fashion,Web,Bangalore,46,0,2189.0,1,10,0,1970.1,Delivered,,1.0
+ORD100053,2022-06-22,Food,Tablet,Bhopal,39,0,245.11,2,5,0,465.71,Delivered,3.0,14.0
+ORD100054,2022-06-22,Home & Kitchen,Android App,Mumbai,32,1,3961.13,2,0,49,7971.26,Delivered,5.0,14.0
+ORD100055,2022-06-23,Books,Android App,Nagpur,39,1,516.42,3,20,99,1338.41,Delivered,4.0,4.0
+ORD100056,2022-06-23,Automotive,iOS App,Pune,41,0,8811.89,3,0,49,26484.67,Cancelled,5.0,
+ORD100057,2022-06-24,Automotive,Web,Nagpur,54,0,5650.67,3,15,149,14558.21,Delivered,3.0,9.0
+ORD100058,2022-06-24,Home & Kitchen,iOS App,Jaipur,50,0,5782.89,2,15,99,9929.91,Delivered,5.0,1.0
+ORD100059,2022-06-24,Electronics,Web,Nagpur,33,0,21160.22,4,20,49,67761.7,Shipped,5.0,11.0
+ORD100060,2022-06-25,Books,Android App,Jaipur,46,0,633.78,2,20,0,1014.05,Delivered,,14.0
+ORD100061,2022-06-25,Home & Kitchen,iOS App,Kanpur,61,0,1875.11,5,15,49,8018.22,Delivered,4.0,6.0
+ORD100062,2022-06-26,Toys,Tablet,Surat,37,1,836.51,5,5,49,4022.42,Delivered,5.0,14.0
+ORD100063,2022-06-26,Toys,Tablet,Lucknow,57,0,538.13,4,10,0,1937.27,Processing,4.0,10.0
+ORD100064,2022-06-27,Home & Kitchen,Android App,Jaipur,40,1,5603.47,1,20,99,4581.78,Delivered,4.0,11.0
+ORD100065,2022-06-27,Books,Tablet,Chennai,24,0,298.37,5,5,49,1466.26,Delivered,3.0,8.0
+ORD100066,2022-06-27,Toys,iOS App,Nagpur,26,0,1098.63,5,10,0,4943.84,Delivered,5.0,10.0
+ORD100067,2022-06-28,Health,Web,Nagpur,32,1,534.87,3,0,99,1703.61,Delivered,4.0,14.0
+ORD100068,2022-06-28,Health,Android App,Lucknow,45,1,721.14,2,10,99,1397.05,Delivered,5.0,9.0
+ORD100069,2022-06-29,Automotive,Web,Hyderabad,60,1,4898.89,4,0,0,19595.56,Cancelled,5.0,
+ORD100070,2022-06-29,Toys,Tablet,Kolkata,36,1,1170.97,4,10,49,4264.49,Delivered,5.0,3.0
+ORD100071,2022-06-29,Toys,Web,Lucknow,31,1,613.73,4,0,99,2553.92,Delivered,5.0,8.0
+ORD100072,2022-06-30,Books,Tablet,Bangalore,48,1,603.86,4,0,49,2464.44,Delivered,5.0,13.0
+ORD100073,2022-06-30,Automotive,Android App,Delhi,32,1,8414.58,5,0,49,42121.9,Delivered,4.0,10.0
+ORD100074,2022-07-01,Fashion,Web,Kolkata,38,0,2385.97,5,15,99,10239.37,Delivered,5.0,11.0
+ORD100075,2022-07-01,Fashion,Android App,Jaipur,28,1,1818.85,4,25,99,5555.55,Delivered,4.0,3.0
+ORD100076,2022-07-01,Toys,Android App,Indore,31,0,1019.31,2,0,0,2038.62,Processing,5.0,12.0
+ORD100077,2022-07-02,Health,Android App,Hyderabad,20,1,1262.07,5,0,0,6310.35,Delivered,5.0,8.0
+ORD100078,2022-07-02,Home & Kitchen,iOS App,Chennai,44,0,1993.29,5,15,99,8570.48,Delivered,4.0,7.0
+ORD100079,2022-07-03,Health,Android App,Lucknow,40,0,1142.85,3,10,0,3085.7,Delivered,3.0,1.0
+ORD100080,2022-07-03,Fashion,iOS App,Indore,26,0,2132.67,1,0,149,2281.67,Delivered,4.0,13.0
+ORD100081,2022-07-03,Health,Web,Nagpur,53,0,478.16,5,10,0,2151.72,Delivered,5.0,9.0
+ORD100082,2022-07-04,Home & Kitchen,Android App,Surat,27,0,2069.95,3,20,99,5066.88,Delivered,,5.0
+ORD100083,2022-07-04,Health,iOS App,Mumbai,49,0,1260.74,3,0,149,3931.22,Shipped,4.0,8.0
+ORD100084,2022-07-05,Home & Kitchen,iOS App,Surat,23,1,5311.57,4,5,49,20232.97,Delivered,,13.0
+ORD100085,2022-07-05,Toys,iOS App,Delhi,19,0,672.7,1,0,99,771.7,Delivered,4.0,12.0
+ORD100086,2022-07-05,Fashion,Android App,Kanpur,23,1,2168.66,5,25,0,8132.48,Delivered,,5.0
+ORD100087,2022-07-06,Automotive,Android App,Indore,42,1,5031.45,1,20,99,4124.16,Delivered,,12.0
+ORD100088,2022-07-06,Books,Tablet,Surat,26,0,419.37,2,5,149,945.8,Shipped,4.0,1.0
+ORD100089,2022-07-07,Electronics,Android App,Chennai,33,0,28943.19,3,30,149,60929.7,Delivered,,7.0
+ORD100090,2022-07-07,Food,iOS App,Hyderabad,43,1,281.6,4,0,49,1175.4,Delivered,4.0,8.0
+ORD100091,2022-07-07,Fashion,Tablet,Lucknow,48,1,1679.07,1,15,99,1526.21,Cancelled,4.0,
+ORD100092,2022-07-08,Health,iOS App,Kanpur,54,0,1712.88,3,15,99,4466.84,Delivered,5.0,1.0
+ORD100093,2022-07-08,Fashion,Web,Nagpur,37,0,1075.89,1,20,49,909.71,Delivered,3.0,5.0
+ORD100094,2022-07-09,Food,Tablet,Delhi,22,0,159.48,5,10,99,816.66,Shipped,4.0,4.0
+ORD100095,2022-07-09,Electronics,Tablet,Kanpur,64,0,29055.67,2,0,0,58111.34,Delivered,4.0,6.0
+ORD100096,2022-07-10,Home & Kitchen,iOS App,Bhopal,54,0,4019.23,3,0,149,12206.69,Delivered,5.0,10.0
+ORD100097,2022-07-10,Toys,Web,Mumbai,56,0,1364.13,4,0,149,5605.52,Delivered,5.0,2.0
+ORD100098,2022-07-10,Food,iOS App,Kolkata,61,0,450.03,1,20,49,409.02,Delivered,5.0,11.0
+ORD100099,2022-07-11,Books,iOS App,Kanpur,50,0,487.18,1,5,49,511.82,Delivered,5.0,2.0
+ORD100100,2022-07-11,Home & Kitchen,Web,Ahmedabad,64,0,3621.03,5,5,149,17348.89,Shipped,5.0,8.0
+ORD100101,2022-07-12,Home & Kitchen,Web,Bhopal,42,1,3661.13,3,0,0,10983.39,Delivered,5.0,12.0
+ORD100102,2022-07-12,Food,Web,Lucknow,44,1,187.26,2,5,49,404.79,Cancelled,,
+ORD100103,2022-07-12,Food,iOS App,Pune,45,0,295.09,4,5,49,1170.34,Delivered,4.0,14.0
+ORD100104,2022-07-13,Fashion,Web,Surat,41,1,2079.12,5,5,49,9924.82,Delivered,5.0,7.0
+ORD100105,2022-07-13,Food,Web,Lucknow,38,1,495.8,4,0,0,1983.2,Delivered,2.0,7.0
+ORD100106,2022-07-14,Automotive,Tablet,Kanpur,33,0,9702.57,3,0,0,29107.71,Delivered,3.0,13.0
+ORD100107,2022-07-14,Health,Web,Hyderabad,55,0,1748.94,4,0,149,7144.76,Delivered,4.0,2.0
+ORD100108,2022-07-14,Home & Kitchen,Tablet,Indore,33,1,1585.55,5,25,99,6044.81,Delivered,3.0,13.0
+ORD100109,2022-07-15,Books,Android App,Bhopal,60,1,445.78,2,10,99,901.4,Delivered,,2.0
+ORD100110,2022-07-15,Automotive,iOS App,Chennai,53,1,4000.98,4,10,49,14452.53,Delivered,4.0,2.0
+ORD100111,2022-07-16,Home & Kitchen,Tablet,Chennai,64,0,4268.78,5,25,99,16106.92,Delivered,,1.0
+ORD100112,2022-07-16,Home & Kitchen,Web,Pune,48,0,5756.27,2,10,49,10410.29,Delivered,4.0,4.0
+ORD100113,2022-07-16,Books,Android App,Hyderabad,46,1,635.24,5,10,99,2957.58,Delivered,5.0,13.0
+ORD100114,2022-07-17,Fashion,iOS App,Bangalore,33,1,2159.85,1,5,149,2200.86,Delivered,4.0,3.0
+ORD100115,2022-07-17,Books,Tablet,Bangalore,50,0,367.0,2,0,0,734.0,Delivered,,7.0
+ORD100116,2022-07-18,Electronics,Tablet,Lucknow,45,0,18776.35,2,0,149,37701.7,Returned,2.0,12.0
+ORD100117,2022-07-18,Fashion,Android App,Bhopal,36,1,1107.5,1,20,149,1035.0,Delivered,5.0,13.0
+ORD100118,2022-07-18,Books,Web,Delhi,21,0,465.77,4,5,49,1818.93,Delivered,,7.0
+ORD100119,2022-07-19,Automotive,Tablet,Jaipur,18,1,4775.41,3,0,149,14475.23,Delivered,5.0,6.0
+ORD100120,2022-07-19,Food,Tablet,Hyderabad,28,1,428.27,2,20,149,834.23,Delivered,5.0,7.0
+ORD100121,2022-07-20,Books,Web,Chennai,51,0,418.82,5,0,0,2094.1,Delivered,4.0,9.0
+ORD100122,2022-07-20,Automotive,Web,Jaipur,61,0,7752.99,2,10,0,13955.38,Cancelled,4.0,
+ORD100123,2022-07-20,Electronics,Tablet,Bangalore,61,1,27135.01,5,15,99,115422.79,Delivered,3.0,10.0
+ORD100124,2022-07-21,Toys,Tablet,Delhi,42,0,664.74,4,0,99,2757.96,Processing,4.0,12.0
+ORD100125,2022-07-21,Toys,iOS App,Indore,58,0,1003.2,5,0,0,5016.0,Processing,1.0,1.0
+ORD100126,2022-07-22,Home & Kitchen,Tablet,Kolkata,18,0,5306.16,1,5,49,5089.85,Shipped,5.0,12.0
+ORD100127,2022-07-22,Books,iOS App,Mumbai,59,0,674.13,5,15,49,2914.05,Delivered,,10.0
+ORD100128,2022-07-23,Toys,Tablet,Indore,63,0,521.22,1,20,49,465.98,Delivered,5.0,1.0
+ORD100129,2022-07-23,Home & Kitchen,Android App,Surat,36,1,4566.39,4,20,0,14612.45,Processing,5.0,12.0
+ORD100130,2022-07-23,Health,Android App,Kanpur,20,0,1037.55,4,0,0,4150.2,Processing,4.0,7.0
+ORD100131,2022-07-24,Electronics,Web,Surat,51,0,13924.27,1,0,99,14023.27,Delivered,3.0,1.0
+ORD100132,2022-07-24,Health,Tablet,Ahmedabad,18,0,662.93,1,10,0,596.64,Delivered,5.0,2.0
+ORD100133,2022-07-25,Fashion,Web,Kanpur,48,0,1653.69,1,15,99,1504.64,Delivered,4.0,1.0
+ORD100134,2022-07-25,Books,Web,Pune,33,1,350.4,1,0,99,449.4,Delivered,4.0,6.0
+ORD100135,2022-07-25,Health,iOS App,Lucknow,43,0,1351.72,1,0,149,1500.72,Delivered,,8.0
+ORD100136,2022-07-26,Automotive,Tablet,Indore,61,1,4607.48,5,0,149,23186.4,Delivered,4.0,4.0
+ORD100137,2022-07-26,Books,Tablet,Nagpur,25,0,175.31,2,0,149,499.62,Processing,4.0,14.0
+ORD100138,2022-07-27,Fashion,Android App,Jaipur,19,0,1981.01,5,10,49,8963.54,Delivered,2.0,1.0
+ORD100139,2022-07-27,Fashion,Tablet,Mumbai,45,0,890.39,1,25,0,667.79,Delivered,5.0,14.0
+ORD100140,2022-07-27,Health,Android App,Mumbai,50,1,790.88,4,0,0,3163.52,Shipped,4.0,3.0
+ORD100141,2022-07-28,Automotive,Web,Kolkata,32,0,4265.16,3,5,49,12204.71,Delivered,5.0,2.0
+ORD100142,2022-07-28,Food,Tablet,Surat,25,1,253.34,3,0,0,760.02,Delivered,4.0,7.0
+ORD100143,2022-07-29,Automotive,iOS App,Delhi,51,0,6140.06,4,0,0,24560.24,Shipped,5.0,11.0
+ORD100144,2022-07-29,Home & Kitchen,Android App,Kolkata,50,1,5156.03,2,0,49,10361.06,Delivered,5.0,10.0
+ORD100145,2022-07-29,Books,Android App,Kolkata,62,1,516.37,1,0,49,565.37,Cancelled,4.0,
+ORD100146,2022-07-30,Food,iOS App,Kolkata,58,1,179.75,2,0,49,408.5,Delivered,5.0,7.0
+ORD100147,2022-07-30,Automotive,iOS App,Jaipur,52,0,3877.57,5,15,149,16628.67,Delivered,3.0,13.0
+ORD100148,2022-07-31,Books,iOS App,Hyderabad,18,0,619.71,3,10,49,1722.22,Delivered,3.0,11.0
+ORD100149,2022-07-31,Books,iOS App,Jaipur,30,0,306.17,5,10,0,1377.76,Delivered,4.0,1.0
+ORD100150,2022-07-31,Fashion,Tablet,Kolkata,48,0,993.63,5,5,49,4768.74,Delivered,4.0,8.0
+ORD100151,2022-08-01,Electronics,iOS App,Indore,39,1,7580.33,1,0,49,7629.33,Delivered,,14.0
+ORD100152,2022-08-01,Health,iOS App,Hyderabad,20,0,1495.0,1,0,149,1644.0,Shipped,5.0,11.0
+ORD100153,2022-08-02,Health,Android App,Indore,44,0,1446.91,1,0,49,1495.91,Delivered,5.0,12.0
+ORD100154,2022-08-02,Health,Web,Bhopal,53,0,919.28,1,0,49,968.28,Delivered,3.0,11.0
+ORD100155,2022-08-02,Home & Kitchen,Web,Hyderabad,52,0,1532.92,3,0,99,4697.76,Processing,5.0,9.0
+ORD100156,2022-08-03,Electronics,Web,Kolkata,61,0,25175.45,1,30,49,17671.81,Delivered,5.0,5.0
+ORD100157,2022-08-03,Books,Web,Lucknow,24,1,227.17,5,30,49,844.09,Processing,3.0,1.0
+ORD100158,2022-08-04,Food,iOS App,Kolkata,62,0,297.68,3,15,0,759.08,Delivered,5.0,5.0
+ORD100159,2022-08-04,Food,Web,Lucknow,42,0,440.06,4,10,49,1633.22,Delivered,5.0,4.0
+ORD100160,2022-08-05,Fashion,iOS App,Chennai,32,0,1039.71,5,10,0,4678.7,Delivered,,11.0
+ORD100161,2022-08-05,Home & Kitchen,Android App,Bhopal,58,0,3208.51,1,10,99,2986.66,Processing,,5.0
+ORD100162,2022-08-05,Health,iOS App,Lucknow,22,0,1342.16,3,10,0,3623.83,Shipped,3.0,5.0
+ORD100163,2022-08-06,Electronics,iOS App,Delhi,19,0,22646.16,4,0,0,90584.64,Processing,5.0,13.0
+ORD100164,2022-08-06,Home & Kitchen,Android App,Chennai,52,0,3582.18,5,30,49,12586.63,Delivered,,3.0
+ORD100165,2022-08-07,Electronics,Android App,Surat,52,0,17259.43,5,15,49,73401.58,Delivered,5.0,11.0
+ORD100166,2022-08-07,Books,Tablet,Hyderabad,22,1,395.24,2,0,49,839.48,Delivered,3.0,5.0
+ORD100167,2022-08-07,Food,Tablet,Kolkata,59,1,307.26,2,5,149,732.79,Delivered,4.0,14.0
+ORD100168,2022-08-08,Food,Web,Surat,57,1,254.99,4,15,99,965.97,Delivered,3.0,14.0
+ORD100169,2022-08-08,Fashion,iOS App,Pune,55,0,1061.55,4,25,149,3333.65,Delivered,1.0,6.0
+ORD100170,2022-08-09,Toys,Android App,Indore,36,0,681.85,2,0,49,1412.7,Processing,,11.0
+ORD100171,2022-08-09,Food,Web,Surat,61,0,304.16,3,5,49,915.86,Delivered,,13.0
+ORD100172,2022-08-09,Automotive,Android App,Kolkata,24,0,5366.06,5,0,49,26879.3,Delivered,,9.0
+ORD100173,2022-08-10,Fashion,Web,Hyderabad,54,1,1653.97,2,0,49,3356.94,Delivered,4.0,13.0
+ORD100174,2022-08-10,Books,iOS App,Hyderabad,57,0,506.35,2,0,0,1012.7,Delivered,5.0,10.0
+ORD100175,2022-08-11,Automotive,Tablet,Mumbai,42,0,9971.08,5,0,0,49855.4,Delivered,4.0,1.0
+ORD100176,2022-08-11,Food,Android App,Delhi,34,1,355.69,4,5,149,1500.62,Delivered,4.0,9.0
+ORD100177,2022-08-11,Home & Kitchen,Android App,Kanpur,40,0,4805.85,2,5,99,9230.12,Shipped,4.0,4.0
+ORD100178,2022-08-12,Home & Kitchen,Web,Kanpur,20,0,1941.14,2,15,0,3299.94,Delivered,,9.0
+ORD100179,2022-08-12,Electronics,Tablet,Delhi,19,1,24610.1,5,5,0,116897.98,Delivered,5.0,12.0
+ORD100180,2022-08-13,Food,iOS App,Jaipur,33,0,315.84,2,0,0,631.68,Delivered,5.0,3.0
+ORD100181,2022-08-13,Electronics,Tablet,Hyderabad,18,1,26997.56,4,5,99,102689.73,Shipped,2.0,10.0
+ORD100182,2022-08-13,Home & Kitchen,Tablet,Lucknow,47,0,5869.09,3,15,0,14966.18,Delivered,4.0,8.0
+ORD100183,2022-08-14,Electronics,Tablet,Jaipur,48,1,12683.23,2,5,99,24197.14,Delivered,5.0,4.0
+ORD100184,2022-08-14,Food,Web,Kanpur,58,1,473.25,2,10,0,851.85,Delivered,5.0,11.0
+ORD100185,2022-08-15,Fashion,Tablet,Surat,30,0,1808.95,4,0,99,7334.8,Shipped,5.0,11.0
+ORD100186,2022-08-15,Health,Android App,Bangalore,56,1,1447.8,5,0,149,7388.0,Delivered,3.0,1.0
+ORD100187,2022-08-15,Electronics,iOS App,Surat,32,0,18128.12,1,25,0,13596.09,Delivered,3.0,5.0
+ORD100188,2022-08-16,Books,Tablet,Nagpur,43,1,361.27,5,0,149,1955.35,Delivered,5.0,2.0
+ORD100189,2022-08-16,Health,Android App,Bhopal,55,1,1530.05,2,0,149,3209.1,Shipped,4.0,9.0
+ORD100190,2022-08-17,Toys,Android App,Lucknow,34,0,373.07,4,0,49,1541.28,Cancelled,4.0,
+ORD100191,2022-08-17,Health,Tablet,Kolkata,23,0,1179.8,2,5,0,2241.62,Returned,5.0,14.0
+ORD100192,2022-08-18,Books,Android App,Ahmedabad,56,0,213.76,2,15,49,412.39,Delivered,5.0,6.0
+ORD100193,2022-08-18,Home & Kitchen,Android App,Bangalore,31,0,2645.86,5,10,49,11955.37,Delivered,5.0,4.0
+ORD100194,2022-08-18,Automotive,Tablet,Surat,28,0,7938.99,4,20,149,25553.77,Delivered,3.0,5.0
+ORD100195,2022-08-19,Toys,Tablet,Bangalore,50,0,1142.48,5,0,49,5761.4,Delivered,5.0,1.0
+ORD100196,2022-08-19,Toys,Android App,Chennai,43,1,1283.5,1,0,99,1382.5,Delivered,4.0,5.0
+ORD100197,2022-08-20,Automotive,Tablet,Ahmedabad,19,1,7865.78,2,30,99,11111.09,Delivered,5.0,10.0
+ORD100198,2022-08-20,Electronics,Tablet,Ahmedabad,60,0,22681.78,1,5,0,21547.69,Returned,5.0,1.0
+ORD100199,2022-08-20,Food,Android App,Pune,42,1,479.42,3,20,49,1199.61,Delivered,1.0,11.0
+ORD100200,2022-08-21,Food,Web,Surat,30,0,326.53,3,10,149,1030.63,Delivered,4.0,12.0
+ORD100201,2022-08-21,Books,Android App,Indore,22,1,518.29,5,0,49,2640.45,Delivered,4.0,5.0
+ORD100202,2022-08-22,Electronics,iOS App,Indore,50,1,27031.41,2,30,49,37892.97,Delivered,4.0,11.0
+ORD100203,2022-08-22,Home & Kitchen,Android App,Ahmedabad,53,1,4936.63,4,0,149,19895.52,Delivered,3.0,7.0
+ORD100204,2022-08-22,Books,iOS App,Jaipur,53,1,579.21,5,10,49,2655.44,Delivered,5.0,14.0
+ORD100205,2022-08-23,Food,iOS App,Kolkata,47,0,326.28,1,0,149,475.28,Delivered,4.0,8.0
+ORD100206,2022-08-23,Home & Kitchen,Tablet,Indore,59,0,3875.3,3,10,0,10463.31,Shipped,4.0,9.0
+ORD100207,2022-08-24,Food,Web,Nagpur,46,0,368.27,2,5,99,798.71,Delivered,5.0,12.0
+ORD100208,2022-08-24,Electronics,Web,Mumbai,29,0,23262.29,1,0,99,23361.29,Shipped,5.0,4.0
+ORD100209,2022-08-24,Food,Android App,Kanpur,28,0,329.79,3,30,0,692.56,Shipped,4.0,10.0
+ORD100210,2022-08-25,Food,Android App,Mumbai,36,0,194.55,2,0,0,389.1,Delivered,3.0,12.0
+ORD100211,2022-08-25,Health,Tablet,Lucknow,52,1,785.36,2,5,0,1492.18,Delivered,4.0,4.0
+ORD100212,2022-08-26,Fashion,Web,Pune,19,0,1487.54,2,0,99,3074.08,Cancelled,3.0,
+ORD100213,2022-08-26,Health,Tablet,Ahmedabad,32,0,725.49,3,10,49,2007.82,Delivered,4.0,4.0
+ORD100214,2022-08-26,Food,Tablet,Kanpur,38,1,283.81,2,5,0,539.24,Delivered,5.0,9.0
+ORD100215,2022-08-27,Food,Web,Chennai,44,0,180.18,4,10,49,697.65,Delivered,4.0,5.0
+ORD100216,2022-08-27,Books,Tablet,Delhi,24,0,251.77,2,10,149,602.19,Processing,3.0,9.0
+ORD100217,2022-08-28,Books,Tablet,Jaipur,22,0,617.69,4,15,0,2100.15,Delivered,5.0,3.0
+ORD100218,2022-08-28,Books,Web,Nagpur,60,0,459.68,3,30,99,1064.33,Delivered,2.0,12.0
+ORD100219,2022-08-28,Electronics,Web,Delhi,22,0,25059.78,2,20,149,40244.65,Delivered,,2.0
+ORD100220,2022-08-29,Toys,Android App,Pune,21,0,362.12,5,0,49,1859.6,Delivered,5.0,5.0
+ORD100221,2022-08-29,Food,Android App,Jaipur,27,0,232.11,4,15,149,938.17,Delivered,5.0,12.0
+ORD100222,2022-08-30,Home & Kitchen,Tablet,Chennai,34,0,1579.56,3,0,49,4787.68,Delivered,4.0,2.0
+ORD100223,2022-08-30,Automotive,Tablet,Nagpur,28,0,2525.37,3,0,99,7675.11,Delivered,4.0,12.0
+ORD100224,2022-08-31,Fashion,Web,Jaipur,56,1,657.63,4,5,99,2597.99,Delivered,4.0,6.0
+ORD100225,2022-08-31,Fashion,Tablet,Ahmedabad,23,0,1538.74,4,5,0,5847.21,Delivered,,4.0
+ORD100226,2022-08-31,Food,Tablet,Bangalore,24,0,159.06,4,5,49,653.43,Delivered,2.0,12.0
+ORD100227,2022-09-01,Fashion,Android App,Delhi,23,0,2037.07,1,5,99,2034.22,Delivered,4.0,12.0
+ORD100228,2022-09-01,Books,iOS App,Bangalore,48,0,446.0,2,10,0,802.8,Delivered,5.0,13.0
+ORD100229,2022-09-02,Food,Android App,Mumbai,59,0,217.01,3,30,49,504.72,Delivered,4.0,8.0
+ORD100230,2022-09-02,Home & Kitchen,Android App,Jaipur,25,0,5273.96,3,0,99,15920.88,Delivered,5.0,3.0
+ORD100231,2022-09-02,Home & Kitchen,iOS App,Nagpur,44,1,3793.37,2,0,0,7586.74,Delivered,,10.0
+ORD100232,2022-09-03,Fashion,Web,Kanpur,35,1,1231.44,5,0,49,6206.2,Delivered,4.0,10.0
+ORD100233,2022-09-03,Toys,Android App,Chennai,47,1,946.35,2,0,0,1892.7,Delivered,1.0,13.0
+ORD100234,2022-09-04,Home & Kitchen,iOS App,Bangalore,48,1,4526.74,3,30,0,9506.15,Shipped,,11.0
+ORD100235,2022-09-04,Fashion,Web,Ahmedabad,31,0,1605.85,4,0,49,6472.4,Delivered,2.0,5.0
+ORD100236,2022-09-04,Books,iOS App,Kanpur,46,0,664.71,2,0,0,1329.42,Shipped,5.0,7.0
+ORD100237,2022-09-05,Electronics,Web,Kanpur,20,0,15464.41,3,5,49,44122.57,Delivered,3.0,10.0
+ORD100238,2022-09-05,Automotive,iOS App,Ahmedabad,40,0,5574.62,4,0,0,22298.48,Delivered,1.0,11.0
+ORD100239,2022-09-06,Toys,Tablet,Chennai,63,0,1251.8,2,5,149,2527.42,Delivered,4.0,5.0
+ORD100240,2022-09-06,Food,Android App,Ahmedabad,60,0,364.06,5,30,149,1423.21,Delivered,5.0,4.0
+ORD100241,2022-09-06,Food,Web,Kanpur,20,1,487.35,3,15,0,1242.74,Shipped,2.0,13.0
+ORD100242,2022-09-07,Automotive,iOS App,Indore,20,0,8441.23,4,5,0,32076.67,Delivered,4.0,14.0
+ORD100243,2022-09-07,Health,Android App,Delhi,56,1,1142.45,4,10,0,4112.82,Returned,4.0,5.0
+ORD100244,2022-09-08,Electronics,Tablet,Kanpur,27,1,21781.16,5,20,0,87124.64,Delivered,3.0,1.0
+ORD100245,2022-09-08,Fashion,iOS App,Kanpur,49,0,1330.95,4,0,99,5422.8,Delivered,3.0,9.0
+ORD100246,2022-09-08,Fashion,Tablet,Chennai,43,0,829.76,3,15,49,2164.89,Returned,,1.0
+ORD100247,2022-09-09,Electronics,Web,Mumbai,37,0,16659.99,4,10,49,60024.96,Delivered,5.0,3.0
+ORD100248,2022-09-09,Food,Tablet,Hyderabad,32,0,230.56,3,15,149,736.93,Shipped,4.0,8.0
+ORD100249,2022-09-10,Electronics,Web,Hyderabad,53,1,22756.8,5,0,99,113883.0,Delivered,4.0,6.0
+ORD100250,2022-09-10,Fashion,Android App,Delhi,30,1,1804.55,3,15,49,4650.6,Delivered,2.0,1.0
+ORD100251,2022-09-10,Food,Web,Chennai,53,0,476.51,4,15,99,1719.13,Delivered,4.0,5.0
+ORD100252,2022-09-11,Books,Tablet,Bangalore,28,0,216.72,2,10,49,439.1,Processing,4.0,10.0
+ORD100253,2022-09-11,Books,Web,Indore,59,1,420.47,1,0,99,519.47,Delivered,,11.0
+ORD100254,2022-09-12,Home & Kitchen,iOS App,Delhi,50,0,3293.88,3,0,0,9881.64,Delivered,4.0,11.0
+ORD100255,2022-09-12,Food,Android App,Jaipur,43,1,322.79,5,15,49,1420.86,Cancelled,4.0,
+ORD100256,2022-09-13,Home & Kitchen,Web,Hyderabad,22,0,2038.03,4,10,0,7336.91,Delivered,5.0,10.0
+ORD100257,2022-09-13,Automotive,Android App,Nagpur,28,0,6185.7,2,30,0,8659.98,Returned,4.0,5.0
+ORD100258,2022-09-13,Food,iOS App,Ahmedabad,47,0,371.38,5,5,49,1813.06,Delivered,5.0,10.0
+ORD100259,2022-09-14,Books,iOS App,Jaipur,44,0,339.74,4,0,99,1457.96,Shipped,5.0,1.0
+ORD100260,2022-09-14,Toys,iOS App,Pune,22,0,1032.96,3,15,49,2683.05,Delivered,2.0,6.0
+ORD100261,2022-09-15,Fashion,Tablet,Nagpur,22,0,1078.21,5,15,149,4731.39,Shipped,5.0,5.0
+ORD100262,2022-09-15,Automotive,iOS App,Lucknow,46,0,5269.79,4,5,49,20074.2,Processing,4.0,10.0
+ORD100263,2022-09-15,Food,Tablet,Jaipur,35,1,465.23,2,15,149,939.89,Delivered,3.0,4.0
+ORD100264,2022-09-16,Electronics,Web,Pune,40,0,8063.81,1,0,0,8063.81,Shipped,5.0,5.0
+ORD100265,2022-09-16,Fashion,Android App,Kolkata,46,1,1091.08,2,0,49,2231.16,Returned,5.0,8.0
+ORD100266,2022-09-17,Fashion,iOS App,Chennai,57,0,2284.31,1,0,0,2284.31,Shipped,2.0,10.0
+ORD100267,2022-09-17,Automotive,Android App,Surat,29,1,3602.82,1,0,0,3602.82,Cancelled,4.0,
+ORD100268,2022-09-17,Electronics,Tablet,Hyderabad,50,0,16441.68,3,10,0,44392.54,Shipped,5.0,13.0
+ORD100269,2022-09-18,Books,Android App,Hyderabad,58,1,413.4,5,0,99,2166.0,Delivered,5.0,14.0
+ORD100270,2022-09-18,Home & Kitchen,iOS App,Kolkata,60,0,4436.91,4,20,0,14198.11,Processing,4.0,9.0
+ORD100271,2022-09-19,Home & Kitchen,Web,Indore,63,0,4252.98,3,0,0,12758.94,Delivered,4.0,8.0
+ORD100272,2022-09-19,Electronics,Tablet,Kolkata,18,1,21602.15,2,10,0,38883.87,Delivered,5.0,8.0
+ORD100273,2022-09-19,Books,iOS App,Indore,21,0,668.72,4,5,99,2640.14,Delivered,5.0,2.0
+ORD100274,2022-09-20,Food,Web,Ahmedabad,58,1,272.29,3,0,49,865.87,Delivered,2.0,6.0
+ORD100275,2022-09-20,Home & Kitchen,iOS App,Delhi,27,1,3704.16,1,10,0,3333.74,Shipped,4.0,12.0
+ORD100276,2022-09-21,Automotive,Web,Jaipur,31,0,9729.81,3,30,0,20432.6,Shipped,4.0,10.0
+ORD100277,2022-09-21,Toys,Android App,Indore,40,0,484.56,1,25,99,462.42,Processing,5.0,1.0
+ORD100278,2022-09-21,Automotive,Tablet,Indore,48,1,9611.59,3,0,99,28933.77,Delivered,5.0,2.0
+ORD100279,2022-09-22,Health,iOS App,Bangalore,19,1,1730.18,1,5,49,1692.67,Delivered,5.0,12.0
+ORD100280,2022-09-22,Home & Kitchen,Android App,Hyderabad,48,0,5790.64,2,0,49,11630.28,Delivered,5.0,11.0
+ORD100281,2022-09-23,Home & Kitchen,Tablet,Lucknow,22,1,1801.63,5,5,0,8557.74,Delivered,4.0,6.0
+ORD100282,2022-09-23,Home & Kitchen,Tablet,Kolkata,35,1,4099.05,1,0,49,4148.05,Processing,5.0,14.0
+ORD100283,2022-09-23,Health,Web,Nagpur,60,0,1581.53,1,25,99,1285.15,Processing,,1.0
+ORD100284,2022-09-24,Books,Web,Ahmedabad,23,1,339.69,2,10,99,710.44,Delivered,5.0,11.0
+ORD100285,2022-09-24,Books,iOS App,Chennai,20,0,485.04,5,0,49,2474.2,Shipped,5.0,14.0
+ORD100286,2022-09-25,Home & Kitchen,iOS App,Hyderabad,40,0,2654.0,5,30,99,9388.0,Delivered,,7.0
+ORD100287,2022-09-25,Food,Web,Delhi,29,1,173.61,4,10,49,674.0,Cancelled,4.0,
+ORD100288,2022-09-26,Toys,Web,Hyderabad,29,1,1244.87,4,0,99,5078.48,Shipped,4.0,3.0
+ORD100289,2022-09-26,Food,Tablet,Kanpur,37,0,492.96,5,15,99,2194.08,Delivered,4.0,12.0
+ORD100290,2022-09-26,Food,Web,Chennai,26,0,151.15,2,10,99,371.07,Shipped,4.0,11.0
+ORD100291,2022-09-27,Health,iOS App,Kolkata,18,0,613.78,3,5,0,1749.27,Delivered,5.0,6.0
+ORD100292,2022-09-27,Fashion,Web,Bangalore,61,0,1659.49,1,0,49,1708.49,Shipped,4.0,4.0
+ORD100293,2022-09-28,Food,Android App,Ahmedabad,56,0,157.37,3,0,0,472.11,Shipped,3.0,7.0
+ORD100294,2022-09-28,Books,Android App,Bhopal,37,0,506.36,5,0,49,2580.8,Processing,4.0,7.0
+ORD100295,2022-09-28,Books,Android App,Kanpur,57,0,552.73,1,20,49,491.18,Delivered,3.0,6.0
+ORD100296,2022-09-29,Books,iOS App,Kanpur,64,0,392.68,4,0,99,1669.72,Processing,4.0,12.0
+ORD100297,2022-09-29,Fashion,Web,Chennai,36,1,1961.24,3,5,49,5638.53,Delivered,3.0,6.0
+ORD100298,2022-09-30,Toys,iOS App,Hyderabad,25,1,469.31,5,30,49,1691.58,Shipped,3.0,2.0
+ORD100299,2022-09-30,Fashion,Tablet,Delhi,27,0,1142.23,3,30,99,2497.68,Cancelled,4.0,
+ORD100300,2022-09-30,Toys,Web,Indore,63,0,1198.02,3,15,0,3054.95,Delivered,5.0,11.0
+ORD100301,2022-10-01,Automotive,Tablet,Bhopal,59,1,3162.61,1,15,0,2688.22,Delivered,5.0,1.0
+ORD100302,2022-10-01,Books,Tablet,Pune,50,0,324.67,3,25,0,730.51,Delivered,3.0,10.0
+ORD100303,2022-10-02,Books,Android App,Lucknow,49,0,501.11,5,15,99,2228.72,Shipped,,7.0
+ORD100304,2022-10-02,Toys,Tablet,Chennai,32,0,609.76,1,5,0,579.27,Delivered,3.0,10.0
+ORD100305,2022-10-02,Automotive,iOS App,Surat,42,1,6106.57,1,0,49,6155.57,Cancelled,5.0,
+ORD100306,2022-10-03,Fashion,Android App,Delhi,35,0,2106.94,5,0,0,10534.7,Returned,5.0,3.0
+ORD100307,2022-10-03,Books,Android App,Hyderabad,36,1,316.57,2,5,49,650.48,Delivered,5.0,8.0
+ORD100308,2022-10-04,Home & Kitchen,Android App,Pune,52,1,3461.33,4,0,149,13994.32,Delivered,4.0,1.0
+ORD100309,2022-10-04,Fashion,Android App,Bhopal,43,1,632.85,4,0,149,2680.4,Delivered,4.0,4.0
+ORD100310,2022-10-04,Fashion,Web,Ahmedabad,38,1,1875.07,3,0,0,5625.21,Delivered,5.0,1.0
+ORD100311,2022-10-05,Health,Tablet,Chennai,29,1,929.33,3,10,49,2558.19,Shipped,5.0,5.0
+ORD100312,2022-10-05,Automotive,Android App,Mumbai,48,1,8950.4,4,0,0,35801.6,Delivered,5.0,13.0
+ORD100313,2022-10-06,Health,Web,Bangalore,39,0,569.56,2,0,99,1238.12,Delivered,4.0,8.0
+ORD100314,2022-10-06,Electronics,Android App,Chennai,20,1,25100.18,1,10,49,22639.16,Delivered,,11.0
+ORD100315,2022-10-06,Books,Tablet,Hyderabad,50,0,602.24,5,0,0,3011.2,Shipped,,11.0
+ORD100316,2022-10-07,Food,Web,Bangalore,33,0,416.03,1,5,49,444.23,Delivered,5.0,2.0
+ORD100317,2022-10-07,Automotive,Tablet,Kanpur,37,0,8007.85,1,0,49,8056.85,Delivered,,14.0
+ORD100318,2022-10-08,Fashion,iOS App,Pune,64,1,1028.02,4,10,149,3849.87,Delivered,4.0,3.0
+ORD100319,2022-10-08,Toys,iOS App,Chennai,50,0,787.57,3,20,0,1890.17,Delivered,3.0,4.0
+ORD100320,2022-10-09,Health,iOS App,Ahmedabad,21,0,971.04,2,0,149,2091.08,Delivered,5.0,10.0
+ORD100321,2022-10-09,Home & Kitchen,Android App,Hyderabad,52,0,2584.67,1,20,0,2067.74,Delivered,5.0,7.0
+ORD100322,2022-10-09,Home & Kitchen,Web,Lucknow,31,1,3712.61,2,20,0,5940.18,Delivered,4.0,4.0
+ORD100323,2022-10-10,Toys,iOS App,Ahmedabad,53,0,1082.41,1,30,99,856.69,Delivered,4.0,5.0
+ORD100324,2022-10-10,Food,Tablet,Indore,34,0,304.52,3,20,49,779.85,Delivered,5.0,6.0
+ORD100325,2022-10-11,Home & Kitchen,Web,Surat,44,0,5885.09,3,10,149,16038.74,Cancelled,3.0,
+ORD100326,2022-10-11,Food,iOS App,Pune,50,1,390.78,5,0,49,2002.9,Delivered,5.0,12.0
+ORD100327,2022-10-11,Automotive,Android App,Bangalore,26,1,5820.24,5,0,49,29150.2,Delivered,,6.0
+ORD100328,2022-10-12,Fashion,iOS App,Delhi,24,0,1327.12,3,0,0,3981.36,Delivered,3.0,6.0
+ORD100329,2022-10-12,Home & Kitchen,Web,Surat,50,0,4126.23,3,5,149,11908.76,Delivered,5.0,2.0
+ORD100330,2022-10-13,Books,Android App,Mumbai,21,1,401.68,4,30,99,1223.7,Delivered,3.0,14.0
+ORD100331,2022-10-13,Toys,Web,Pune,56,0,583.04,2,0,99,1265.08,Shipped,4.0,9.0
+ORD100332,2022-10-13,Electronics,iOS App,Mumbai,38,1,19223.53,4,5,99,73148.41,Shipped,,4.0
+ORD100333,2022-10-14,Books,Android App,Pune,22,1,528.18,1,30,0,369.73,Delivered,3.0,1.0
+ORD100334,2022-10-14,Fashion,Android App,Indore,53,0,1245.2,5,0,149,6375.0,Processing,3.0,14.0
+ORD100335,2022-10-15,Fashion,Tablet,Delhi,60,1,1109.98,5,0,49,5598.9,Delivered,,1.0
+ORD100336,2022-10-15,Books,Tablet,Bhopal,21,0,289.13,5,0,99,1544.65,Shipped,3.0,3.0
+ORD100337,2022-10-15,Toys,Web,Bhopal,62,1,730.96,2,0,99,1560.92,Delivered,4.0,13.0
+ORD100338,2022-10-16,Books,iOS App,Nagpur,37,0,303.29,4,5,49,1201.5,Delivered,4.0,5.0
+ORD100339,2022-10-16,Books,Web,Lucknow,49,1,575.63,3,5,99,1739.55,Shipped,1.0,13.0
+ORD100340,2022-10-17,Books,Tablet,Bangalore,30,0,510.32,5,10,99,2395.44,Delivered,3.0,8.0
+ORD100341,2022-10-17,Toys,Web,Delhi,23,0,651.28,1,0,0,651.28,Delivered,5.0,8.0
+ORD100342,2022-10-17,Toys,Tablet,Indore,64,0,1391.42,2,10,99,2603.56,Shipped,4.0,14.0
+ORD100343,2022-10-18,Health,Web,Pune,48,1,1321.66,1,0,49,1370.66,Delivered,4.0,1.0
+ORD100344,2022-10-18,Fashion,Web,Kolkata,29,1,856.45,5,5,99,4167.14,Processing,5.0,5.0
+ORD100345,2022-10-19,Fashion,Tablet,Delhi,34,1,2092.81,1,0,99,2191.81,Delivered,4.0,5.0
+ORD100346,2022-10-19,Home & Kitchen,Web,Mumbai,53,1,4891.66,1,15,0,4157.91,Delivered,4.0,11.0
+ORD100347,2022-10-19,Electronics,iOS App,Jaipur,32,0,18750.64,1,10,0,16875.58,Delivered,,5.0
+ORD100348,2022-10-20,Health,Android App,Kolkata,50,1,765.18,5,0,0,3825.9,Processing,5.0,13.0
+ORD100349,2022-10-20,Toys,Android App,Lucknow,19,0,1201.42,3,10,99,3342.83,Delivered,5.0,11.0
+ORD100350,2022-10-21,Home & Kitchen,Tablet,Nagpur,64,0,2060.33,1,5,149,2106.31,Delivered,4.0,13.0
+ORD100351,2022-10-21,Books,iOS App,Mumbai,52,0,394.47,2,20,99,730.15,Delivered,5.0,12.0
+ORD100352,2022-10-22,Electronics,Android App,Bhopal,33,1,25889.76,3,30,99,54467.5,Shipped,5.0,11.0
+ORD100353,2022-10-22,Books,Tablet,Indore,44,0,595.76,5,0,49,3027.8,Delivered,4.0,5.0
+ORD100354,2022-10-22,Books,Web,Jaipur,26,0,505.69,2,5,49,1009.81,Shipped,4.0,11.0
+ORD100355,2022-10-23,Fashion,iOS App,Pune,39,0,613.94,1,0,149,762.94,Delivered,3.0,6.0
+ORD100356,2022-10-23,Toys,iOS App,Bangalore,34,0,699.78,4,15,0,2379.25,Delivered,,5.0
+ORD100357,2022-10-24,Home & Kitchen,Tablet,Chennai,36,0,5339.39,3,0,49,16067.17,Shipped,5.0,4.0
+ORD100358,2022-10-24,Toys,Android App,Lucknow,56,1,1107.43,1,5,0,1052.06,Delivered,4.0,13.0
+ORD100359,2022-10-24,Toys,Android App,Delhi,37,1,1201.13,3,20,0,2882.71,Delivered,4.0,11.0
+ORD100360,2022-10-25,Electronics,Web,Bhopal,18,1,8917.08,3,0,99,26850.24,Delivered,,1.0
+ORD100361,2022-10-25,Food,Tablet,Bangalore,39,0,477.79,2,20,0,764.46,Delivered,4.0,5.0
+ORD100362,2022-10-26,Fashion,Web,Kanpur,20,1,1012.29,2,0,49,2073.58,Processing,5.0,9.0
+ORD100363,2022-10-26,Health,iOS App,Nagpur,40,0,898.6,1,25,0,673.95,Cancelled,5.0,
+ORD100364,2022-10-26,Automotive,Android App,Hyderabad,49,1,8804.37,5,15,49,37467.57,Delivered,,5.0
+ORD100365,2022-10-27,Health,Tablet,Ahmedabad,22,0,998.4,1,0,0,998.4,Shipped,4.0,10.0
+ORD100366,2022-10-27,Health,iOS App,Jaipur,20,0,1318.15,3,0,149,4103.45,Cancelled,5.0,
+ORD100367,2022-10-28,Books,iOS App,Kanpur,35,0,464.99,1,5,49,490.74,Shipped,4.0,3.0
+ORD100368,2022-10-28,Fashion,Web,Mumbai,40,0,2158.94,5,10,99,9814.23,Shipped,,2.0
+ORD100369,2022-10-28,Toys,Android App,Chennai,21,1,513.93,2,0,49,1076.86,Delivered,1.0,13.0
+ORD100370,2022-10-29,Food,Web,Bangalore,33,0,161.67,5,25,0,606.26,Processing,5.0,10.0
+ORD100371,2022-10-29,Automotive,Android App,Hyderabad,54,1,7242.65,1,15,99,6255.25,Delivered,4.0,12.0
+ORD100372,2022-10-30,Fashion,Web,Lucknow,44,0,2120.36,2,30,0,2968.5,Delivered,5.0,8.0
+ORD100373,2022-10-30,Electronics,iOS App,Kolkata,42,0,28269.79,2,0,49,56588.58,Delivered,4.0,9.0
+ORD100374,2022-10-30,Automotive,iOS App,Ahmedabad,22,1,5499.44,1,5,49,5273.47,Delivered,3.0,5.0
+ORD100375,2022-10-31,Toys,Android App,Kolkata,55,1,1121.6,3,0,99,3463.8,Delivered,5.0,2.0
+ORD100376,2022-10-31,Home & Kitchen,iOS App,Mumbai,45,1,3258.54,3,0,149,9924.62,Delivered,4.0,11.0
+ORD100377,2022-11-01,Electronics,Web,Delhi,38,0,14674.7,3,0,0,44024.1,Delivered,4.0,3.0
+ORD100378,2022-11-01,Books,Tablet,Chennai,46,1,187.71,3,0,99,662.13,Processing,3.0,13.0
+ORD100379,2022-11-01,Fashion,Tablet,Mumbai,25,1,1050.2,1,10,49,994.18,Returned,,2.0
+ORD100380,2022-11-02,Fashion,iOS App,Nagpur,49,0,906.31,2,0,99,1911.62,Shipped,5.0,14.0
+ORD100381,2022-11-02,Fashion,iOS App,Bhopal,32,0,1083.5,3,0,149,3399.5,Delivered,5.0,7.0
+ORD100382,2022-11-03,Automotive,Web,Ahmedabad,19,0,4665.45,4,5,49,17777.71,Delivered,5.0,4.0
+ORD100383,2022-11-03,Fashion,Web,Surat,28,0,2146.04,2,15,0,3648.27,Delivered,5.0,4.0
+ORD100384,2022-11-04,Health,iOS App,Mumbai,35,1,724.56,3,15,99,1946.63,Delivered,4.0,10.0
+ORD100385,2022-11-04,Home & Kitchen,Android App,Mumbai,38,1,5186.84,5,10,49,23389.78,Delivered,3.0,12.0
+ORD100386,2022-11-04,Automotive,Android App,Surat,28,0,8945.07,4,0,149,35929.28,Delivered,5.0,7.0
+ORD100387,2022-11-05,Electronics,Android App,Kanpur,55,0,17934.97,1,10,49,16190.47,Delivered,5.0,7.0
+ORD100388,2022-11-05,Food,Web,Indore,30,1,396.69,2,10,149,863.04,Returned,2.0,13.0
+ORD100389,2022-11-06,Fashion,Web,Pune,23,0,1173.49,1,0,0,1173.49,Delivered,5.0,7.0
+ORD100390,2022-11-06,Automotive,iOS App,Kolkata,28,1,2633.28,5,0,99,13265.4,Delivered,4.0,5.0
+ORD100391,2022-11-06,Electronics,iOS App,Kanpur,36,0,23467.16,5,25,49,88050.85,Delivered,4.0,13.0
+ORD100392,2022-11-07,Fashion,Android App,Bangalore,20,1,1691.54,3,0,99,5173.62,Delivered,4.0,12.0
+ORD100393,2022-11-07,Fashion,Android App,Bhopal,22,0,1430.45,2,0,149,3009.9,Cancelled,,
+ORD100394,2022-11-08,Automotive,Web,Hyderabad,25,0,9240.18,4,0,99,37059.72,Delivered,3.0,1.0
+ORD100395,2022-11-08,Home & Kitchen,Tablet,Mumbai,36,0,4772.66,1,20,99,3917.13,Delivered,4.0,6.0
+ORD100396,2022-11-08,Books,Android App,Kanpur,62,0,398.43,4,5,0,1514.03,Delivered,4.0,14.0
+ORD100397,2022-11-09,Automotive,iOS App,Bhopal,45,0,2900.34,5,30,0,10151.19,Delivered,,14.0
+ORD100398,2022-11-09,Home & Kitchen,Android App,Ahmedabad,21,0,5442.39,1,20,49,4402.91,Delivered,4.0,10.0
+ORD100399,2022-11-10,Health,iOS App,Bangalore,21,0,1779.27,3,15,49,4586.14,Processing,4.0,7.0
+ORD100400,2022-11-10,Home & Kitchen,Web,Bangalore,22,1,4355.34,1,0,0,4355.34,Processing,,13.0
+ORD100401,2022-11-10,Fashion,Android App,Hyderabad,21,0,1982.76,4,0,99,8030.04,Delivered,5.0,9.0
+ORD100402,2022-11-11,Food,Web,Jaipur,41,0,314.76,4,20,99,1106.23,Cancelled,3.0,
+ORD100403,2022-11-11,Home & Kitchen,Web,Surat,52,0,2564.89,1,30,0,1795.42,Processing,3.0,6.0
+ORD100404,2022-11-12,Automotive,iOS App,Lucknow,38,1,9340.51,5,20,0,37362.04,Delivered,5.0,5.0
+ORD100405,2022-11-12,Books,Tablet,Lucknow,37,0,536.38,2,25,49,853.57,Delivered,4.0,10.0
+ORD100406,2022-11-12,Automotive,Android App,Chennai,45,1,6614.22,3,10,99,17957.39,Shipped,1.0,4.0
+ORD100407,2022-11-13,Electronics,Tablet,Bangalore,34,1,22846.9,2,5,149,43558.11,Delivered,4.0,11.0
+ORD100408,2022-11-13,Health,Tablet,Bhopal,56,0,1141.01,5,5,49,5468.8,Delivered,,4.0
+ORD100409,2022-11-14,Home & Kitchen,Tablet,Bangalore,50,0,1762.73,4,5,0,6698.37,Delivered,5.0,9.0
+ORD100410,2022-11-14,Food,Android App,Ahmedabad,64,0,372.67,5,0,99,1962.35,Delivered,5.0,5.0
+ORD100411,2022-11-14,Home & Kitchen,iOS App,Hyderabad,21,1,1523.48,2,0,0,3046.96,Delivered,3.0,4.0
+ORD100412,2022-11-15,Automotive,iOS App,Lucknow,38,0,4152.59,3,0,99,12556.77,Delivered,4.0,10.0
+ORD100413,2022-11-15,Books,Web,Hyderabad,58,0,256.89,3,0,49,819.67,Cancelled,,
+ORD100414,2022-11-16,Books,Android App,Delhi,49,1,353.56,2,0,149,856.12,Delivered,5.0,12.0
+ORD100415,2022-11-16,Toys,Android App,Hyderabad,54,1,1303.73,5,10,99,5965.78,Delivered,4.0,8.0
+ORD100416,2022-11-17,Toys,Tablet,Delhi,40,0,433.69,5,10,0,1951.6,Delivered,5.0,13.0
+ORD100417,2022-11-17,Books,Web,Bangalore,36,0,362.64,5,10,49,1680.88,Delivered,3.0,12.0
+ORD100418,2022-11-17,Fashion,Tablet,Ahmedabad,53,0,1967.21,3,15,0,5016.39,Delivered,4.0,13.0
+ORD100419,2022-11-18,Fashion,iOS App,Bhopal,40,1,2153.56,1,5,0,2045.88,Shipped,4.0,1.0
+ORD100420,2022-11-18,Health,Web,Chennai,37,0,1443.77,1,5,49,1420.58,Delivered,5.0,12.0
+ORD100421,2022-11-19,Fashion,iOS App,Kanpur,36,0,2337.38,3,5,49,6710.53,Delivered,5.0,8.0
+ORD100422,2022-11-19,Health,Tablet,Ahmedabad,23,1,1389.49,5,0,99,7046.45,Delivered,4.0,10.0
+ORD100423,2022-11-19,Food,iOS App,Bhopal,54,1,404.3,4,10,0,1455.48,Delivered,4.0,14.0
+ORD100424,2022-11-20,Automotive,Web,Ahmedabad,58,0,5665.51,4,15,49,19311.73,Delivered,5.0,8.0
+ORD100425,2022-11-20,Toys,iOS App,Delhi,19,1,667.16,4,0,149,2817.64,Delivered,3.0,10.0
+ORD100426,2022-11-21,Home & Kitchen,Android App,Kolkata,36,0,3578.44,5,20,49,14362.76,Delivered,2.0,14.0
+ORD100427,2022-11-21,Toys,iOS App,Delhi,49,1,1156.31,5,0,49,5830.55,Delivered,5.0,2.0
+ORD100428,2022-11-21,Electronics,Web,Chennai,25,0,22130.92,2,5,99,42147.75,Returned,5.0,11.0
+ORD100429,2022-11-22,Food,Web,Jaipur,32,0,414.46,4,20,99,1425.27,Shipped,4.0,10.0
+ORD100430,2022-11-22,Fashion,Web,Indore,63,1,1729.66,2,15,49,2989.42,Delivered,3.0,3.0
+ORD100431,2022-11-23,Health,Android App,Surat,54,0,1439.69,4,10,149,5331.88,Delivered,5.0,1.0
+ORD100432,2022-11-23,Books,iOS App,Pune,59,0,256.73,1,10,0,231.06,Delivered,3.0,9.0
+ORD100433,2022-11-23,Fashion,iOS App,Surat,64,1,1182.59,1,0,0,1182.59,Delivered,5.0,6.0
+ORD100434,2022-11-24,Electronics,iOS App,Chennai,50,0,20126.81,1,10,49,18163.13,Delivered,5.0,5.0
+ORD100435,2022-11-24,Toys,Android App,Delhi,31,0,367.37,3,10,0,991.9,Cancelled,5.0,
+ORD100436,2022-11-25,Health,Tablet,Kanpur,62,0,1681.6,5,0,0,8408.0,Delivered,4.0,8.0
+ORD100437,2022-11-25,Electronics,Android App,Nagpur,38,1,12888.52,3,0,0,38665.56,Processing,5.0,4.0
+ORD100438,2022-11-25,Electronics,Android App,Surat,43,0,9491.3,3,30,99,20030.73,Delivered,,2.0
+ORD100439,2022-11-26,Toys,Android App,Ahmedabad,43,0,1047.46,4,0,49,4238.84,Delivered,5.0,1.0
+ORD100440,2022-11-26,Toys,Web,Kolkata,43,0,553.43,5,20,99,2312.72,Delivered,4.0,4.0
+ORD100441,2022-11-27,Books,Tablet,Pune,43,0,470.02,3,0,0,1410.06,Delivered,,9.0
+ORD100442,2022-11-27,Fashion,Android App,Bhopal,54,1,1048.16,4,0,99,4291.64,Shipped,4.0,8.0
+ORD100443,2022-11-27,Fashion,Tablet,Ahmedabad,25,1,898.69,3,10,0,2426.46,Processing,3.0,11.0
+ORD100444,2022-11-28,Electronics,iOS App,Indore,38,0,24037.41,5,10,0,108168.34,Delivered,3.0,9.0
+ORD100445,2022-11-28,Fashion,Web,Mumbai,45,0,1299.07,3,5,99,3801.35,Delivered,4.0,5.0
+ORD100446,2022-11-29,Health,Android App,Pune,44,0,1225.49,5,0,0,6127.45,Delivered,3.0,13.0
+ORD100447,2022-11-29,Books,iOS App,Chennai,52,0,288.47,5,5,99,1469.23,Delivered,5.0,9.0
+ORD100448,2022-11-30,Electronics,Web,Delhi,33,0,19929.33,5,15,99,84798.65,Processing,1.0,9.0
+ORD100449,2022-11-30,Health,Tablet,Bhopal,62,0,1018.66,2,0,99,2136.32,Delivered,4.0,7.0
+ORD100450,2022-11-30,Toys,Android App,Mumbai,18,0,403.79,2,5,49,816.2,Delivered,5.0,6.0
+ORD100451,2022-12-01,Electronics,Tablet,Jaipur,52,0,23850.57,4,0,149,95551.28,Delivered,3.0,14.0
+ORD100452,2022-12-01,Toys,Web,Chennai,25,1,929.98,5,0,0,4649.9,Delivered,5.0,6.0
+ORD100453,2022-12-02,Fashion,Web,Delhi,46,0,2269.21,4,0,149,9225.84,Delivered,,12.0
+ORD100454,2022-12-02,Health,iOS App,Bhopal,19,1,1540.73,4,0,0,6162.92,Delivered,2.0,2.0
+ORD100455,2022-12-02,Books,Tablet,Hyderabad,28,1,474.84,3,15,49,1259.84,Delivered,4.0,14.0
+ORD100456,2022-12-03,Fashion,Android App,Pune,36,1,677.51,5,30,149,2520.28,Returned,2.0,11.0
+ORD100457,2022-12-03,Automotive,Tablet,Bangalore,22,0,8139.39,3,0,0,24418.17,Processing,5.0,12.0
+ORD100458,2022-12-04,Electronics,Tablet,Lucknow,33,0,19853.49,4,0,99,79512.96,Delivered,4.0,5.0
+ORD100459,2022-12-04,Automotive,Tablet,Indore,47,0,8762.74,3,30,49,18450.75,Shipped,,10.0
+ORD100460,2022-12-04,Home & Kitchen,iOS App,Pune,25,0,4099.85,5,0,149,20648.25,Delivered,5.0,11.0
+ORD100461,2022-12-05,Toys,Web,Nagpur,47,0,352.13,4,0,0,1408.52,Delivered,5.0,1.0
+ORD100462,2022-12-05,Toys,Tablet,Kolkata,39,0,1205.66,5,10,49,5474.47,Delivered,,10.0
+ORD100463,2022-12-06,Books,Android App,Jaipur,57,0,594.62,1,0,0,594.62,Delivered,3.0,13.0
+ORD100464,2022-12-06,Toys,iOS App,Nagpur,47,0,454.37,2,5,0,863.3,Delivered,5.0,12.0
+ORD100465,2022-12-06,Books,iOS App,Bhopal,38,1,534.01,5,25,99,2101.54,Returned,5.0,11.0
+ORD100466,2022-12-07,Health,Tablet,Surat,56,0,1160.24,1,10,99,1143.22,Delivered,5.0,13.0
+ORD100467,2022-12-07,Electronics,iOS App,Pune,26,0,20773.13,4,10,99,74882.27,Cancelled,5.0,
+ORD100468,2022-12-08,Books,Tablet,Ahmedabad,44,0,641.91,4,0,99,2666.64,Delivered,3.0,10.0
+ORD100469,2022-12-08,Electronics,Web,Nagpur,28,1,13115.29,2,0,99,26329.58,Delivered,5.0,4.0
+ORD100470,2022-12-08,Books,iOS App,Pune,39,1,181.91,1,20,49,194.53,Returned,5.0,13.0
+ORD100471,2022-12-09,Fashion,Web,Ahmedabad,40,0,975.41,1,25,49,780.56,Delivered,5.0,8.0
+ORD100472,2022-12-09,Books,Tablet,Kanpur,46,0,655.44,5,20,99,2720.76,Delivered,5.0,12.0
+ORD100473,2022-12-10,Automotive,Tablet,Nagpur,32,0,4085.67,1,0,99,4184.67,Delivered,4.0,4.0
+ORD100474,2022-12-10,Home & Kitchen,Web,Kolkata,49,0,4535.3,4,20,0,14512.96,Processing,,5.0
+ORD100475,2022-12-10,Books,Android App,Indore,26,0,589.58,1,0,49,638.58,Delivered,3.0,14.0
+ORD100476,2022-12-11,Automotive,Tablet,Nagpur,25,0,8599.08,2,10,0,15478.34,Cancelled,1.0,
+ORD100477,2022-12-11,Fashion,Android App,Kolkata,23,0,618.79,1,10,99,655.91,Delivered,4.0,3.0
+ORD100478,2022-12-12,Toys,Android App,Hyderabad,40,0,359.87,4,5,0,1367.51,Delivered,4.0,6.0
+ORD100479,2022-12-12,Health,iOS App,Bangalore,37,0,1785.16,1,5,99,1794.9,Processing,5.0,3.0
+ORD100480,2022-12-13,Home & Kitchen,Web,Delhi,56,0,3873.42,4,15,99,13268.63,Delivered,4.0,9.0
+ORD100481,2022-12-13,Home & Kitchen,Tablet,Bangalore,33,0,1786.67,5,20,149,7295.68,Delivered,5.0,1.0
+ORD100482,2022-12-13,Health,Tablet,Delhi,45,0,486.19,4,0,49,1993.76,Delivered,,1.0
+ORD100483,2022-12-14,Books,Tablet,Hyderabad,63,1,600.65,4,0,149,2551.6,Delivered,5.0,8.0
+ORD100484,2022-12-14,Books,Web,Bhopal,46,0,650.1,5,10,99,3024.45,Delivered,4.0,13.0
+ORD100485,2022-12-15,Toys,Android App,Chennai,58,0,900.72,5,0,0,4503.6,Delivered,,11.0
+ORD100486,2022-12-15,Books,iOS App,Pune,41,0,370.15,4,0,49,1529.6,Delivered,5.0,10.0
+ORD100487,2022-12-15,Automotive,iOS App,Pune,26,1,7767.67,3,0,49,23352.01,Delivered,5.0,9.0
+ORD100488,2022-12-16,Home & Kitchen,iOS App,Ahmedabad,39,1,1600.75,2,0,0,3201.5,Processing,4.0,3.0
+ORD100489,2022-12-16,Toys,Web,Ahmedabad,53,0,1293.86,4,5,49,4965.67,Shipped,5.0,3.0
+ORD100490,2022-12-17,Health,Android App,Jaipur,23,0,795.72,1,30,0,557.0,Delivered,2.0,9.0
+ORD100491,2022-12-17,Food,Android App,Delhi,40,0,196.59,5,20,99,885.36,Delivered,4.0,13.0
+ORD100492,2022-12-17,Books,Tablet,Hyderabad,42,1,338.17,5,5,49,1655.31,Delivered,1.0,1.0
+ORD100493,2022-12-18,Electronics,Tablet,Indore,61,0,8933.87,2,0,0,17867.74,Delivered,5.0,6.0
+ORD100494,2022-12-18,Books,Android App,Bhopal,63,0,379.52,4,10,99,1465.27,Delivered,1.0,3.0
+ORD100495,2022-12-19,Toys,Tablet,Mumbai,46,0,1100.49,4,5,149,4330.86,Delivered,4.0,2.0
+ORD100496,2022-12-19,Books,iOS App,Surat,27,0,436.56,5,15,149,2004.38,Delivered,5.0,5.0
+ORD100497,2022-12-19,Food,Web,Bangalore,27,1,375.49,5,5,149,1932.58,Delivered,4.0,3.0
+ORD100498,2022-12-20,Electronics,Tablet,Jaipur,46,0,12309.87,4,10,149,44464.53,Delivered,4.0,4.0
+ORD100499,2022-12-20,Home & Kitchen,iOS App,Mumbai,27,0,3290.51,5,0,49,16501.55,Cancelled,5.0,
+ORD100500,2022-12-21,Food,iOS App,Kanpur,49,1,319.81,2,20,49,560.7,Delivered,,11.0
+ORD100501,2022-12-21,Automotive,iOS App,Bhopal,63,1,6794.19,3,15,49,17374.18,Delivered,5.0,8.0
+ORD100502,2022-12-21,Fashion,Tablet,Delhi,26,0,935.51,1,0,149,1084.51,Delivered,5.0,8.0
+ORD100503,2022-12-22,Food,iOS App,Kolkata,61,0,427.88,5,30,0,1497.58,Delivered,4.0,9.0
+ORD100504,2022-12-22,Books,Android App,Bangalore,19,1,222.36,2,0,49,493.72,Delivered,2.0,4.0
+ORD100505,2022-12-23,Toys,Android App,Bangalore,40,1,453.2,3,0,0,1359.6,Delivered,4.0,2.0
+ORD100506,2022-12-23,Fashion,Android App,Kanpur,36,0,1049.46,1,15,149,1041.04,Delivered,,1.0
+ORD100507,2022-12-23,Electronics,Android App,Delhi,44,0,22221.16,2,10,49,40047.09,Delivered,4.0,13.0
+ORD100508,2022-12-24,Toys,Web,Delhi,40,0,430.94,4,0,149,1872.76,Delivered,4.0,13.0
+ORD100509,2022-12-24,Home & Kitchen,Tablet,Pune,43,1,1534.77,2,0,149,3218.54,Delivered,5.0,5.0
+ORD100510,2022-12-25,Fashion,iOS App,Hyderabad,23,0,1449.93,3,0,0,4349.79,Delivered,5.0,11.0
+ORD100511,2022-12-25,Toys,Web,Bhopal,53,0,713.99,3,0,99,2240.97,Delivered,4.0,4.0
+ORD100512,2022-12-26,Electronics,Web,Pune,62,0,11026.79,4,5,49,41950.8,Delivered,5.0,5.0
+ORD100513,2022-12-26,Automotive,iOS App,Jaipur,40,1,7419.43,2,0,49,14887.86,Processing,5.0,10.0
+ORD100514,2022-12-26,Electronics,Android App,Delhi,58,0,21932.21,3,5,0,62506.8,Delivered,,13.0
+ORD100515,2022-12-27,Fashion,Android App,Pune,23,0,819.41,1,10,99,836.47,Delivered,4.0,9.0
+ORD100516,2022-12-27,Books,Tablet,Chennai,52,1,295.65,3,15,49,802.91,Shipped,4.0,14.0
+ORD100517,2022-12-28,Home & Kitchen,Tablet,Pune,33,1,3142.41,1,25,99,2455.81,Shipped,2.0,14.0
+ORD100518,2022-12-28,Toys,iOS App,Hyderabad,49,0,1389.54,4,0,99,5657.16,Delivered,4.0,1.0
+ORD100519,2022-12-28,Electronics,Tablet,Delhi,44,0,24793.29,5,0,49,124015.45,Delivered,3.0,6.0
+ORD100520,2022-12-29,Food,Android App,Jaipur,20,0,251.44,3,0,0,754.32,Delivered,2.0,7.0
+ORD100521,2022-12-29,Books,Tablet,Ahmedabad,34,0,681.85,5,0,0,3409.25,Delivered,4.0,3.0
+ORD100522,2022-12-30,Toys,Web,Ahmedabad,38,0,827.68,2,5,0,1572.59,Shipped,4.0,3.0
+ORD100523,2022-12-30,Automotive,Android App,Kolkata,56,0,5352.49,5,0,149,26911.45,Delivered,4.0,14.0
+ORD100524,2022-12-30,Food,Android App,Ahmedabad,23,1,479.11,3,10,49,1342.6,Delivered,3.0,3.0
+ORD100525,2022-12-31,Health,Web,Lucknow,62,0,1443.84,3,30,99,3131.06,Delivered,4.0,7.0
+ORD100526,2022-12-31,Electronics,Android App,Chennai,20,1,19826.5,3,0,149,59628.5,Delivered,3.0,7.0
+ORD100527,2023-01-01,Health,Android App,Bangalore,29,1,1260.94,5,0,49,6353.7,Delivered,3.0,10.0
+ORD100528,2023-01-01,Books,Web,Lucknow,24,0,685.73,4,15,49,2380.48,Shipped,,8.0
+ORD100529,2023-01-01,Health,Tablet,Bangalore,59,0,656.42,3,15,149,1822.87,Delivered,4.0,1.0
+ORD100530,2023-01-02,Electronics,Tablet,Pune,44,1,15310.32,4,0,99,61340.28,Delivered,5.0,7.0
+ORD100531,2023-01-02,Health,iOS App,Jaipur,51,1,1018.37,3,10,0,2749.6,Shipped,3.0,5.0
+ORD100532,2023-01-03,Food,Web,Jaipur,50,0,494.26,5,0,99,2570.3,Delivered,4.0,2.0
+ORD100533,2023-01-03,Toys,Web,Kanpur,45,0,438.4,3,10,149,1332.68,Delivered,3.0,14.0
+ORD100534,2023-01-03,Food,Web,Ahmedabad,32,1,166.87,5,15,99,808.2,Delivered,4.0,8.0
+ORD100535,2023-01-04,Fashion,Web,Ahmedabad,24,0,1383.67,2,0,99,2866.34,Shipped,5.0,14.0
+ORD100536,2023-01-04,Toys,iOS App,Mumbai,38,1,527.71,3,0,99,1682.13,Delivered,5.0,13.0
+ORD100537,2023-01-05,Fashion,Android App,Kanpur,37,0,1832.69,4,10,99,6696.68,Delivered,4.0,14.0
+ORD100538,2023-01-05,Electronics,Android App,Chennai,38,0,15615.24,3,10,0,42161.15,Delivered,4.0,4.0
+ORD100539,2023-01-05,Automotive,Android App,Nagpur,64,0,8846.56,3,20,149,21380.74,Shipped,5.0,12.0
+ORD100540,2023-01-06,Fashion,Android App,Surat,24,0,1947.5,1,5,0,1850.12,Shipped,5.0,1.0
+ORD100541,2023-01-06,Books,Web,Indore,48,1,422.17,5,15,99,1893.22,Delivered,4.0,8.0
+ORD100542,2023-01-07,Fashion,Tablet,Indore,25,0,2120.96,2,15,49,3654.63,Delivered,4.0,13.0
+ORD100543,2023-01-07,Home & Kitchen,Web,Pune,45,0,1953.68,1,10,99,1857.31,Delivered,4.0,9.0
+ORD100544,2023-01-08,Fashion,iOS App,Pune,49,0,1645.98,5,0,99,8328.9,Delivered,4.0,3.0
+ORD100545,2023-01-08,Books,Android App,Indore,19,0,492.69,1,0,99,591.69,Delivered,4.0,2.0
+ORD100546,2023-01-08,Toys,Web,Indore,39,0,608.32,4,10,0,2189.95,Shipped,2.0,7.0
+ORD100547,2023-01-09,Toys,iOS App,Lucknow,33,0,402.1,2,0,99,903.2,Shipped,5.0,12.0
+ORD100548,2023-01-09,Food,Tablet,Indore,40,0,325.7,4,0,0,1302.8,Processing,4.0,13.0
+ORD100549,2023-01-10,Fashion,Web,Surat,40,1,1524.62,2,0,0,3049.24,Delivered,4.0,11.0
+ORD100550,2023-01-10,Books,Android App,Mumbai,40,1,518.15,4,25,49,1603.45,Processing,4.0,7.0
+ORD100551,2023-01-10,Health,Android App,Jaipur,48,0,737.45,5,10,149,3467.52,Delivered,5.0,10.0
+ORD100552,2023-01-11,Fashion,Web,Pune,27,1,923.36,3,20,149,2365.06,Shipped,4.0,11.0
+ORD100553,2023-01-11,Fashion,Web,Mumbai,58,1,2360.25,3,30,49,5005.52,Delivered,3.0,6.0
+ORD100554,2023-01-12,Home & Kitchen,Web,Jaipur,57,0,2011.6,4,15,99,6938.44,Cancelled,4.0,
+ORD100555,2023-01-12,Automotive,Web,Jaipur,39,1,9995.56,2,5,0,18991.56,Delivered,2.0,4.0
+ORD100556,2023-01-12,Health,Android App,Lucknow,60,0,1421.97,3,5,0,4052.61,Delivered,4.0,11.0
+ORD100557,2023-01-13,Health,iOS App,Kanpur,30,0,1299.59,4,15,99,4517.61,Delivered,4.0,12.0
+ORD100558,2023-01-13,Health,Android App,Hyderabad,27,1,908.71,1,20,99,825.97,Returned,4.0,3.0
+ORD100559,2023-01-14,Automotive,iOS App,Bhopal,31,1,9008.52,3,20,99,21719.45,Delivered,4.0,14.0
+ORD100560,2023-01-14,Health,iOS App,Kolkata,54,0,1678.58,3,5,0,4783.95,Delivered,4.0,1.0
+ORD100561,2023-01-14,Toys,Web,Kolkata,24,0,1107.98,2,15,49,1932.57,Delivered,4.0,6.0
+ORD100562,2023-01-15,Home & Kitchen,Tablet,Bangalore,32,0,4694.5,3,5,0,13379.32,Processing,2.0,7.0
+ORD100563,2023-01-15,Automotive,Web,Bhopal,24,0,6198.66,2,0,99,12496.32,Shipped,,1.0
+ORD100564,2023-01-16,Fashion,Tablet,Pune,38,1,740.1,3,0,49,2269.3,Delivered,5.0,11.0
+ORD100565,2023-01-16,Home & Kitchen,Web,Bangalore,32,0,5995.63,2,0,49,12040.26,Delivered,5.0,13.0
+ORD100566,2023-01-16,Home & Kitchen,Tablet,Nagpur,56,0,1570.0,5,0,49,7899.0,Delivered,3.0,4.0
+ORD100567,2023-01-17,Electronics,Android App,Bhopal,54,1,18646.44,4,15,0,63397.9,Delivered,,10.0
+ORD100568,2023-01-17,Health,Tablet,Chennai,59,0,945.63,4,0,49,3831.52,Delivered,5.0,14.0
+ORD100569,2023-01-18,Food,Tablet,Jaipur,37,0,416.05,5,25,99,1659.19,Shipped,4.0,10.0
+ORD100570,2023-01-18,Electronics,iOS App,Indore,42,0,24055.06,1,0,0,24055.06,Delivered,5.0,7.0
+ORD100571,2023-01-18,Food,Web,Surat,58,0,360.52,2,0,49,770.04,Delivered,4.0,14.0
+ORD100572,2023-01-19,Automotive,Android App,Kolkata,51,0,3060.54,1,5,149,3056.51,Delivered,,6.0
+ORD100573,2023-01-19,Food,Android App,Jaipur,62,0,213.82,4,0,0,855.28,Delivered,3.0,10.0
+ORD100574,2023-01-20,Fashion,Tablet,Delhi,64,1,769.49,2,0,0,1538.98,Shipped,5.0,11.0
+ORD100575,2023-01-20,Food,Web,Bhopal,21,0,492.12,4,0,99,2067.48,Delivered,,9.0
+ORD100576,2023-01-21,Books,Tablet,Ahmedabad,29,1,242.09,5,5,49,1198.93,Delivered,4.0,5.0
+ORD100577,2023-01-21,Health,Tablet,Mumbai,51,0,1755.71,2,0,149,3660.42,Delivered,5.0,10.0
+ORD100578,2023-01-21,Home & Kitchen,Android App,Pune,22,1,2007.2,2,10,0,3612.96,Shipped,2.0,5.0
+ORD100579,2023-01-22,Health,iOS App,Kolkata,22,1,1614.01,3,0,149,4991.03,Shipped,5.0,7.0
+ORD100580,2023-01-22,Health,Web,Bhopal,24,1,1225.75,3,0,49,3726.25,Shipped,4.0,8.0
+ORD100581,2023-01-23,Automotive,Web,Indore,21,0,8737.94,2,0,0,17475.88,Delivered,4.0,5.0
+ORD100582,2023-01-23,Home & Kitchen,Tablet,Hyderabad,49,0,4353.15,2,0,49,8755.3,Delivered,4.0,11.0
+ORD100583,2023-01-23,Fashion,iOS App,Bangalore,30,1,1983.91,2,15,49,3421.65,Delivered,5.0,4.0
+ORD100584,2023-01-24,Health,iOS App,Mumbai,62,1,1436.6,3,5,0,4094.31,Delivered,5.0,3.0
+ORD100585,2023-01-24,Automotive,Web,Jaipur,22,1,4451.4,3,10,0,12018.78,Delivered,4.0,11.0
+ORD100586,2023-01-25,Fashion,iOS App,Kolkata,39,0,2283.09,3,20,0,5479.42,Delivered,4.0,13.0
+ORD100587,2023-01-25,Automotive,Web,Ahmedabad,49,0,7327.35,2,0,49,14703.7,Shipped,4.0,4.0
+ORD100588,2023-01-25,Automotive,Tablet,Hyderabad,34,0,4015.63,4,20,0,12850.02,Delivered,5.0,8.0
+ORD100589,2023-01-26,Health,iOS App,Nagpur,51,0,863.16,3,15,0,2201.06,Shipped,3.0,14.0
+ORD100590,2023-01-26,Food,iOS App,Ahmedabad,57,1,324.89,2,15,49,601.31,Delivered,4.0,6.0
+ORD100591,2023-01-27,Books,Android App,Indore,48,0,637.96,4,20,99,2140.47,Delivered,,6.0
+ORD100592,2023-01-27,Electronics,Android App,Chennai,46,0,25426.95,5,0,149,127283.75,Delivered,,10.0
+ORD100593,2023-01-27,Toys,Web,Chennai,45,0,667.15,2,5,0,1267.58,Delivered,4.0,9.0
+ORD100594,2023-01-28,Health,Web,Jaipur,64,1,1379.46,3,5,149,4080.46,Delivered,4.0,2.0
+ORD100595,2023-01-28,Food,iOS App,Lucknow,54,0,125.62,5,10,99,664.29,Delivered,5.0,1.0
+ORD100596,2023-01-29,Electronics,Android App,Hyderabad,20,0,14984.42,2,0,149,30117.84,Shipped,4.0,6.0
+ORD100597,2023-01-29,Electronics,Tablet,Jaipur,54,1,26390.89,2,0,49,52830.78,Cancelled,2.0,
+ORD100598,2023-01-29,Toys,Tablet,Ahmedabad,25,1,508.76,2,30,49,761.26,Delivered,,9.0
+ORD100599,2023-01-30,Home & Kitchen,iOS App,Surat,58,0,3090.28,3,5,99,8906.3,Delivered,4.0,6.0
+ORD100600,2023-01-30,Electronics,Tablet,Surat,33,0,7523.47,3,0,49,22619.41,Delivered,4.0,2.0
+ORD100601,2023-01-31,Toys,Web,Chennai,50,0,374.29,4,0,149,1646.16,Cancelled,4.0,
+ORD100602,2023-01-31,Electronics,Web,Delhi,52,0,10785.43,2,10,149,19562.77,Cancelled,5.0,
+ORD100603,2023-01-31,Automotive,Android App,Hyderabad,34,0,3263.97,3,0,49,9840.91,Cancelled,5.0,
+ORD100604,2023-02-01,Home & Kitchen,Web,Delhi,63,0,3703.78,1,0,49,3752.78,Delivered,4.0,9.0
+ORD100605,2023-02-01,Toys,Web,Jaipur,42,0,1295.0,5,30,49,4581.5,Returned,5.0,6.0
+ORD100606,2023-02-02,Health,Tablet,Ahmedabad,37,0,564.27,2,0,99,1227.54,Delivered,5.0,8.0
+ORD100607,2023-02-02,Health,Tablet,Mumbai,41,1,1624.28,2,0,99,3347.56,Delivered,5.0,13.0
+ORD100608,2023-02-03,Home & Kitchen,Android App,Nagpur,32,1,4506.71,1,10,99,4155.04,Shipped,3.0,3.0
+ORD100609,2023-02-03,Fashion,Web,Lucknow,23,0,904.01,2,0,0,1808.02,Delivered,4.0,10.0
+ORD100610,2023-02-03,Toys,Web,Kolkata,64,0,654.22,5,0,149,3420.1,Shipped,5.0,2.0
+ORD100611,2023-02-04,Books,Web,Bangalore,56,0,276.95,3,10,49,796.76,Delivered,3.0,11.0
+ORD100612,2023-02-04,Food,iOS App,Bangalore,56,0,420.99,4,10,0,1515.56,Processing,4.0,6.0
+ORD100613,2023-02-05,Food,Tablet,Indore,60,0,396.91,3,5,0,1131.19,Delivered,5.0,11.0
+ORD100614,2023-02-05,Fashion,Android App,Chennai,46,0,1147.94,2,15,0,1951.5,Delivered,5.0,1.0
+ORD100615,2023-02-05,Home & Kitchen,Tablet,Nagpur,64,1,1744.5,4,20,49,5631.4,Shipped,3.0,10.0
+ORD100616,2023-02-06,Books,Tablet,Surat,64,1,263.59,2,10,0,474.46,Delivered,4.0,4.0
+ORD100617,2023-02-06,Books,Android App,Surat,29,1,505.69,4,10,0,1820.48,Delivered,5.0,6.0
+ORD100618,2023-02-07,Toys,Web,Nagpur,38,0,444.89,5,20,0,1779.56,Delivered,4.0,4.0
+ORD100619,2023-02-07,Home & Kitchen,Web,Indore,22,1,3914.09,1,0,0,3914.09,Shipped,4.0,6.0
+ORD100620,2023-02-07,Electronics,iOS App,Hyderabad,51,0,21290.9,1,5,149,20375.36,Cancelled,4.0,
+ORD100621,2023-02-08,Home & Kitchen,Android App,Bhopal,23,1,4594.89,4,0,49,18428.56,Shipped,1.0,1.0
+ORD100622,2023-02-08,Automotive,Tablet,Delhi,53,0,3440.17,1,0,0,3440.17,Shipped,4.0,9.0
+ORD100623,2023-02-09,Books,Tablet,Kanpur,55,1,416.35,4,25,49,1298.05,Shipped,,3.0
+ORD100624,2023-02-09,Home & Kitchen,Tablet,Pune,37,0,3585.28,2,0,99,7269.56,Delivered,4.0,6.0
+ORD100625,2023-02-09,Automotive,iOS App,Surat,47,0,8764.62,3,0,49,26342.86,Delivered,4.0,8.0
+ORD100626,2023-02-10,Fashion,Tablet,Nagpur,62,0,1443.69,4,0,49,5823.76,Delivered,4.0,2.0
+ORD100627,2023-02-10,Books,Tablet,Kolkata,53,0,388.57,2,10,99,798.43,Cancelled,4.0,
+ORD100628,2023-02-11,Fashion,Web,Delhi,38,1,822.23,5,20,0,3288.92,Delivered,4.0,10.0
+ORD100629,2023-02-11,Health,Android App,Nagpur,60,0,1387.53,5,0,0,6937.65,Returned,5.0,9.0
+ORD100630,2023-02-11,Food,iOS App,Delhi,19,1,357.42,2,20,149,720.87,Shipped,5.0,14.0
+ORD100631,2023-02-12,Books,Tablet,Lucknow,28,1,551.4,4,5,49,2144.32,Delivered,4.0,6.0
+ORD100632,2023-02-12,Food,Tablet,Kolkata,33,0,371.11,4,25,0,1113.33,Delivered,4.0,2.0
+ORD100633,2023-02-13,Automotive,Web,Ahmedabad,35,1,9064.63,2,20,0,14503.41,Delivered,4.0,12.0
+ORD100634,2023-02-13,Toys,Android App,Chennai,49,1,1271.21,5,0,99,6455.05,Delivered,4.0,9.0
+ORD100635,2023-02-13,Electronics,Tablet,Ahmedabad,55,0,14422.87,2,20,0,23076.59,Delivered,4.0,7.0
+ORD100636,2023-02-14,Fashion,Android App,Bangalore,20,0,928.34,2,0,49,1905.68,Shipped,4.0,2.0
+ORD100637,2023-02-14,Fashion,Tablet,Chennai,30,0,2267.66,4,5,49,8666.11,Delivered,4.0,4.0
+ORD100638,2023-02-15,Home & Kitchen,Android App,Ahmedabad,56,0,4708.68,1,0,0,4708.68,Shipped,4.0,9.0
+ORD100639,2023-02-15,Books,Tablet,Kanpur,41,1,684.76,5,0,49,3472.8,Delivered,5.0,2.0
+ORD100640,2023-02-16,Electronics,Tablet,Ahmedabad,32,0,18681.5,2,30,0,26154.1,Processing,4.0,8.0
+ORD100641,2023-02-16,Food,Tablet,Indore,38,1,485.84,3,15,49,1287.89,Processing,,12.0
+ORD100642,2023-02-16,Toys,Web,Hyderabad,46,1,478.85,4,10,0,1723.86,Delivered,4.0,7.0
+ORD100643,2023-02-17,Toys,Tablet,Mumbai,45,0,969.88,5,25,149,3786.05,Delivered,5.0,9.0
+ORD100644,2023-02-17,Toys,iOS App,Hyderabad,56,1,871.57,4,0,99,3585.28,Returned,5.0,4.0
+ORD100645,2023-02-18,Health,Android App,Delhi,64,1,453.57,2,0,0,907.14,Shipped,5.0,9.0
+ORD100646,2023-02-18,Food,Android App,Ahmedabad,55,0,197.34,4,20,0,631.49,Processing,5.0,3.0
+ORD100647,2023-02-18,Books,Android App,Bhopal,22,0,255.57,2,0,99,610.14,Delivered,1.0,11.0
+ORD100648,2023-02-19,Electronics,Web,Ahmedabad,37,1,8868.21,3,20,99,21382.7,Processing,4.0,8.0
+ORD100649,2023-02-19,Home & Kitchen,Tablet,Bangalore,40,0,5766.67,4,0,49,23115.68,Delivered,,9.0
+ORD100650,2023-02-20,Electronics,Android App,Jaipur,47,0,29220.76,3,0,0,87662.28,Delivered,4.0,5.0
+ORD100651,2023-02-20,Food,Android App,Kanpur,63,1,459.41,1,0,49,508.41,Shipped,5.0,5.0
+ORD100652,2023-02-20,Health,Android App,Indore,39,0,1784.99,1,0,0,1784.99,Delivered,5.0,10.0
+ORD100653,2023-02-21,Books,Android App,Ahmedabad,34,0,611.1,1,0,0,611.1,Delivered,4.0,9.0
+ORD100654,2023-02-21,Fashion,iOS App,Kolkata,60,1,2277.93,1,0,49,2326.93,Delivered,5.0,10.0
+ORD100655,2023-02-22,Toys,Android App,Ahmedabad,52,0,557.51,4,0,99,2329.04,Delivered,4.0,2.0
+ORD100656,2023-02-22,Toys,iOS App,Chennai,39,0,619.73,1,15,49,575.77,Delivered,1.0,3.0
+ORD100657,2023-02-22,Automotive,Tablet,Delhi,61,0,8965.5,2,5,0,17034.45,Delivered,5.0,5.0
+ORD100658,2023-02-23,Electronics,Web,Kanpur,32,0,18287.93,2,0,0,36575.86,Delivered,5.0,6.0
+ORD100659,2023-02-23,Toys,Web,Bangalore,29,0,1102.82,1,0,49,1151.82,Delivered,4.0,8.0
+ORD100660,2023-02-24,Home & Kitchen,Android App,Lucknow,19,1,4028.59,5,0,49,20191.95,Returned,3.0,8.0
+ORD100661,2023-02-24,Electronics,Android App,Jaipur,21,0,14376.87,1,0,99,14475.87,Delivered,5.0,1.0
+ORD100662,2023-02-24,Electronics,Android App,Ahmedabad,58,0,13908.78,1,5,49,13262.34,Delivered,5.0,1.0
+ORD100663,2023-02-25,Home & Kitchen,Android App,Pune,21,1,4866.81,2,0,49,9782.62,Returned,5.0,12.0
+ORD100664,2023-02-25,Toys,Web,Bhopal,53,1,908.7,1,30,49,685.09,Cancelled,4.0,
+ORD100665,2023-02-26,Fashion,Tablet,Kanpur,21,1,1246.89,2,0,149,2642.78,Delivered,4.0,1.0
+ORD100666,2023-02-26,Food,Tablet,Bangalore,28,0,356.39,1,5,149,487.57,Delivered,4.0,12.0
+ORD100667,2023-02-26,Food,Web,Bhopal,34,0,282.48,2,15,49,529.22,Delivered,3.0,6.0
+ORD100668,2023-02-27,Food,Web,Delhi,28,1,303.15,1,0,99,402.15,Delivered,5.0,10.0
+ORD100669,2023-02-27,Automotive,Android App,Nagpur,23,1,7584.32,5,0,0,37921.6,Processing,3.0,7.0
+ORD100670,2023-02-28,Home & Kitchen,iOS App,Kolkata,64,1,3560.84,4,0,0,14243.36,Returned,4.0,3.0
+ORD100671,2023-02-28,Books,Web,Kolkata,37,0,673.72,4,10,49,2474.39,Delivered,5.0,10.0
+ORD100672,2023-03-01,Electronics,Web,Ahmedabad,37,1,18416.83,3,20,99,44299.39,Delivered,4.0,6.0
+ORD100673,2023-03-01,Food,Android App,Ahmedabad,53,1,485.68,4,0,149,2091.72,Processing,5.0,3.0
+ORD100674,2023-03-01,Automotive,iOS App,Delhi,60,0,8857.66,5,20,99,35529.64,Processing,4.0,4.0
+ORD100675,2023-03-02,Electronics,Tablet,Bangalore,32,0,27545.87,1,5,99,26267.58,Shipped,4.0,12.0
+ORD100676,2023-03-02,Food,iOS App,Kanpur,39,0,411.23,3,15,0,1048.64,Delivered,5.0,8.0
+ORD100677,2023-03-03,Fashion,Android App,Lucknow,40,1,1688.15,1,0,149,1837.15,Shipped,5.0,6.0
+ORD100678,2023-03-03,Automotive,iOS App,Pune,30,0,6495.01,3,20,0,15588.02,Delivered,5.0,11.0
+ORD100679,2023-03-03,Electronics,Android App,Kolkata,23,0,19912.24,5,0,149,99710.2,Delivered,4.0,4.0
+ORD100680,2023-03-04,Toys,Android App,Pune,61,0,561.53,4,0,0,2246.12,Delivered,3.0,3.0
+ORD100681,2023-03-04,Food,iOS App,Nagpur,50,1,205.4,4,5,0,780.52,Delivered,5.0,2.0
+ORD100682,2023-03-05,Food,Tablet,Delhi,49,0,137.81,1,30,49,145.47,Delivered,5.0,2.0
+ORD100683,2023-03-05,Electronics,Android App,Surat,32,1,24275.11,5,0,0,121375.55,Delivered,3.0,13.0
+ORD100684,2023-03-05,Electronics,Web,Hyderabad,49,0,10309.43,4,0,0,41237.72,Delivered,4.0,13.0
+ORD100685,2023-03-06,Fashion,Tablet,Bangalore,24,0,1647.87,2,30,99,2406.02,Delivered,3.0,6.0
+ORD100686,2023-03-06,Automotive,iOS App,Bangalore,23,0,3534.42,2,20,99,5754.07,Delivered,3.0,7.0
+ORD100687,2023-03-07,Electronics,Android App,Kolkata,62,0,8997.3,3,10,0,24292.71,Returned,,6.0
+ORD100688,2023-03-07,Books,iOS App,Bangalore,28,1,455.14,4,5,49,1778.53,Shipped,4.0,8.0
+ORD100689,2023-03-07,Books,Web,Lucknow,54,0,633.38,3,5,49,1854.13,Delivered,4.0,3.0
+ORD100690,2023-03-08,Home & Kitchen,Android App,Hyderabad,31,1,3102.06,5,30,0,10857.21,Delivered,5.0,10.0
+ORD100691,2023-03-08,Books,Android App,Nagpur,48,1,657.59,2,0,49,1364.18,Delivered,,8.0
+ORD100692,2023-03-09,Home & Kitchen,Android App,Bangalore,46,1,1546.38,4,15,99,5356.69,Delivered,5.0,13.0
+ORD100693,2023-03-09,Electronics,Android App,Pune,51,1,17979.13,5,10,149,81055.09,Delivered,5.0,5.0
+ORD100694,2023-03-09,Books,Android App,Pune,62,0,252.05,4,30,49,754.74,Cancelled,,
+ORD100695,2023-03-10,Automotive,Android App,Lucknow,37,1,4868.35,2,10,99,8862.03,Delivered,3.0,3.0
+ORD100696,2023-03-10,Fashion,Web,Hyderabad,58,0,642.72,3,0,49,1977.16,Processing,5.0,2.0
+ORD100697,2023-03-11,Food,Android App,Bangalore,32,1,138.26,3,15,99,451.56,Shipped,4.0,11.0
+ORD100698,2023-03-11,Books,Tablet,Kolkata,63,0,549.23,2,30,99,867.92,Delivered,2.0,13.0
+ORD100699,2023-03-11,Home & Kitchen,Tablet,Indore,41,0,4445.43,1,25,49,3383.07,Processing,2.0,13.0
+ORD100700,2023-03-12,Books,Web,Nagpur,57,1,284.38,1,0,0,284.38,Delivered,3.0,1.0
+ORD100701,2023-03-12,Food,Tablet,Jaipur,56,1,462.93,4,0,149,2000.72,Delivered,5.0,5.0
+ORD100702,2023-03-13,Automotive,Web,Bhopal,47,0,7659.83,2,15,99,13120.71,Shipped,5.0,7.0
+ORD100703,2023-03-13,Automotive,Web,Kanpur,63,0,5021.3,4,10,99,18175.68,Delivered,3.0,5.0
+ORD100704,2023-03-14,Electronics,Web,Kanpur,49,0,16672.2,4,0,49,66737.8,Delivered,5.0,5.0
+ORD100705,2023-03-14,Food,Android App,Pune,46,1,234.71,3,0,0,704.13,Processing,5.0,6.0
+ORD100706,2023-03-14,Toys,Web,Ahmedabad,29,0,1222.13,2,0,49,2493.26,Delivered,2.0,1.0
+ORD100707,2023-03-15,Fashion,Android App,Bhopal,35,0,1489.13,5,0,49,7494.65,Cancelled,5.0,
+ORD100708,2023-03-15,Books,iOS App,Indore,18,1,246.04,1,0,49,295.04,Delivered,2.0,5.0
+ORD100709,2023-03-16,Automotive,Tablet,Lucknow,51,0,4012.85,2,30,0,5617.99,Delivered,4.0,9.0
+ORD100710,2023-03-16,Health,Web,Delhi,46,0,850.38,4,10,99,3160.37,Delivered,4.0,12.0
+ORD100711,2023-03-16,Health,iOS App,Bangalore,50,1,994.26,5,0,49,5020.3,Delivered,,3.0
+ORD100712,2023-03-17,Home & Kitchen,Android App,Kolkata,47,1,4166.88,3,10,99,11349.58,Returned,3.0,3.0
+ORD100713,2023-03-17,Fashion,Web,Jaipur,29,0,2335.5,4,5,0,8874.9,Delivered,4.0,9.0
+ORD100714,2023-03-18,Food,iOS App,Surat,64,0,223.22,2,15,49,428.47,Delivered,5.0,14.0
+ORD100715,2023-03-18,Automotive,Android App,Hyderabad,38,1,4963.03,5,20,0,19852.12,Delivered,5.0,6.0
+ORD100716,2023-03-18,Home & Kitchen,Android App,Kanpur,50,0,1607.78,3,0,99,4922.34,Delivered,,13.0
+ORD100717,2023-03-19,Electronics,iOS App,Nagpur,24,0,15882.42,4,30,49,44519.78,Delivered,4.0,1.0
+ORD100718,2023-03-19,Health,Web,Chennai,46,0,1361.35,1,0,49,1410.35,Delivered,5.0,11.0
+ORD100719,2023-03-20,Automotive,iOS App,Kanpur,36,0,9722.96,3,15,149,24942.55,Delivered,5.0,14.0
+ORD100720,2023-03-20,Fashion,Web,Bangalore,61,1,1932.34,4,25,49,5846.02,Delivered,4.0,11.0
+ORD100721,2023-03-20,Toys,Tablet,Ahmedabad,53,1,473.9,3,15,49,1257.44,Returned,5.0,2.0
+ORD100722,2023-03-21,Automotive,Android App,Indore,61,1,9175.29,5,0,99,45975.45,Delivered,4.0,1.0
+ORD100723,2023-03-21,Books,iOS App,Hyderabad,32,0,615.31,5,0,49,3125.55,Processing,5.0,6.0
+ORD100724,2023-03-22,Fashion,iOS App,Lucknow,49,0,940.24,1,0,99,1039.24,Delivered,4.0,8.0
+ORD100725,2023-03-22,Fashion,Web,Nagpur,47,0,2281.82,5,0,149,11558.1,Delivered,4.0,10.0
+ORD100726,2023-03-22,Electronics,iOS App,Ahmedabad,29,1,23567.23,2,0,99,47233.46,Delivered,,13.0
+ORD100727,2023-03-23,Food,Web,Nagpur,33,0,418.56,3,0,0,1255.68,Delivered,,9.0
+ORD100728,2023-03-23,Books,Android App,Surat,49,1,416.05,3,10,0,1123.34,Processing,4.0,4.0
+ORD100729,2023-03-24,Electronics,Web,Ahmedabad,24,0,12015.38,4,0,149,48210.52,Shipped,5.0,1.0
+ORD100730,2023-03-24,Food,Web,Delhi,36,0,424.66,3,5,0,1210.28,Delivered,,14.0
+ORD100731,2023-03-24,Automotive,Web,Lucknow,52,0,6080.82,3,15,49,15555.09,Shipped,3.0,9.0
+ORD100732,2023-03-25,Electronics,Web,Hyderabad,57,0,29267.18,3,0,149,87950.54,Delivered,5.0,10.0
+ORD100733,2023-03-25,Toys,iOS App,Hyderabad,45,0,511.0,2,10,99,1018.8,Delivered,4.0,11.0
+ORD100734,2023-03-26,Home & Kitchen,Web,Indore,49,0,3099.32,3,15,0,7903.27,Delivered,5.0,12.0
+ORD100735,2023-03-26,Fashion,Web,Pune,56,0,1923.98,1,5,99,1926.78,Cancelled,3.0,
+ORD100736,2023-03-27,Fashion,Web,Pune,28,0,1630.11,1,5,49,1597.6,Delivered,5.0,13.0
+ORD100737,2023-03-27,Health,Android App,Bhopal,49,0,1034.92,4,15,149,3667.73,Delivered,4.0,3.0
+ORD100738,2023-03-27,Automotive,Web,Hyderabad,52,1,7762.08,2,5,49,14796.95,Processing,4.0,5.0
+ORD100739,2023-03-28,Food,iOS App,Kanpur,56,1,400.01,4,5,49,1569.04,Delivered,5.0,1.0
+ORD100740,2023-03-28,Toys,iOS App,Ahmedabad,46,0,956.16,4,20,0,3059.71,Delivered,2.0,2.0
+ORD100741,2023-03-29,Food,Android App,Delhi,25,0,244.66,4,20,0,782.91,Delivered,,14.0
+ORD100742,2023-03-29,Electronics,Web,Jaipur,20,1,21422.09,3,0,49,64315.27,Delivered,4.0,6.0
+ORD100743,2023-03-29,Electronics,Tablet,Kolkata,46,1,19767.96,3,5,99,56437.69,Delivered,4.0,10.0
+ORD100744,2023-03-30,Fashion,Web,Lucknow,31,1,2035.78,4,20,49,6563.5,Delivered,5.0,8.0
+ORD100745,2023-03-30,Electronics,Tablet,Pune,35,0,22202.8,2,5,149,42334.32,Delivered,3.0,7.0
+ORD100746,2023-03-31,Automotive,iOS App,Chennai,39,1,6225.79,3,10,0,16809.63,Delivered,5.0,3.0
+ORD100747,2023-03-31,Electronics,iOS App,Chennai,53,1,7920.86,2,0,49,15890.72,Delivered,4.0,11.0
+ORD100748,2023-03-31,Books,Web,Ahmedabad,34,0,262.64,2,0,49,574.28,Delivered,5.0,11.0
+ORD100749,2023-04-01,Automotive,iOS App,Bhopal,45,0,5024.46,1,5,99,4872.24,Shipped,5.0,3.0
+ORD100750,2023-04-01,Food,Tablet,Kolkata,41,1,350.52,1,20,49,329.42,Delivered,4.0,5.0
+ORD100751,2023-04-02,Electronics,Android App,Bangalore,20,1,25328.07,1,0,49,25377.07,Delivered,4.0,14.0
+ORD100752,2023-04-02,Electronics,Android App,Nagpur,50,0,29098.97,4,30,0,81477.12,Delivered,3.0,12.0
+ORD100753,2023-04-02,Fashion,iOS App,Hyderabad,43,1,1679.65,4,15,99,5809.81,Delivered,,10.0
+ORD100754,2023-04-03,Fashion,Tablet,Kolkata,28,0,1911.92,1,15,149,1774.13,Delivered,4.0,14.0
+ORD100755,2023-04-03,Books,Tablet,Nagpur,52,1,501.26,4,20,99,1703.03,Shipped,4.0,13.0
+ORD100756,2023-04-04,Home & Kitchen,iOS App,Delhi,22,0,3436.25,4,0,99,13844.0,Shipped,2.0,9.0
+ORD100757,2023-04-04,Food,Android App,Delhi,30,0,353.63,5,0,99,1867.15,Shipped,5.0,8.0
+ORD100758,2023-04-04,Books,iOS App,Chennai,29,0,385.35,5,0,99,2025.75,Delivered,4.0,10.0
+ORD100759,2023-04-05,Home & Kitchen,Web,Pune,48,0,3541.38,1,0,99,3640.38,Shipped,3.0,12.0
+ORD100760,2023-04-05,Books,Android App,Nagpur,64,1,653.28,3,0,0,1959.84,Delivered,5.0,14.0
+ORD100761,2023-04-06,Toys,iOS App,Surat,57,1,942.05,5,15,49,4052.71,Delivered,,5.0
+ORD100762,2023-04-06,Home & Kitchen,Web,Kanpur,24,0,1951.85,2,20,149,3271.96,Delivered,5.0,5.0
+ORD100763,2023-04-06,Electronics,Tablet,Pune,21,0,19284.73,3,0,149,58003.19,Processing,5.0,2.0
+ORD100764,2023-04-07,Books,Android App,Kolkata,55,0,675.46,1,5,99,740.69,Delivered,4.0,1.0
+ORD100765,2023-04-07,Health,Android App,Kolkata,45,0,585.06,2,10,49,1102.11,Processing,3.0,5.0
+ORD100766,2023-04-08,Home & Kitchen,Tablet,Delhi,34,0,5870.34,5,15,99,25047.94,Delivered,4.0,4.0
+ORD100767,2023-04-08,Health,Android App,Jaipur,59,0,1783.31,4,30,0,4993.27,Processing,5.0,13.0
+ORD100768,2023-04-09,Home & Kitchen,Tablet,Hyderabad,26,0,4023.21,2,0,0,8046.42,Delivered,4.0,7.0
+ORD100769,2023-04-09,Food,Android App,Bhopal,23,1,249.66,5,0,49,1297.3,Delivered,4.0,10.0
+ORD100770,2023-04-09,Food,Web,Lucknow,41,1,128.24,2,20,49,254.18,Delivered,5.0,3.0
+ORD100771,2023-04-10,Toys,iOS App,Indore,30,0,366.28,2,0,49,781.56,Delivered,5.0,7.0
+ORD100772,2023-04-10,Automotive,Android App,Bangalore,28,1,5410.72,3,15,99,13896.34,Delivered,3.0,12.0
+ORD100773,2023-04-11,Fashion,iOS App,Delhi,47,0,2009.53,4,0,99,8137.12,Delivered,5.0,4.0
+ORD100774,2023-04-11,Toys,iOS App,Kolkata,32,0,1339.49,2,5,0,2545.03,Delivered,4.0,6.0
+ORD100775,2023-04-11,Books,Android App,Jaipur,45,0,256.26,2,10,0,461.27,Delivered,5.0,9.0
+ORD100776,2023-04-12,Automotive,iOS App,Jaipur,44,0,6158.14,4,15,99,21036.68,Delivered,,3.0
+ORD100777,2023-04-12,Fashion,Web,Surat,55,0,1503.11,2,0,149,3155.22,Delivered,3.0,9.0
+ORD100778,2023-04-13,Electronics,Android App,Nagpur,63,1,16056.83,1,20,149,12994.46,Delivered,5.0,9.0
+ORD100779,2023-04-13,Electronics,Android App,Hyderabad,47,1,19649.01,1,20,0,15719.21,Cancelled,5.0,
+ORD100780,2023-04-13,Health,Tablet,Hyderabad,31,0,1698.78,2,15,49,2936.93,Delivered,,3.0
+ORD100781,2023-04-14,Food,Web,Chennai,45,1,289.45,1,25,99,316.09,Shipped,4.0,11.0
+ORD100782,2023-04-14,Food,iOS App,Pune,40,1,176.67,1,20,0,141.34,Delivered,3.0,12.0
+ORD100783,2023-04-15,Books,Tablet,Jaipur,39,1,524.36,4,15,99,1881.82,Delivered,1.0,4.0
+ORD100784,2023-04-15,Fashion,iOS App,Nagpur,34,0,656.47,3,10,49,1821.47,Delivered,5.0,2.0
+ORD100785,2023-04-15,Automotive,Android App,Kolkata,21,0,9550.86,1,20,99,7739.69,Delivered,3.0,8.0
+ORD100786,2023-04-16,Health,iOS App,Kolkata,29,1,1718.85,2,30,0,2406.39,Delivered,4.0,3.0
+ORD100787,2023-04-16,Fashion,Web,Indore,45,1,765.86,4,10,49,2806.1,Delivered,,5.0
+ORD100788,2023-04-17,Toys,Android App,Pune,21,0,928.43,5,0,49,4691.15,Delivered,4.0,10.0
+ORD100789,2023-04-17,Food,Tablet,Bangalore,25,1,424.02,5,0,49,2169.1,Delivered,4.0,3.0
+ORD100790,2023-04-17,Automotive,Tablet,Pune,44,1,5984.34,2,15,0,10173.38,Cancelled,5.0,
+ORD100791,2023-04-18,Food,Android App,Mumbai,64,0,304.54,5,30,49,1114.89,Delivered,4.0,5.0
+ORD100792,2023-04-18,Food,iOS App,Pune,25,1,488.83,3,0,49,1515.49,Delivered,4.0,11.0
+ORD100793,2023-04-19,Toys,Android App,Indore,21,1,592.03,2,30,0,828.84,Delivered,3.0,12.0
+ORD100794,2023-04-19,Health,Web,Nagpur,34,0,1160.52,3,0,49,3530.56,Delivered,4.0,13.0
+ORD100795,2023-04-19,Fashion,iOS App,Indore,21,1,806.94,1,5,0,766.59,Processing,3.0,2.0
+ORD100796,2023-04-20,Toys,Web,Hyderabad,60,0,667.56,3,25,149,1651.01,Shipped,5.0,11.0
+ORD100797,2023-04-20,Food,Android App,Kolkata,55,0,444.09,3,30,0,932.59,Delivered,4.0,4.0
+ORD100798,2023-04-21,Automotive,Android App,Nagpur,23,0,7873.36,3,10,99,21357.07,Cancelled,4.0,
+ORD100799,2023-04-21,Food,Android App,Kanpur,22,0,354.5,1,30,49,297.15,Delivered,,8.0
+ORD100800,2023-04-22,Electronics,Web,Bangalore,43,0,10062.49,1,20,0,8049.99,Delivered,5.0,13.0
+ORD100801,2023-04-22,Electronics,iOS App,Nagpur,37,0,26640.72,2,20,149,42774.15,Delivered,5.0,6.0
+ORD100802,2023-04-22,Automotive,Web,Delhi,50,0,4735.82,5,20,99,19042.28,Delivered,,5.0
+ORD100803,2023-04-23,Food,Android App,Chennai,61,0,325.62,3,0,99,1075.86,Delivered,4.0,12.0
+ORD100804,2023-04-23,Health,Android App,Ahmedabad,33,0,765.19,3,0,0,2295.57,Delivered,5.0,5.0
+ORD100805,2023-04-24,Food,Web,Surat,55,0,320.28,4,0,0,1281.12,Delivered,,11.0
+ORD100806,2023-04-24,Toys,Android App,Kanpur,33,0,940.25,3,0,0,2820.75,Delivered,5.0,1.0
+ORD100807,2023-04-24,Electronics,Tablet,Kanpur,28,0,15160.54,2,0,49,30370.08,Cancelled,4.0,
+ORD100808,2023-04-25,Health,Web,Hyderabad,63,0,1132.99,5,0,149,5813.95,Shipped,5.0,13.0
+ORD100809,2023-04-25,Books,Tablet,Pune,29,1,388.18,2,0,49,825.36,Delivered,3.0,4.0
+ORD100810,2023-04-26,Automotive,iOS App,Lucknow,24,1,7731.22,4,10,49,27881.39,Shipped,3.0,14.0
+ORD100811,2023-04-26,Home & Kitchen,iOS App,Bhopal,45,1,3947.51,5,0,0,19737.55,Delivered,5.0,1.0
+ORD100812,2023-04-26,Electronics,Android App,Indore,45,0,27256.71,4,0,49,109075.84,Delivered,2.0,2.0
+ORD100813,2023-04-27,Books,iOS App,Bhopal,40,1,201.06,5,0,0,1005.3,Cancelled,2.0,
+ORD100814,2023-04-27,Books,iOS App,Lucknow,22,0,188.99,1,0,49,237.99,Delivered,4.0,5.0
+ORD100815,2023-04-28,Food,Web,Ahmedabad,23,1,195.71,4,10,149,853.56,Delivered,4.0,9.0
+ORD100816,2023-04-28,Fashion,Web,Kanpur,53,0,813.44,1,20,49,699.75,Processing,4.0,13.0
+ORD100817,2023-04-28,Automotive,Tablet,Delhi,25,1,6444.22,3,15,0,16432.76,Delivered,5.0,2.0
+ORD100818,2023-04-29,Electronics,Web,Bhopal,30,1,12003.02,1,10,0,10802.72,Delivered,5.0,11.0
+ORD100819,2023-04-29,Electronics,Web,Indore,55,1,7861.09,4,30,49,22060.05,Processing,5.0,12.0
+ORD100820,2023-04-30,Books,Tablet,Ahmedabad,33,1,323.38,2,15,0,549.75,Delivered,2.0,9.0
+ORD100821,2023-04-30,Health,Tablet,Ahmedabad,34,0,1137.42,1,0,149,1286.42,Delivered,4.0,14.0
+ORD100822,2023-04-30,Food,Web,Ahmedabad,61,0,392.85,5,0,49,2013.25,Cancelled,,
+ORD100823,2023-05-01,Health,Tablet,Bangalore,55,0,1041.83,5,10,49,4737.23,Processing,4.0,11.0
+ORD100824,2023-05-01,Electronics,Android App,Chennai,51,0,29161.07,1,10,99,26343.96,Processing,4.0,6.0
+ORD100825,2023-05-02,Books,iOS App,Lucknow,26,1,279.71,2,20,0,447.54,Delivered,,6.0
+ORD100826,2023-05-02,Food,Web,Mumbai,31,1,317.77,1,0,0,317.77,Processing,4.0,9.0
+ORD100827,2023-05-02,Toys,Tablet,Lucknow,46,1,615.84,4,30,99,1823.35,Delivered,4.0,12.0
+ORD100828,2023-05-03,Electronics,Android App,Hyderabad,57,1,25650.03,5,5,0,121837.64,Delivered,4.0,7.0
+ORD100829,2023-05-03,Toys,iOS App,Bangalore,41,0,547.15,2,25,0,820.72,Delivered,5.0,4.0
+ORD100830,2023-05-04,Toys,iOS App,Jaipur,52,1,1359.68,3,5,149,4024.09,Delivered,4.0,4.0
+ORD100831,2023-05-04,Home & Kitchen,iOS App,Hyderabad,33,1,4724.73,4,0,99,18997.92,Delivered,5.0,14.0
+ORD100832,2023-05-05,Health,iOS App,Kolkata,35,1,1201.77,3,0,0,3605.31,Cancelled,5.0,
+ORD100833,2023-05-05,Home & Kitchen,Tablet,Nagpur,46,0,3895.57,4,0,149,15731.28,Delivered,5.0,6.0
+ORD100834,2023-05-05,Electronics,Web,Lucknow,44,0,15655.58,4,0,0,62622.32,Delivered,3.0,8.0
+ORD100835,2023-05-06,Food,iOS App,Bhopal,23,0,132.88,4,20,99,524.22,Delivered,2.0,10.0
+ORD100836,2023-05-06,Home & Kitchen,Android App,Pune,36,0,5618.06,4,0,49,22521.24,Delivered,5.0,1.0
+ORD100837,2023-05-07,Home & Kitchen,Web,Kolkata,58,0,5077.22,3,0,49,15280.66,Delivered,,1.0
+ORD100838,2023-05-07,Fashion,Android App,Lucknow,43,0,842.74,2,0,99,1784.48,Shipped,3.0,9.0
+ORD100839,2023-05-07,Books,Android App,Bangalore,52,0,239.09,4,10,0,860.72,Delivered,4.0,9.0
+ORD100840,2023-05-08,Toys,Android App,Nagpur,56,0,673.51,1,0,149,822.51,Delivered,5.0,7.0
+ORD100841,2023-05-08,Food,Android App,Pune,31,0,411.18,3,0,0,1233.54,Delivered,5.0,5.0
+ORD100842,2023-05-09,Automotive,iOS App,Ahmedabad,29,1,6273.74,1,20,149,5167.99,Delivered,,11.0
+ORD100843,2023-05-09,Automotive,Android App,Ahmedabad,45,0,7406.57,4,0,0,29626.28,Delivered,5.0,2.0
+ORD100844,2023-05-09,Food,Tablet,Delhi,40,0,127.32,4,25,0,381.96,Delivered,3.0,9.0
+ORD100845,2023-05-10,Toys,iOS App,Hyderabad,60,0,1319.89,3,0,0,3959.67,Delivered,5.0,7.0
+ORD100846,2023-05-10,Automotive,iOS App,Bangalore,26,0,3742.64,2,10,49,6785.75,Delivered,5.0,6.0
+ORD100847,2023-05-11,Home & Kitchen,Android App,Surat,37,0,2935.06,3,10,49,7973.66,Delivered,4.0,2.0
+ORD100848,2023-05-11,Toys,Web,Lucknow,20,1,1344.51,4,0,99,5477.04,Delivered,4.0,10.0
+ORD100849,2023-05-11,Toys,iOS App,Mumbai,35,0,1119.54,4,10,99,4129.34,Delivered,3.0,3.0
+ORD100850,2023-05-12,Books,Web,Mumbai,45,0,443.31,5,0,49,2265.55,Delivered,4.0,8.0
+ORD100851,2023-05-12,Toys,iOS App,Nagpur,55,0,1256.06,1,0,49,1305.06,Delivered,5.0,13.0
+ORD100852,2023-05-13,Toys,Web,Pune,57,0,414.33,1,20,49,380.46,Delivered,3.0,11.0
+ORD100853,2023-05-13,Books,Web,Nagpur,18,1,215.05,4,30,99,701.14,Delivered,5.0,1.0
+ORD100854,2023-05-13,Automotive,iOS App,Surat,58,0,3663.71,1,0,149,3812.71,Delivered,3.0,14.0
+ORD100855,2023-05-14,Fashion,Android App,Kanpur,50,0,1076.23,1,10,49,1017.61,Shipped,4.0,9.0
+ORD100856,2023-05-14,Home & Kitchen,iOS App,Pune,27,1,4690.63,2,0,49,9430.26,Delivered,5.0,12.0
+ORD100857,2023-05-15,Home & Kitchen,Tablet,Hyderabad,28,1,3895.88,4,0,49,15632.52,Cancelled,1.0,
+ORD100858,2023-05-15,Automotive,Tablet,Lucknow,54,0,5695.33,1,0,0,5695.33,Delivered,5.0,13.0
+ORD100859,2023-05-15,Health,Web,Surat,50,1,1506.49,2,10,49,2760.68,Shipped,4.0,11.0
+ORD100860,2023-05-16,Food,Android App,Jaipur,27,0,243.94,1,15,0,207.35,Returned,5.0,13.0
+ORD100861,2023-05-16,Food,Web,Pune,38,0,157.05,5,5,99,844.99,Delivered,,14.0
+ORD100862,2023-05-17,Books,Web,Surat,58,1,383.3,4,30,0,1073.24,Delivered,4.0,12.0
+ORD100863,2023-05-17,Toys,Tablet,Pune,18,1,1154.73,1,15,0,981.52,Delivered,1.0,7.0
+ORD100864,2023-05-18,Electronics,Android App,Indore,42,0,18166.93,2,0,0,36333.86,Delivered,5.0,12.0
+ORD100865,2023-05-18,Fashion,iOS App,Lucknow,59,0,2358.87,3,0,49,7125.61,Shipped,4.0,14.0
+ORD100866,2023-05-18,Books,Web,Pune,18,0,624.47,3,10,99,1785.07,Delivered,3.0,13.0
+ORD100867,2023-05-19,Home & Kitchen,iOS App,Nagpur,43,1,5059.29,1,0,149,5208.29,Processing,5.0,9.0
+ORD100868,2023-05-19,Toys,Tablet,Delhi,44,0,1161.84,3,0,49,3534.52,Shipped,4.0,14.0
+ORD100869,2023-05-20,Health,Android App,Nagpur,32,1,1234.52,5,0,0,6172.6,Delivered,5.0,9.0
+ORD100870,2023-05-20,Electronics,Web,Kolkata,43,0,27775.87,2,5,99,52873.15,Delivered,4.0,7.0
+ORD100871,2023-05-20,Books,iOS App,Chennai,51,1,484.68,1,5,99,559.45,Processing,5.0,3.0
+ORD100872,2023-05-21,Books,Web,Nagpur,31,1,370.58,2,10,99,766.04,Delivered,5.0,7.0
+ORD100873,2023-05-21,Fashion,Web,Surat,41,0,952.62,3,15,49,2478.18,Shipped,4.0,14.0
+ORD100874,2023-05-22,Health,Web,Delhi,43,0,1547.68,2,30,49,2215.75,Delivered,5.0,2.0
+ORD100875,2023-05-22,Food,Tablet,Hyderabad,19,0,264.18,1,20,0,211.34,Delivered,4.0,13.0
+ORD100876,2023-05-22,Food,Web,Kolkata,27,0,421.59,1,0,0,421.59,Delivered,1.0,9.0
+ORD100877,2023-05-23,Food,Web,Surat,48,0,493.63,4,5,149,2024.79,Delivered,5.0,2.0
+ORD100878,2023-05-23,Food,Tablet,Nagpur,40,1,274.51,1,0,0,274.51,Delivered,5.0,4.0
+ORD100879,2023-05-24,Food,Tablet,Pune,63,0,252.78,2,30,49,402.89,Shipped,5.0,1.0
+ORD100880,2023-05-24,Fashion,Android App,Nagpur,57,0,906.17,4,5,0,3443.45,Delivered,5.0,11.0
+ORD100881,2023-05-24,Books,Tablet,Kanpur,28,0,424.56,3,0,0,1273.68,Cancelled,4.0,
+ORD100882,2023-05-25,Health,Web,Pune,64,0,1332.92,1,15,149,1281.98,Shipped,5.0,3.0
+ORD100883,2023-05-25,Automotive,Web,Bhopal,58,0,4845.9,1,5,0,4603.6,Processing,5.0,3.0
+ORD100884,2023-05-26,Home & Kitchen,iOS App,Bhopal,37,1,3685.5,3,30,49,7788.55,Cancelled,1.0,
+ORD100885,2023-05-26,Toys,Tablet,Hyderabad,47,1,913.93,2,0,99,1926.86,Shipped,4.0,5.0
+ORD100886,2023-05-26,Automotive,Web,Jaipur,31,0,4564.28,5,0,0,22821.4,Delivered,4.0,13.0
+ORD100887,2023-05-27,Health,Android App,Indore,21,1,481.74,1,25,0,361.3,Delivered,4.0,14.0
+ORD100888,2023-05-27,Electronics,Web,Jaipur,29,0,12351.54,1,5,49,11782.96,Delivered,5.0,3.0
+ORD100889,2023-05-28,Fashion,Tablet,Kanpur,52,1,2045.67,3,0,0,6137.01,Delivered,4.0,13.0
+ORD100890,2023-05-28,Books,Web,Kanpur,44,0,320.98,5,10,0,1444.41,Processing,5.0,1.0
+ORD100891,2023-05-28,Electronics,Android App,Jaipur,38,0,7810.99,1,10,49,7078.89,Delivered,,7.0
+ORD100892,2023-05-29,Toys,Android App,Pune,40,1,796.2,5,0,0,3981.0,Processing,,9.0
+ORD100893,2023-05-29,Electronics,iOS App,Ahmedabad,55,0,22855.6,5,0,99,114377.0,Delivered,5.0,4.0
+ORD100894,2023-05-30,Food,Tablet,Nagpur,50,1,407.15,3,0,149,1370.45,Cancelled,5.0,
+ORD100895,2023-05-30,Food,Android App,Hyderabad,47,1,280.21,3,0,0,840.63,Delivered,4.0,9.0
+ORD100896,2023-05-31,Automotive,iOS App,Nagpur,41,0,6788.94,5,0,0,33944.7,Delivered,5.0,14.0
+ORD100897,2023-05-31,Toys,Android App,Chennai,18,0,1132.78,4,0,0,4531.12,Cancelled,5.0,
+ORD100898,2023-05-31,Fashion,iOS App,Kolkata,33,0,2200.63,3,15,0,5611.61,Delivered,,12.0
+ORD100899,2023-06-01,Food,Android App,Delhi,23,0,364.96,2,10,49,705.93,Shipped,5.0,12.0
+ORD100900,2023-06-01,Fashion,Android App,Nagpur,54,0,1843.55,5,5,49,8805.86,Delivered,4.0,5.0
+ORD100901,2023-06-02,Health,iOS App,Lucknow,34,0,583.21,2,0,0,1166.42,Processing,5.0,13.0
+ORD100902,2023-06-02,Automotive,Android App,Delhi,29,0,5653.38,2,5,49,10790.42,Delivered,5.0,6.0
+ORD100903,2023-06-02,Fashion,Tablet,Chennai,40,0,2200.13,5,0,0,11000.65,Shipped,3.0,11.0
+ORD100904,2023-06-03,Books,Android App,Ahmedabad,40,0,259.38,3,30,99,643.7,Delivered,5.0,7.0
+ORD100905,2023-06-03,Books,iOS App,Ahmedabad,61,0,337.73,4,0,49,1399.92,Delivered,5.0,8.0
+ORD100906,2023-06-04,Electronics,iOS App,Delhi,26,0,22754.18,5,20,99,91115.72,Delivered,5.0,12.0
+ORD100907,2023-06-04,Fashion,Tablet,Indore,56,1,2223.73,4,10,49,8054.43,Delivered,,2.0
+ORD100908,2023-06-04,Food,Tablet,Kolkata,28,0,147.14,1,20,49,166.71,Delivered,5.0,12.0
+ORD100909,2023-06-05,Food,iOS App,Lucknow,55,0,451.43,4,20,99,1543.58,Delivered,5.0,12.0
+ORD100910,2023-06-05,Fashion,Android App,Kanpur,43,1,996.58,3,20,0,2391.79,Shipped,4.0,7.0
+ORD100911,2023-06-06,Home & Kitchen,Web,Bangalore,43,0,5373.85,1,10,99,4935.46,Delivered,2.0,10.0
+ORD100912,2023-06-06,Books,Android App,Pune,51,0,641.85,1,0,49,690.85,Delivered,4.0,4.0
+ORD100913,2023-06-06,Electronics,Web,Kanpur,22,0,24948.35,5,10,49,112316.58,Delivered,4.0,11.0
+ORD100914,2023-06-07,Fashion,iOS App,Kanpur,55,0,2262.87,1,0,49,2311.87,Delivered,5.0,2.0
+ORD100915,2023-06-07,Health,Tablet,Chennai,53,1,1747.56,3,0,49,5291.68,Shipped,5.0,11.0
+ORD100916,2023-06-08,Books,Web,Hyderabad,27,0,660.72,5,20,99,2741.88,Returned,4.0,10.0
+ORD100917,2023-06-08,Automotive,Tablet,Kanpur,22,0,6348.47,5,10,0,28568.12,Delivered,4.0,4.0
+ORD100918,2023-06-08,Home & Kitchen,iOS App,Pune,51,0,3586.55,5,0,49,17981.75,Returned,,12.0
+ORD100919,2023-06-09,Health,iOS App,Delhi,22,0,592.03,4,20,0,1894.5,Delivered,3.0,4.0
+ORD100920,2023-06-09,Home & Kitchen,iOS App,Ahmedabad,45,0,2472.41,3,0,0,7417.23,Delivered,4.0,8.0
+ORD100921,2023-06-10,Fashion,Tablet,Bangalore,29,0,1774.26,2,20,0,2838.82,Delivered,5.0,12.0
+ORD100922,2023-06-10,Toys,Android App,Jaipur,51,0,483.71,5,15,49,2104.77,Delivered,5.0,1.0
+ORD100923,2023-06-10,Toys,Web,Bhopal,61,0,1339.5,3,0,99,4117.5,Returned,4.0,6.0
+ORD100924,2023-06-11,Toys,Web,Delhi,57,0,588.4,2,0,99,1275.8,Delivered,2.0,9.0
+ORD100925,2023-06-11,Fashion,Web,Hyderabad,53,1,758.28,5,30,49,2702.98,Delivered,4.0,3.0
+ORD100926,2023-06-12,Toys,Web,Jaipur,48,1,597.01,2,0,99,1293.02,Delivered,3.0,8.0
+ORD100927,2023-06-12,Health,Web,Bangalore,21,1,516.03,1,30,149,510.22,Delivered,2.0,9.0
+ORD100928,2023-06-13,Books,Tablet,Jaipur,62,1,262.2,4,5,0,996.36,Delivered,4.0,13.0
+ORD100929,2023-06-13,Health,iOS App,Chennai,61,0,1243.37,3,0,99,3829.11,Delivered,3.0,5.0
+ORD100930,2023-06-13,Fashion,Tablet,Surat,20,1,1120.49,4,10,49,4082.76,Processing,4.0,12.0
+ORD100931,2023-06-14,Electronics,Android App,Pune,54,1,25526.11,4,5,0,96999.22,Delivered,5.0,9.0
+ORD100932,2023-06-14,Electronics,Web,Indore,23,0,16606.51,4,0,149,66575.04,Delivered,2.0,8.0
+ORD100933,2023-06-15,Books,Web,Nagpur,46,0,549.83,2,10,0,989.69,Delivered,4.0,9.0
+ORD100934,2023-06-15,Food,Tablet,Bhopal,29,0,390.61,2,0,149,930.22,Cancelled,4.0,
+ORD100935,2023-06-15,Fashion,Web,Bangalore,23,0,844.4,2,0,99,1787.8,Cancelled,1.0,
+ORD100936,2023-06-16,Books,Web,Bhopal,28,0,204.71,5,20,149,967.84,Cancelled,5.0,
+ORD100937,2023-06-16,Home & Kitchen,iOS App,Mumbai,33,0,5288.97,4,5,49,20147.09,Delivered,3.0,14.0
+ORD100938,2023-06-17,Food,iOS App,Chennai,34,0,387.82,2,10,49,747.08,Delivered,,10.0
+ORD100939,2023-06-17,Health,Web,Nagpur,32,1,686.22,5,10,49,3136.99,Processing,5.0,4.0
+ORD100940,2023-06-17,Electronics,Android App,Nagpur,39,0,22799.82,4,10,49,82128.35,Delivered,4.0,9.0
+ORD100941,2023-06-18,Home & Kitchen,Android App,Hyderabad,48,0,2982.61,3,0,149,9096.83,Delivered,,14.0
+ORD100942,2023-06-18,Health,iOS App,Nagpur,39,0,526.62,5,25,49,2023.82,Cancelled,4.0,
+ORD100943,2023-06-19,Fashion,Android App,Delhi,45,1,1011.77,5,5,49,4854.91,Delivered,4.0,11.0
+ORD100944,2023-06-19,Fashion,Android App,Pune,36,1,1960.45,3,25,149,4560.01,Delivered,4.0,10.0
+ORD100945,2023-06-19,Toys,Web,Mumbai,31,0,760.26,1,20,49,657.21,Delivered,5.0,12.0
+ORD100946,2023-06-20,Automotive,iOS App,Ahmedabad,24,1,6586.47,3,15,99,16894.5,Delivered,5.0,2.0
+ORD100947,2023-06-20,Toys,Web,Indore,32,1,493.37,2,5,0,937.4,Returned,5.0,12.0
+ORD100948,2023-06-21,Electronics,Tablet,Surat,27,1,9584.86,4,0,0,38339.44,Delivered,,13.0
+ORD100949,2023-06-21,Automotive,Android App,Ahmedabad,42,1,4294.39,1,0,49,4343.39,Delivered,,1.0
+ORD100950,2023-06-21,Electronics,Tablet,Bangalore,48,0,18132.1,3,10,49,49005.67,Delivered,3.0,12.0
+ORD100951,2023-06-22,Food,Tablet,Surat,57,0,442.62,3,0,99,1426.86,Delivered,,8.0
+ORD100952,2023-06-22,Home & Kitchen,Web,Hyderabad,31,1,4935.26,2,0,0,9870.52,Shipped,3.0,6.0
+ORD100953,2023-06-23,Books,iOS App,Surat,23,1,259.03,4,5,0,984.31,Delivered,,2.0
+ORD100954,2023-06-23,Food,Tablet,Delhi,56,0,151.8,3,0,149,604.4,Delivered,4.0,5.0
+ORD100955,2023-06-23,Books,Android App,Ahmedabad,52,0,293.39,2,0,49,635.78,Delivered,4.0,10.0
+ORD100956,2023-06-24,Toys,Android App,Ahmedabad,32,0,1244.94,5,5,49,5962.46,Delivered,4.0,8.0
+ORD100957,2023-06-24,Health,Tablet,Kanpur,64,0,1146.39,3,0,0,3439.17,Delivered,3.0,1.0
+ORD100958,2023-06-25,Fashion,Android App,Indore,48,0,2052.42,1,0,149,2201.42,Cancelled,5.0,
+ORD100959,2023-06-25,Automotive,Tablet,Indore,53,0,5271.87,4,0,149,21236.48,Processing,3.0,1.0
+ORD100960,2023-06-26,Home & Kitchen,Tablet,Pune,34,0,4156.99,2,10,49,7531.58,Delivered,4.0,6.0
+ORD100961,2023-06-26,Books,iOS App,Surat,38,0,487.23,4,25,0,1461.69,Processing,,13.0
+ORD100962,2023-06-26,Home & Kitchen,Tablet,Surat,34,0,4320.28,4,0,149,17430.12,Processing,5.0,11.0
+ORD100963,2023-06-27,Food,Tablet,Nagpur,52,0,301.31,4,15,149,1173.45,Shipped,5.0,13.0
+ORD100964,2023-06-27,Health,Web,Nagpur,56,0,772.97,5,0,49,3913.85,Shipped,,3.0
+ORD100965,2023-06-28,Toys,Android App,Mumbai,58,0,799.91,4,10,99,2978.68,Returned,1.0,9.0
+ORD100966,2023-06-28,Health,Web,Nagpur,33,0,1765.92,2,0,49,3580.84,Delivered,4.0,5.0
+ORD100967,2023-06-28,Home & Kitchen,Android App,Ahmedabad,54,0,2724.51,5,20,0,10898.04,Delivered,3.0,7.0
+ORD100968,2023-06-29,Health,Tablet,Bhopal,50,0,1428.52,3,15,99,3741.73,Returned,3.0,14.0
+ORD100969,2023-06-29,Automotive,Android App,Surat,18,0,9585.47,4,10,99,34606.69,Delivered,4.0,12.0
+ORD100970,2023-06-30,Fashion,Tablet,Pune,55,1,1619.26,2,0,49,3287.52,Delivered,5.0,10.0
+ORD100971,2023-06-30,Electronics,iOS App,Chennai,24,0,18510.06,5,20,99,74139.24,Delivered,4.0,14.0
+ORD100972,2023-06-30,Electronics,Web,Bhopal,24,0,10218.85,5,0,49,51143.25,Delivered,5.0,7.0
+ORD100973,2023-07-01,Food,Tablet,Bangalore,23,0,407.48,5,5,149,2084.53,Returned,5.0,1.0
+ORD100974,2023-07-01,Health,Web,Delhi,43,0,1680.51,2,15,0,2856.87,Delivered,4.0,13.0
+ORD100975,2023-07-02,Home & Kitchen,Web,Bangalore,19,0,5913.08,5,10,149,26757.86,Delivered,4.0,2.0
+ORD100976,2023-07-02,Electronics,Android App,Jaipur,41,0,12037.29,4,20,0,38519.33,Delivered,3.0,4.0
+ORD100977,2023-07-02,Toys,iOS App,Hyderabad,51,1,1316.06,1,15,0,1118.65,Returned,5.0,13.0
+ORD100978,2023-07-03,Health,iOS App,Jaipur,43,0,949.86,5,15,99,4135.91,Delivered,4.0,13.0
+ORD100979,2023-07-03,Toys,Web,Nagpur,30,1,1000.11,3,0,0,3000.33,Cancelled,5.0,
+ORD100980,2023-07-04,Toys,Web,Hyderabad,33,1,584.83,3,0,0,1754.49,Delivered,4.0,12.0
+ORD100981,2023-07-04,Fashion,Android App,Mumbai,51,0,1047.1,2,5,99,2088.49,Cancelled,5.0,
+ORD100982,2023-07-04,Toys,Android App,Pune,33,1,999.91,5,10,49,4548.6,Delivered,4.0,2.0
+ORD100983,2023-07-05,Toys,iOS App,Surat,49,1,859.07,1,10,99,872.16,Processing,4.0,8.0
+ORD100984,2023-07-05,Home & Kitchen,iOS App,Lucknow,50,0,5839.79,2,10,0,10511.62,Delivered,4.0,4.0
+ORD100985,2023-07-06,Home & Kitchen,iOS App,Delhi,42,0,2690.09,3,15,49,6908.73,Delivered,5.0,8.0
+ORD100986,2023-07-06,Health,Tablet,Indore,35,0,1635.35,1,0,49,1684.35,Delivered,4.0,3.0
+ORD100987,2023-07-06,Books,Tablet,Jaipur,20,0,416.75,2,0,49,882.5,Shipped,5.0,2.0
+ORD100988,2023-07-07,Food,iOS App,Ahmedabad,52,0,175.46,4,25,49,575.38,Delivered,2.0,10.0
+ORD100989,2023-07-07,Fashion,Web,Chennai,32,0,1030.43,3,0,49,3140.29,Delivered,,11.0
+ORD100990,2023-07-08,Electronics,Android App,Bhopal,39,0,24503.24,5,0,49,122565.2,Delivered,,3.0
+ORD100991,2023-07-08,Automotive,Web,Bangalore,19,0,8699.75,5,15,0,36973.94,Processing,4.0,9.0
+ORD100992,2023-07-09,Toys,Android App,Kolkata,52,0,391.54,1,0,99,490.54,Delivered,3.0,7.0
+ORD100993,2023-07-09,Automotive,Android App,Kolkata,60,1,5575.22,2,5,49,10641.92,Delivered,5.0,14.0
+ORD100994,2023-07-09,Fashion,Tablet,Jaipur,59,0,1489.51,5,15,49,6379.42,Delivered,2.0,8.0
+ORD100995,2023-07-10,Electronics,iOS App,Chennai,32,1,21338.25,5,5,0,101356.69,Delivered,4.0,7.0
+ORD100996,2023-07-10,Automotive,Android App,Bhopal,22,0,7379.63,1,25,149,5683.72,Delivered,4.0,1.0
+ORD100997,2023-07-11,Automotive,Web,Pune,22,0,8729.19,4,20,0,27933.41,Delivered,5.0,13.0
+ORD100998,2023-07-11,Automotive,Tablet,Lucknow,35,0,4550.42,2,5,149,8794.8,Cancelled,3.0,
+ORD100999,2023-07-11,Food,iOS App,Surat,18,0,166.97,5,30,0,584.4,Delivered,,3.0
+ORD101000,2023-07-12,Electronics,Tablet,Chennai,26,0,11695.95,3,0,149,35236.85,Delivered,3.0,1.0
+ORD101001,2023-07-12,Fashion,Web,Bhopal,46,0,2286.32,1,0,49,2335.32,Delivered,3.0,3.0
+ORD101002,2023-07-13,Home & Kitchen,iOS App,Kolkata,19,1,3960.07,2,10,49,7177.13,Delivered,3.0,8.0
+ORD101003,2023-07-13,Food,iOS App,Surat,47,0,207.16,5,10,0,932.22,Delivered,,14.0
+ORD101004,2023-07-13,Health,Tablet,Surat,58,0,1510.92,4,0,149,6192.68,Delivered,5.0,9.0
+ORD101005,2023-07-14,Fashion,Tablet,Ahmedabad,64,0,1656.61,1,0,0,1656.61,Shipped,2.0,2.0
+ORD101006,2023-07-14,Toys,Android App,Surat,63,1,735.69,5,0,99,3777.45,Delivered,5.0,3.0
+ORD101007,2023-07-15,Automotive,iOS App,Jaipur,31,1,2637.27,5,0,0,13186.35,Processing,2.0,4.0
+ORD101008,2023-07-15,Fashion,Android App,Kanpur,48,0,2009.02,3,0,49,6076.06,Cancelled,2.0,
+ORD101009,2023-07-15,Health,iOS App,Ahmedabad,20,0,1418.55,1,25,99,1162.91,Returned,2.0,2.0
+ORD101010,2023-07-16,Toys,Android App,Nagpur,29,1,625.21,3,20,49,1549.5,Delivered,5.0,2.0
+ORD101011,2023-07-16,Food,iOS App,Jaipur,54,1,224.61,1,5,99,312.38,Delivered,4.0,10.0
+ORD101012,2023-07-17,Health,Android App,Bhopal,27,1,816.51,2,5,99,1650.37,Cancelled,5.0,
+ORD101013,2023-07-17,Home & Kitchen,Tablet,Jaipur,32,1,4516.89,2,0,49,9082.78,Shipped,2.0,11.0
+ORD101014,2023-07-17,Food,Web,Jaipur,37,0,235.32,4,5,0,894.22,Delivered,,3.0
+ORD101015,2023-07-18,Home & Kitchen,Tablet,Ahmedabad,33,0,2896.63,4,10,49,10476.87,Processing,,13.0
+ORD101016,2023-07-18,Toys,Android App,Pune,52,0,745.45,1,15,99,732.63,Processing,4.0,6.0
+ORD101017,2023-07-19,Automotive,iOS App,Kanpur,60,0,9851.51,5,0,0,49257.55,Shipped,5.0,3.0
+ORD101018,2023-07-19,Health,Tablet,Surat,43,1,1071.13,4,25,99,3312.39,Delivered,5.0,3.0
+ORD101019,2023-07-19,Toys,Android App,Pune,45,0,746.24,4,20,0,2387.97,Delivered,,5.0
+ORD101020,2023-07-20,Automotive,Android App,Nagpur,52,0,6025.17,4,0,149,24249.68,Shipped,4.0,2.0
+ORD101021,2023-07-20,Health,iOS App,Delhi,36,1,1420.92,4,25,99,4361.76,Delivered,4.0,5.0
+ORD101022,2023-07-21,Books,Android App,Mumbai,39,0,638.94,4,0,49,2604.76,Shipped,4.0,10.0
+ORD101023,2023-07-21,Toys,Web,Surat,62,0,1390.34,2,25,99,2184.51,Delivered,5.0,14.0
+ORD101024,2023-07-22,Books,iOS App,Kolkata,36,1,430.18,4,10,99,1647.65,Delivered,4.0,1.0
+ORD101025,2023-07-22,Toys,iOS App,Kanpur,30,0,833.15,5,5,0,3957.46,Processing,2.0,9.0
+ORD101026,2023-07-22,Fashion,Web,Surat,18,0,1194.56,4,5,49,4588.33,Delivered,5.0,4.0
+ORD101027,2023-07-23,Fashion,Android App,Kanpur,19,0,2002.37,3,10,49,5455.4,Delivered,5.0,5.0
+ORD101028,2023-07-23,Books,Tablet,Chennai,54,0,519.18,4,20,49,1710.38,Processing,4.0,10.0
+ORD101029,2023-07-24,Fashion,iOS App,Chennai,28,0,1254.06,5,20,49,5065.24,Shipped,4.0,5.0
+ORD101030,2023-07-24,Toys,iOS App,Chennai,52,1,894.47,4,5,49,3447.99,Shipped,4.0,7.0
+ORD101031,2023-07-24,Electronics,iOS App,Surat,20,0,12130.97,4,20,0,38819.1,Delivered,4.0,5.0
+ORD101032,2023-07-25,Books,Android App,Lucknow,55,0,539.35,5,5,0,2561.91,Delivered,3.0,6.0
+ORD101033,2023-07-25,Electronics,Android App,Bhopal,37,0,13172.78,2,5,0,25028.28,Delivered,4.0,10.0
+ORD101034,2023-07-26,Food,Web,Chennai,56,1,256.08,2,0,0,512.16,Delivered,4.0,5.0
+ORD101035,2023-07-26,Automotive,Tablet,Delhi,57,0,3010.89,2,20,49,4866.42,Delivered,,8.0
+ORD101036,2023-07-26,Fashion,Android App,Bhopal,44,1,995.77,2,10,0,1792.39,Delivered,2.0,12.0
+ORD101037,2023-07-27,Books,Tablet,Ahmedabad,63,0,277.31,4,5,0,1053.78,Delivered,4.0,9.0
+ORD101038,2023-07-27,Food,Tablet,Pune,62,1,400.74,3,10,99,1181.0,Delivered,4.0,11.0
+ORD101039,2023-07-28,Books,Android App,Hyderabad,50,0,539.6,5,20,49,2207.4,Processing,5.0,7.0
+ORD101040,2023-07-28,Automotive,Android App,Indore,41,1,6536.08,4,0,149,26293.32,Cancelled,4.0,
+ORD101041,2023-07-28,Fashion,Android App,Kanpur,61,0,1296.7,4,0,149,5335.8,Delivered,4.0,1.0
+ORD101042,2023-07-29,Books,Android App,Bangalore,63,1,641.94,5,0,49,3258.7,Processing,4.0,10.0
+ORD101043,2023-07-29,Automotive,Android App,Hyderabad,37,0,9130.63,5,0,99,45752.15,Delivered,4.0,10.0
+ORD101044,2023-07-30,Electronics,Web,Indore,33,0,21063.79,1,0,0,21063.79,Delivered,4.0,8.0
+ORD101045,2023-07-30,Fashion,iOS App,Kanpur,32,1,1784.31,5,15,99,7682.32,Delivered,5.0,11.0
+ORD101046,2023-07-30,Toys,Android App,Nagpur,61,0,1186.27,5,0,49,5980.35,Shipped,4.0,10.0
+ORD101047,2023-07-31,Fashion,Android App,Bangalore,25,1,1900.99,2,20,99,3140.58,Delivered,5.0,3.0
+ORD101048,2023-07-31,Home & Kitchen,iOS App,Jaipur,18,0,2512.06,2,30,0,3516.88,Delivered,2.0,4.0
+ORD101049,2023-08-01,Automotive,Web,Delhi,41,1,6275.21,3,0,149,18974.63,Delivered,5.0,10.0
+ORD101050,2023-08-01,Food,Web,Kolkata,62,0,181.96,5,5,49,913.31,Delivered,,2.0
+ORD101051,2023-08-01,Electronics,Tablet,Delhi,33,0,25711.07,4,0,99,102943.28,Delivered,4.0,13.0
+ORD101052,2023-08-02,Books,Web,Hyderabad,41,1,518.13,3,10,149,1547.95,Delivered,5.0,5.0
+ORD101053,2023-08-02,Automotive,iOS App,Chennai,23,1,9843.18,2,5,149,18851.04,Shipped,4.0,9.0
+ORD101054,2023-08-03,Books,Web,Bangalore,56,1,246.67,5,10,49,1159.01,Delivered,5.0,8.0
+ORD101055,2023-08-03,Home & Kitchen,Web,Nagpur,61,1,3795.66,4,15,49,12954.24,Delivered,4.0,10.0
+ORD101056,2023-08-04,Health,Tablet,Pune,47,0,1427.41,1,15,99,1312.3,Processing,,5.0
+ORD101057,2023-08-04,Automotive,iOS App,Bangalore,23,1,9005.07,2,5,49,17158.63,Delivered,4.0,10.0
+ORD101058,2023-08-04,Fashion,Tablet,Bhopal,22,0,2136.12,5,20,49,8593.48,Shipped,3.0,3.0
+ORD101059,2023-08-05,Fashion,Tablet,Mumbai,52,0,963.6,4,25,99,2989.8,Delivered,2.0,5.0
+ORD101060,2023-08-05,Fashion,Android App,Bangalore,24,1,2368.18,3,10,149,6543.09,Delivered,4.0,1.0
+ORD101061,2023-08-06,Home & Kitchen,iOS App,Nagpur,21,0,5916.04,3,0,49,17797.12,Processing,5.0,3.0
+ORD101062,2023-08-06,Home & Kitchen,Tablet,Kolkata,59,1,5860.76,1,15,0,4981.65,Cancelled,5.0,
+ORD101063,2023-08-06,Books,Android App,Pune,42,1,497.15,5,20,99,2087.6,Delivered,3.0,7.0
+ORD101064,2023-08-07,Home & Kitchen,Tablet,Hyderabad,45,1,5243.71,4,10,49,18926.36,Delivered,5.0,2.0
+ORD101065,2023-08-07,Toys,iOS App,Jaipur,49,0,429.84,3,15,149,1245.09,Shipped,3.0,4.0
+ORD101066,2023-08-08,Home & Kitchen,Android App,Pune,34,1,2649.57,4,0,99,10697.28,Delivered,5.0,7.0
+ORD101067,2023-08-08,Automotive,Android App,Delhi,29,0,3189.97,3,5,49,9140.41,Processing,4.0,10.0
+ORD101068,2023-08-08,Home & Kitchen,Android App,Bhopal,42,0,3775.02,3,15,99,9725.3,Delivered,4.0,1.0
+ORD101069,2023-08-09,Electronics,Android App,Indore,21,1,29206.43,1,20,149,23514.14,Delivered,4.0,11.0
+ORD101070,2023-08-09,Automotive,Android App,Bangalore,31,1,7368.78,3,0,49,22155.34,Delivered,4.0,8.0
+ORD101071,2023-08-10,Toys,Tablet,Ahmedabad,45,0,834.31,5,0,0,4171.55,Delivered,5.0,1.0
+ORD101072,2023-08-10,Fashion,Tablet,Kolkata,62,1,2027.1,1,0,99,2126.1,Processing,,2.0
+ORD101073,2023-08-10,Electronics,iOS App,Delhi,46,1,19882.56,3,0,0,59647.68,Delivered,4.0,14.0
+ORD101074,2023-08-11,Fashion,Tablet,Pune,53,0,1423.77,5,15,149,6200.02,Delivered,4.0,7.0
+ORD101075,2023-08-11,Automotive,iOS App,Surat,32,0,7219.96,3,0,0,21659.88,Delivered,4.0,13.0
+ORD101076,2023-08-12,Toys,Web,Delhi,20,1,887.39,1,15,49,803.28,Delivered,5.0,8.0
+ORD101077,2023-08-12,Food,Web,Pune,35,0,365.58,5,5,149,1885.5,Delivered,4.0,2.0
+ORD101078,2023-08-12,Home & Kitchen,Android App,Chennai,50,0,5111.87,1,10,0,4600.68,Delivered,5.0,11.0
+ORD101079,2023-08-13,Fashion,iOS App,Pune,20,0,1432.35,3,5,0,4082.2,Delivered,5.0,7.0
+ORD101080,2023-08-13,Books,Tablet,Surat,58,1,392.89,1,15,0,333.96,Shipped,4.0,6.0
+ORD101081,2023-08-14,Fashion,Tablet,Kolkata,31,1,1605.6,2,5,149,3199.64,Delivered,,3.0
+ORD101082,2023-08-14,Electronics,Android App,Kanpur,50,1,27856.96,2,0,149,55862.92,Returned,1.0,7.0
+ORD101083,2023-08-14,Automotive,Web,Ahmedabad,59,1,5672.37,2,10,49,10259.27,Delivered,5.0,14.0
+ORD101084,2023-08-15,Books,Web,Lucknow,46,1,620.07,5,5,99,3044.33,Delivered,4.0,4.0
+ORD101085,2023-08-15,Food,Tablet,Surat,26,0,356.44,3,0,99,1168.32,Delivered,3.0,8.0
+ORD101086,2023-08-16,Health,iOS App,Nagpur,30,0,466.74,2,25,0,700.11,Cancelled,3.0,
+ORD101087,2023-08-16,Toys,Web,Bangalore,39,0,850.01,2,15,0,1445.02,Delivered,5.0,10.0
+ORD101088,2023-08-17,Automotive,iOS App,Bhopal,64,0,4079.02,3,0,149,12386.06,Delivered,3.0,13.0
+ORD101089,2023-08-17,Books,Tablet,Kanpur,49,0,253.94,2,15,0,431.7,Delivered,5.0,14.0
+ORD101090,2023-08-17,Home & Kitchen,Web,Bangalore,46,0,2554.97,5,0,49,12823.85,Delivered,4.0,12.0
+ORD101091,2023-08-18,Automotive,Android App,Mumbai,55,0,7843.15,2,5,0,14901.98,Delivered,4.0,10.0
+ORD101092,2023-08-18,Automotive,iOS App,Mumbai,24,0,7205.37,4,0,49,28870.48,Shipped,5.0,9.0
+ORD101093,2023-08-19,Home & Kitchen,Tablet,Lucknow,21,0,3915.84,3,0,0,11747.52,Delivered,4.0,13.0
+ORD101094,2023-08-19,Automotive,iOS App,Kolkata,45,0,6214.51,2,0,0,12429.02,Shipped,1.0,1.0
+ORD101095,2023-08-19,Food,Android App,Bangalore,45,0,270.94,3,10,0,731.54,Processing,4.0,4.0
+ORD101096,2023-08-20,Electronics,iOS App,Hyderabad,30,1,27447.78,1,0,149,27596.78,Delivered,4.0,1.0
+ORD101097,2023-08-20,Automotive,Android App,Kolkata,47,1,9493.41,3,0,0,28480.23,Delivered,4.0,4.0
+ORD101098,2023-08-21,Fashion,Web,Mumbai,25,1,1975.99,4,0,49,7952.96,Returned,4.0,4.0
+ORD101099,2023-08-21,Food,Web,Jaipur,27,0,233.08,3,0,49,748.24,Delivered,5.0,7.0
+ORD101100,2023-08-21,Food,Android App,Mumbai,60,0,467.7,1,10,49,469.93,Delivered,5.0,10.0
+ORD101101,2023-08-22,Automotive,iOS App,Surat,19,1,8643.52,3,0,99,26029.56,Delivered,4.0,13.0
+ORD101102,2023-08-22,Home & Kitchen,Web,Mumbai,44,0,2058.12,1,5,49,2004.21,Delivered,5.0,9.0
+ORD101103,2023-08-23,Food,Tablet,Kanpur,57,0,253.13,2,5,99,579.95,Shipped,2.0,1.0
+ORD101104,2023-08-23,Health,Android App,Chennai,51,0,892.27,4,0,49,3618.08,Shipped,4.0,2.0
+ORD101105,2023-08-23,Fashion,Web,Ahmedabad,38,0,1914.08,5,15,149,8283.84,Delivered,4.0,7.0
+ORD101106,2023-08-24,Automotive,Web,Pune,32,0,6429.24,5,10,99,29030.58,Delivered,4.0,9.0
+ORD101107,2023-08-24,Food,Tablet,Indore,20,0,225.08,3,10,0,607.72,Delivered,3.0,12.0
+ORD101108,2023-08-25,Home & Kitchen,iOS App,Kanpur,23,0,2538.58,2,5,99,4922.3,Delivered,3.0,6.0
+ORD101109,2023-08-25,Electronics,iOS App,Bhopal,45,0,17793.86,5,0,99,89068.3,Delivered,4.0,3.0
+ORD101110,2023-08-25,Health,Android App,Lucknow,42,0,1349.04,2,10,149,2577.27,Delivered,4.0,2.0
+ORD101111,2023-08-26,Home & Kitchen,iOS App,Bhopal,35,1,3789.27,3,30,149,8106.47,Processing,4.0,9.0
+ORD101112,2023-08-26,Toys,Web,Chennai,31,0,624.09,1,5,99,691.89,Delivered,4.0,14.0
+ORD101113,2023-08-27,Home & Kitchen,Android App,Hyderabad,21,1,4289.93,2,10,49,7770.87,Delivered,4.0,1.0
+ORD101114,2023-08-27,Electronics,Android App,Nagpur,23,0,29975.53,3,5,0,85430.26,Shipped,5.0,1.0
+ORD101115,2023-08-27,Electronics,Web,Mumbai,31,1,11475.05,4,25,149,34574.15,Delivered,4.0,1.0
+ORD101116,2023-08-28,Toys,Web,Bangalore,61,1,904.82,5,0,149,4673.1,Delivered,2.0,8.0
+ORD101117,2023-08-28,Books,Android App,Lucknow,33,0,372.22,1,5,0,353.61,Cancelled,4.0,
+ORD101118,2023-08-29,Fashion,Tablet,Pune,23,0,993.15,3,5,49,2879.48,Delivered,5.0,12.0
+ORD101119,2023-08-29,Health,Tablet,Chennai,45,1,1631.91,5,15,0,6935.62,Delivered,5.0,12.0
+ORD101120,2023-08-30,Automotive,Android App,Hyderabad,23,1,9683.28,1,15,0,8230.79,Shipped,5.0,8.0
+ORD101121,2023-08-30,Electronics,Web,Kanpur,36,0,15379.41,3,15,49,39266.5,Delivered,4.0,1.0
+ORD101122,2023-08-30,Electronics,iOS App,Ahmedabad,52,0,15314.04,4,15,49,52116.74,Delivered,5.0,8.0
+ORD101123,2023-08-31,Home & Kitchen,iOS App,Mumbai,23,1,1912.93,1,5,99,1916.28,Delivered,4.0,6.0
+ORD101124,2023-08-31,Food,Tablet,Ahmedabad,61,0,356.66,4,0,0,1426.64,Delivered,5.0,12.0
+ORD101125,2023-09-01,Home & Kitchen,Web,Kanpur,47,0,1619.45,3,20,99,3985.68,Delivered,5.0,11.0
+ORD101126,2023-09-01,Automotive,iOS App,Bangalore,60,1,6221.58,4,0,49,24935.32,Shipped,3.0,14.0
+ORD101127,2023-09-01,Toys,Android App,Delhi,52,1,510.46,4,0,99,2140.84,Delivered,,6.0
+ORD101128,2023-09-02,Food,iOS App,Surat,63,0,377.12,1,0,0,377.12,Delivered,4.0,5.0
+ORD101129,2023-09-02,Health,Android App,Indore,41,0,1704.03,1,5,49,1667.83,Delivered,,7.0
+ORD101130,2023-09-03,Home & Kitchen,Web,Delhi,18,0,1899.52,2,5,99,3708.09,Delivered,4.0,12.0
+ORD101131,2023-09-03,Toys,Tablet,Surat,20,0,1166.63,2,10,99,2198.93,Processing,4.0,8.0
+ORD101132,2023-09-03,Fashion,iOS App,Kanpur,26,1,2095.02,2,10,49,3820.04,Shipped,5.0,5.0
+ORD101133,2023-09-04,Automotive,iOS App,Bangalore,22,0,3821.55,5,0,49,19156.75,Delivered,2.0,13.0
+ORD101134,2023-09-04,Electronics,Tablet,Chennai,55,0,28259.45,4,0,149,113186.8,Delivered,5.0,6.0
+ORD101135,2023-09-05,Toys,Web,Ahmedabad,62,1,1001.96,2,20,49,1652.14,Delivered,3.0,13.0
+ORD101136,2023-09-05,Health,iOS App,Surat,47,0,1172.16,4,15,0,3985.34,Delivered,3.0,9.0
+ORD101137,2023-09-05,Electronics,Web,Ahmedabad,26,1,22606.78,1,20,149,18234.42,Delivered,4.0,1.0
+ORD101138,2023-09-06,Books,Android App,Bangalore,64,0,326.26,1,0,99,425.26,Delivered,,7.0
+ORD101139,2023-09-06,Health,iOS App,Indore,32,0,484.3,1,25,0,363.22,Delivered,,10.0
+ORD101140,2023-09-07,Automotive,Android App,Kolkata,59,1,5815.38,3,20,149,14105.91,Delivered,4.0,13.0
+ORD101141,2023-09-07,Books,Android App,Ahmedabad,50,0,565.26,4,5,0,2147.99,Delivered,4.0,8.0
+ORD101142,2023-09-07,Fashion,Android App,Jaipur,38,1,2253.57,3,10,99,6183.64,Delivered,4.0,1.0
+ORD101143,2023-09-08,Fashion,Tablet,Jaipur,55,0,1374.19,3,0,99,4221.57,Delivered,4.0,5.0
+ORD101144,2023-09-08,Toys,Tablet,Hyderabad,49,1,626.83,1,10,49,613.15,Shipped,,14.0
+ORD101145,2023-09-09,Food,Web,Hyderabad,60,0,174.24,4,15,149,741.42,Delivered,5.0,7.0
+ORD101146,2023-09-09,Books,Android App,Bangalore,46,1,666.13,3,5,99,1997.47,Delivered,5.0,6.0
+ORD101147,2023-09-09,Fashion,Tablet,Lucknow,36,1,1015.7,5,0,0,5078.5,Shipped,4.0,13.0
+ORD101148,2023-09-10,Electronics,Web,Hyderabad,22,0,27999.1,2,5,99,53297.29,Delivered,5.0,6.0
+ORD101149,2023-09-10,Food,iOS App,Mumbai,64,0,193.91,1,15,99,263.82,Delivered,,11.0
+ORD101150,2023-09-11,Toys,Android App,Mumbai,54,1,369.04,3,15,49,990.05,Delivered,,1.0
+ORD101151,2023-09-11,Fashion,Tablet,Bhopal,22,1,1003.6,1,5,0,953.42,Delivered,5.0,8.0
+ORD101152,2023-09-12,Home & Kitchen,Web,Kolkata,46,0,3717.55,1,30,0,2602.28,Delivered,3.0,1.0
+ORD101153,2023-09-12,Toys,Tablet,Surat,56,1,716.14,2,0,149,1581.28,Returned,,3.0
+ORD101154,2023-09-12,Toys,Web,Jaipur,50,1,1303.11,4,0,49,5261.44,Delivered,4.0,8.0
+ORD101155,2023-09-13,Home & Kitchen,Tablet,Nagpur,30,1,3952.88,3,0,49,11907.64,Delivered,2.0,9.0
+ORD101156,2023-09-13,Toys,Android App,Indore,24,0,473.66,5,20,49,1943.64,Delivered,3.0,2.0
+ORD101157,2023-09-14,Food,iOS App,Kanpur,62,0,359.5,1,15,0,305.58,Shipped,5.0,7.0
+ORD101158,2023-09-14,Food,Web,Bhopal,35,1,270.86,5,15,0,1151.16,Delivered,5.0,6.0
+ORD101159,2023-09-14,Automotive,iOS App,Chennai,58,1,7592.06,3,20,0,18220.94,Shipped,,7.0
+ORD101160,2023-09-15,Home & Kitchen,Android App,Kolkata,39,0,5037.8,3,5,0,14357.73,Delivered,,12.0
+ORD101161,2023-09-15,Fashion,Web,Hyderabad,53,0,2373.99,5,0,149,12018.95,Shipped,5.0,14.0
+ORD101162,2023-09-16,Books,Android App,Nagpur,29,1,477.74,3,10,0,1289.9,Processing,,2.0
+ORD101163,2023-09-16,Fashion,Web,Hyderabad,46,0,1260.15,1,5,0,1197.14,Delivered,3.0,14.0
+ORD101164,2023-09-16,Health,Web,Kanpur,44,0,1035.36,2,5,49,2016.18,Returned,3.0,1.0
+ORD101165,2023-09-17,Health,Android App,Chennai,28,0,993.54,5,0,149,5116.7,Cancelled,2.0,
+ORD101166,2023-09-17,Home & Kitchen,Tablet,Lucknow,50,0,3527.42,1,0,0,3527.42,Delivered,5.0,9.0
+ORD101167,2023-09-18,Electronics,Tablet,Mumbai,39,0,8176.32,5,5,0,38837.52,Delivered,,11.0
+ORD101168,2023-09-18,Health,Android App,Kanpur,48,0,783.89,4,0,99,3234.56,Delivered,5.0,4.0
+ORD101169,2023-09-18,Fashion,Android App,Nagpur,19,0,2377.97,3,30,49,5042.74,Processing,,9.0
+ORD101170,2023-09-19,Home & Kitchen,Android App,Jaipur,23,1,5676.07,2,0,49,11401.14,Delivered,4.0,9.0
+ORD101171,2023-09-19,Food,iOS App,Jaipur,51,0,143.11,5,25,0,536.66,Delivered,5.0,5.0
+ORD101172,2023-09-20,Food,Web,Kolkata,64,0,492.34,1,0,149,641.34,Delivered,4.0,8.0
+ORD101173,2023-09-20,Toys,Web,Jaipur,23,1,1181.55,4,20,49,3829.96,Processing,5.0,14.0
+ORD101174,2023-09-20,Home & Kitchen,iOS App,Jaipur,19,0,1512.36,2,5,99,2972.48,Delivered,5.0,2.0
+ORD101175,2023-09-21,Fashion,Android App,Ahmedabad,30,1,2244.23,2,0,149,4637.46,Delivered,4.0,7.0
+ORD101176,2023-09-21,Toys,iOS App,Ahmedabad,20,0,1358.39,1,0,99,1457.39,Delivered,2.0,5.0
+ORD101177,2023-09-22,Books,Web,Delhi,29,1,505.1,3,0,0,1515.3,Shipped,4.0,3.0
+ORD101178,2023-09-22,Toys,Tablet,Kolkata,50,1,1177.75,1,15,99,1100.09,Shipped,5.0,7.0
+ORD101179,2023-09-22,Electronics,Web,Kolkata,55,1,14981.96,1,0,49,15030.96,Delivered,5.0,2.0
+ORD101180,2023-09-23,Automotive,Tablet,Indore,47,1,6792.41,2,0,0,13584.82,Shipped,4.0,2.0
+ORD101181,2023-09-23,Automotive,Web,Hyderabad,36,0,7986.62,3,10,0,21563.87,Processing,,12.0
+ORD101182,2023-09-24,Books,iOS App,Bhopal,25,1,469.66,5,10,0,2113.47,Delivered,4.0,5.0
+ORD101183,2023-09-24,Fashion,Tablet,Indore,43,0,1148.29,5,5,149,5603.38,Delivered,4.0,5.0
+ORD101184,2023-09-25,Books,Tablet,Kanpur,63,0,515.83,3,0,99,1646.49,Delivered,5.0,10.0
+ORD101185,2023-09-25,Home & Kitchen,iOS App,Lucknow,27,0,5272.89,3,10,99,14335.8,Delivered,4.0,11.0
+ORD101186,2023-09-25,Automotive,Web,Hyderabad,43,1,8770.06,4,0,99,35179.24,Shipped,4.0,13.0
+ORD101187,2023-09-26,Electronics,Tablet,Bangalore,33,1,10473.85,2,10,99,18951.93,Delivered,5.0,9.0
+ORD101188,2023-09-26,Fashion,Tablet,Kanpur,34,1,1401.76,4,0,149,5756.04,Delivered,4.0,4.0
+ORD101189,2023-09-27,Food,iOS App,Lucknow,42,0,139.53,4,30,0,390.68,Delivered,4.0,4.0
+ORD101190,2023-09-27,Electronics,Web,Nagpur,25,1,21737.25,4,10,0,78254.1,Delivered,1.0,10.0
+ORD101191,2023-09-27,Fashion,Android App,Jaipur,27,1,1035.89,5,10,49,4710.51,Delivered,5.0,12.0
+ORD101192,2023-09-28,Automotive,Tablet,Indore,19,0,9477.66,2,20,99,15263.26,Delivered,4.0,13.0
+ORD101193,2023-09-28,Toys,Tablet,Delhi,50,0,999.17,1,30,99,798.42,Processing,5.0,12.0
+ORD101194,2023-09-29,Home & Kitchen,Android App,Delhi,60,0,3302.78,3,15,149,8571.09,Delivered,5.0,9.0
+ORD101195,2023-09-29,Books,Tablet,Delhi,39,0,559.02,2,10,99,1105.24,Delivered,4.0,3.0
+ORD101196,2023-09-29,Toys,Android App,Hyderabad,47,0,567.76,1,20,0,454.21,Shipped,4.0,6.0
+ORD101197,2023-09-30,Automotive,Web,Bangalore,64,0,3185.74,1,0,0,3185.74,Delivered,4.0,2.0
+ORD101198,2023-09-30,Home & Kitchen,Android App,Mumbai,53,0,1893.22,3,15,49,4876.71,Delivered,5.0,7.0
+ORD101199,2023-10-01,Electronics,Web,Nagpur,29,1,20613.12,5,10,99,92858.04,Delivered,4.0,9.0
+ORD101200,2023-10-01,Fashion,Android App,Bangalore,54,0,2199.96,2,10,49,4008.93,Shipped,5.0,10.0
+ORD101201,2023-10-01,Automotive,Web,Nagpur,36,1,4170.69,3,20,0,10009.66,Delivered,5.0,4.0
+ORD101202,2023-10-02,Automotive,Web,Surat,63,0,8200.36,1,15,49,7019.31,Shipped,4.0,10.0
+ORD101203,2023-10-02,Food,iOS App,Surat,61,0,139.11,1,15,99,217.24,Delivered,5.0,5.0
+ORD101204,2023-10-03,Toys,Android App,Delhi,19,1,721.01,4,25,0,2163.03,Delivered,4.0,10.0
+ORD101205,2023-10-03,Electronics,Web,Mumbai,59,0,22208.62,4,10,99,80050.03,Delivered,5.0,14.0
+ORD101206,2023-10-03,Electronics,Tablet,Bangalore,29,0,26090.64,1,0,0,26090.64,Delivered,4.0,5.0
+ORD101207,2023-10-04,Electronics,Android App,Hyderabad,40,1,28721.82,3,0,49,86214.46,Delivered,4.0,3.0
+ORD101208,2023-10-04,Books,Tablet,Bhopal,53,0,507.1,3,5,99,1544.24,Delivered,5.0,14.0
+ORD101209,2023-10-05,Food,iOS App,Kolkata,23,1,298.5,1,0,0,298.5,Delivered,4.0,7.0
+ORD101210,2023-10-05,Toys,Android App,Chennai,18,1,413.67,2,10,99,843.61,Delivered,5.0,4.0
+ORD101211,2023-10-05,Books,Tablet,Hyderabad,37,0,319.72,5,20,99,1377.88,Delivered,5.0,5.0
+ORD101212,2023-10-06,Toys,Web,Pune,45,1,1319.27,2,0,49,2687.54,Shipped,5.0,7.0
+ORD101213,2023-10-06,Automotive,Tablet,Jaipur,45,1,6871.72,4,25,149,20764.16,Cancelled,4.0,
+ORD101214,2023-10-07,Books,Android App,Nagpur,62,1,354.91,4,15,99,1305.69,Delivered,,13.0
+ORD101215,2023-10-07,Automotive,Android App,Mumbai,29,0,4366.13,1,30,49,3105.29,Delivered,,6.0
+ORD101216,2023-10-08,Fashion,Android App,Kanpur,51,1,804.58,5,0,0,4022.9,Delivered,4.0,7.0
+ORD101217,2023-10-08,Home & Kitchen,Android App,Mumbai,26,0,4882.22,5,5,49,23239.54,Shipped,4.0,4.0
+ORD101218,2023-10-08,Electronics,Tablet,Hyderabad,39,0,16778.46,4,10,49,60451.46,Cancelled,,
+ORD101219,2023-10-09,Electronics,Web,Jaipur,42,1,28572.36,1,15,0,24286.51,Delivered,3.0,11.0
+ORD101220,2023-10-09,Electronics,Web,Delhi,38,1,17723.81,5,25,99,66563.29,Delivered,4.0,8.0
+ORD101221,2023-10-10,Home & Kitchen,Web,Chennai,26,0,5182.69,1,20,149,4295.15,Delivered,,12.0
+ORD101222,2023-10-10,Toys,Tablet,Surat,26,0,486.75,3,0,0,1460.25,Delivered,4.0,4.0
+ORD101223,2023-10-10,Health,iOS App,Lucknow,59,1,653.73,3,5,99,1962.13,Delivered,,8.0
+ORD101224,2023-10-11,Books,Tablet,Delhi,62,0,318.44,4,15,99,1181.7,Delivered,4.0,11.0
+ORD101225,2023-10-11,Books,Tablet,Kanpur,21,0,275.4,1,0,99,374.4,Delivered,4.0,13.0
+ORD101226,2023-10-12,Electronics,iOS App,Kolkata,28,0,29476.66,5,30,99,103267.31,Delivered,4.0,5.0
+ORD101227,2023-10-12,Toys,Web,Surat,64,1,1198.55,3,15,49,3105.3,Shipped,4.0,2.0
+ORD101228,2023-10-12,Automotive,Tablet,Chennai,23,1,5113.09,2,20,49,8229.94,Shipped,,11.0
+ORD101229,2023-10-13,Health,iOS App,Bhopal,43,0,1151.76,2,25,0,1727.64,Delivered,5.0,8.0
+ORD101230,2023-10-13,Automotive,iOS App,Kanpur,31,1,6499.36,4,0,0,25997.44,Shipped,,1.0
+ORD101231,2023-10-14,Automotive,Tablet,Surat,64,0,7054.07,1,5,49,6750.37,Delivered,4.0,12.0
+ORD101232,2023-10-14,Automotive,iOS App,Bangalore,53,0,3277.13,2,10,0,5898.83,Delivered,,7.0
+ORD101233,2023-10-14,Fashion,iOS App,Kanpur,53,1,1228.16,5,20,0,4912.64,Delivered,5.0,9.0
+ORD101234,2023-10-15,Fashion,iOS App,Pune,21,0,754.67,5,15,0,3207.35,Delivered,3.0,6.0
+ORD101235,2023-10-15,Books,Tablet,Surat,25,0,657.51,2,0,0,1315.02,Delivered,4.0,14.0
+ORD101236,2023-10-16,Fashion,iOS App,Surat,55,0,1326.22,3,10,49,3629.79,Delivered,4.0,7.0
+ORD101237,2023-10-16,Fashion,Tablet,Nagpur,28,0,1908.63,3,0,0,5725.89,Processing,4.0,9.0
+ORD101238,2023-10-16,Electronics,Android App,Nagpur,38,0,28218.59,2,5,0,53615.32,Delivered,,8.0
+ORD101239,2023-10-17,Fashion,Web,Pune,23,1,1156.99,2,30,99,1718.79,Delivered,,14.0
+ORD101240,2023-10-17,Home & Kitchen,Web,Delhi,19,0,1895.32,1,0,99,1994.32,Delivered,1.0,9.0
+ORD101241,2023-10-18,Home & Kitchen,Android App,Kolkata,52,1,3012.97,5,0,149,15213.85,Delivered,3.0,2.0
+ORD101242,2023-10-18,Automotive,Web,Kolkata,26,0,7532.41,2,5,149,14460.58,Processing,4.0,12.0
+ORD101243,2023-10-18,Food,Web,Pune,25,1,312.42,1,20,149,398.94,Delivered,5.0,1.0
+ORD101244,2023-10-19,Electronics,iOS App,Ahmedabad,57,0,9186.46,4,0,99,36844.84,Delivered,5.0,8.0
+ORD101245,2023-10-19,Books,iOS App,Jaipur,51,1,211.85,1,0,0,211.85,Delivered,5.0,5.0
+ORD101246,2023-10-20,Health,Tablet,Surat,28,0,1394.41,5,5,0,6623.45,Processing,5.0,7.0
+ORD101247,2023-10-20,Home & Kitchen,Tablet,Pune,58,0,4814.45,5,10,149,21814.02,Delivered,,12.0
+ORD101248,2023-10-21,Home & Kitchen,Tablet,Surat,63,0,1992.79,3,0,149,6127.37,Delivered,4.0,2.0
+ORD101249,2023-10-21,Toys,Web,Bhopal,37,0,1184.45,1,20,49,996.56,Delivered,3.0,1.0
+ORD101250,2023-10-21,Books,Tablet,Surat,39,0,356.42,1,20,49,334.14,Delivered,5.0,13.0
+ORD101251,2023-10-22,Toys,Tablet,Surat,49,1,421.62,5,5,0,2002.69,Delivered,,4.0
+ORD101252,2023-10-22,Fashion,Android App,Hyderabad,24,0,1200.95,3,0,0,3602.85,Delivered,5.0,7.0
+ORD101253,2023-10-23,Books,Tablet,Pune,60,1,558.5,3,5,49,1640.72,Delivered,5.0,14.0
+ORD101254,2023-10-23,Home & Kitchen,Tablet,Mumbai,23,1,4451.0,1,0,0,4451.0,Delivered,5.0,11.0
+ORD101255,2023-10-23,Home & Kitchen,Android App,Ahmedabad,53,0,3666.62,5,5,49,17465.44,Delivered,4.0,9.0
+ORD101256,2023-10-24,Books,iOS App,Delhi,45,1,321.82,3,15,99,919.64,Delivered,5.0,1.0
+ORD101257,2023-10-24,Home & Kitchen,iOS App,Kanpur,24,0,3380.69,1,0,99,3479.69,Cancelled,5.0,
+ORD101258,2023-10-25,Automotive,iOS App,Bhopal,38,1,5362.08,1,0,149,5511.08,Shipped,3.0,8.0
+ORD101259,2023-10-25,Electronics,iOS App,Nagpur,31,1,16275.51,5,0,0,81377.55,Delivered,5.0,2.0
+ORD101260,2023-10-25,Food,Android App,Bangalore,62,1,308.63,1,0,49,357.63,Delivered,4.0,10.0
+ORD101261,2023-10-26,Home & Kitchen,iOS App,Surat,43,0,3548.78,2,0,99,7196.56,Delivered,5.0,11.0
+ORD101262,2023-10-26,Health,iOS App,Kolkata,35,1,588.33,1,5,49,607.91,Cancelled,4.0,
+ORD101263,2023-10-27,Electronics,Web,Mumbai,30,1,14028.82,1,15,149,12073.5,Delivered,4.0,13.0
+ORD101264,2023-10-27,Food,Android App,Lucknow,24,0,173.42,5,0,0,867.1,Delivered,5.0,14.0
+ORD101265,2023-10-27,Toys,Web,Indore,41,0,982.2,4,0,0,3928.8,Delivered,5.0,11.0
+ORD101266,2023-10-28,Automotive,iOS App,Kolkata,41,1,5671.11,2,25,49,8555.66,Delivered,3.0,5.0
+ORD101267,2023-10-28,Food,Web,Indore,62,0,376.97,1,10,49,388.27,Delivered,4.0,2.0
+ORD101268,2023-10-29,Food,iOS App,Mumbai,48,0,157.85,2,20,49,301.56,Delivered,5.0,10.0
+ORD101269,2023-10-29,Home & Kitchen,Android App,Indore,39,1,3052.09,2,5,49,5847.97,Delivered,,8.0
+ORD101270,2023-10-29,Home & Kitchen,Android App,Lucknow,35,1,2311.58,4,0,0,9246.32,Delivered,5.0,11.0
+ORD101271,2023-10-30,Electronics,Web,Lucknow,30,0,9571.97,3,0,49,28764.91,Returned,1.0,6.0
+ORD101272,2023-10-30,Health,Android App,Ahmedabad,48,0,1494.15,3,15,99,3909.08,Delivered,5.0,3.0
+ORD101273,2023-10-31,Food,iOS App,Mumbai,24,0,174.1,1,20,0,139.28,Processing,5.0,13.0
+ORD101274,2023-10-31,Toys,iOS App,Kolkata,18,0,533.66,1,5,149,655.98,Delivered,4.0,14.0
+ORD101275,2023-10-31,Health,Android App,Bhopal,60,0,945.15,2,5,99,1894.78,Processing,4.0,11.0
+ORD101276,2023-11-01,Books,Web,Kolkata,19,1,328.7,2,5,0,624.53,Delivered,3.0,1.0
+ORD101277,2023-11-01,Toys,Web,Delhi,28,1,1315.81,3,0,0,3947.43,Delivered,3.0,12.0
+ORD101278,2023-11-02,Books,Web,Ahmedabad,44,1,694.04,5,0,0,3470.2,Shipped,5.0,14.0
+ORD101279,2023-11-02,Food,iOS App,Bangalore,27,1,283.4,3,30,0,595.14,Delivered,4.0,6.0
+ORD101280,2023-11-03,Health,Web,Kolkata,49,1,721.53,2,0,99,1542.06,Delivered,4.0,8.0
+ORD101281,2023-11-03,Toys,Web,Surat,43,0,873.02,3,0,149,2768.06,Processing,4.0,1.0
+ORD101282,2023-11-03,Toys,Android App,Delhi,21,0,870.45,1,10,0,783.41,Delivered,5.0,9.0
+ORD101283,2023-11-04,Toys,Web,Kolkata,39,0,839.34,4,5,0,3189.49,Delivered,5.0,11.0
+ORD101284,2023-11-04,Books,iOS App,Ahmedabad,57,1,185.68,1,30,149,278.98,Returned,4.0,3.0
+ORD101285,2023-11-05,Books,Web,Kanpur,36,1,242.4,2,0,49,533.8,Processing,3.0,9.0
+ORD101286,2023-11-05,Books,Tablet,Delhi,49,0,249.03,5,20,49,1045.12,Delivered,1.0,4.0
+ORD101287,2023-11-05,Food,Web,Surat,45,0,256.91,3,0,49,819.73,Shipped,5.0,2.0
+ORD101288,2023-11-06,Fashion,iOS App,Surat,39,0,1645.42,4,0,0,6581.68,Processing,4.0,1.0
+ORD101289,2023-11-06,Toys,iOS App,Mumbai,44,0,1271.74,2,5,0,2416.31,Delivered,4.0,11.0
+ORD101290,2023-11-07,Food,Android App,Delhi,40,1,208.76,5,20,149,984.04,Delivered,4.0,3.0
+ORD101291,2023-11-07,Fashion,Web,Surat,21,0,1988.16,2,5,99,3876.5,Delivered,3.0,3.0
+ORD101292,2023-11-07,Health,Tablet,Nagpur,38,0,755.38,2,0,0,1510.76,Delivered,3.0,14.0
+ORD101293,2023-11-08,Health,iOS App,Nagpur,37,1,494.03,1,5,149,618.33,Delivered,5.0,11.0
+ORD101294,2023-11-08,Home & Kitchen,Web,Kanpur,54,0,4424.36,2,0,49,8897.72,Cancelled,4.0,
+ORD101295,2023-11-09,Fashion,Android App,Nagpur,51,0,986.34,3,20,0,2367.22,Shipped,5.0,10.0
+ORD101296,2023-11-09,Toys,Android App,Surat,44,1,1315.64,1,25,149,1135.73,Shipped,3.0,7.0
+ORD101297,2023-11-09,Health,Android App,Bangalore,35,0,1710.12,1,10,99,1638.11,Delivered,5.0,1.0
+ORD101298,2023-11-10,Automotive,Tablet,Ahmedabad,47,0,3287.74,2,5,99,6345.71,Delivered,4.0,4.0
+ORD101299,2023-11-10,Fashion,iOS App,Pune,64,0,950.49,4,10,0,3421.76,Delivered,5.0,11.0
+ORD101300,2023-11-11,Food,Tablet,Chennai,57,0,203.91,3,10,0,550.56,Delivered,4.0,11.0
+ORD101301,2023-11-11,Toys,Tablet,Delhi,29,0,1307.01,1,0,149,1456.01,Delivered,4.0,6.0
+ORD101302,2023-11-11,Books,Android App,Mumbai,31,1,215.96,1,0,0,215.96,Delivered,5.0,14.0
+ORD101303,2023-11-12,Books,Tablet,Kanpur,41,0,569.36,1,10,149,661.42,Shipped,3.0,8.0
+ORD101304,2023-11-12,Food,Web,Bangalore,49,1,232.89,2,20,99,471.62,Delivered,2.0,1.0
+ORD101305,2023-11-13,Health,Android App,Surat,49,0,1236.29,2,0,49,2521.58,Delivered,3.0,14.0
+ORD101306,2023-11-13,Health,Web,Hyderabad,54,1,689.33,1,20,149,700.46,Delivered,,1.0
+ORD101307,2023-11-13,Toys,iOS App,Ahmedabad,43,1,1196.86,3,15,149,3200.99,Returned,,13.0
+ORD101308,2023-11-14,Home & Kitchen,Android App,Pune,56,0,4518.47,3,25,149,10315.56,Delivered,5.0,2.0
+ORD101309,2023-11-14,Home & Kitchen,Web,Hyderabad,19,0,1595.16,4,30,49,4515.45,Delivered,4.0,6.0
+ORD101310,2023-11-15,Automotive,iOS App,Ahmedabad,28,1,4278.49,5,0,49,21441.45,Returned,3.0,1.0
+ORD101311,2023-11-15,Home & Kitchen,iOS App,Kanpur,42,0,3598.58,4,5,49,13723.6,Cancelled,5.0,
+ORD101312,2023-11-16,Fashion,Web,Ahmedabad,42,1,1556.12,5,15,0,6613.51,Delivered,3.0,5.0
+ORD101313,2023-11-16,Books,Android App,Kanpur,63,0,609.32,5,20,149,2586.28,Processing,4.0,8.0
+ORD101314,2023-11-16,Fashion,Tablet,Indore,48,1,1296.54,5,0,149,6631.7,Cancelled,5.0,
+ORD101315,2023-11-17,Health,Tablet,Ahmedabad,37,0,1701.24,2,10,0,3062.23,Delivered,4.0,12.0
+ORD101316,2023-11-17,Toys,Tablet,Nagpur,45,0,553.58,1,20,99,541.86,Shipped,5.0,7.0
+ORD101317,2023-11-18,Food,Tablet,Delhi,23,0,446.64,1,0,149,595.64,Delivered,5.0,5.0
+ORD101318,2023-11-18,Health,Web,Jaipur,36,0,1670.8,5,0,99,8453.0,Processing,5.0,1.0
+ORD101319,2023-11-18,Home & Kitchen,Web,Kolkata,18,0,4320.09,5,0,0,21600.45,Delivered,5.0,7.0
+ORD101320,2023-11-19,Toys,Web,Mumbai,25,0,1365.9,2,0,0,2731.8,Delivered,4.0,11.0
+ORD101321,2023-11-19,Health,Tablet,Indore,37,1,1004.29,4,10,49,3664.44,Shipped,5.0,2.0
+ORD101322,2023-11-20,Toys,Web,Kanpur,18,0,1084.25,3,0,149,3401.75,Delivered,5.0,8.0
+ORD101323,2023-11-20,Food,Tablet,Jaipur,26,0,128.79,1,15,0,109.47,Shipped,5.0,13.0
+ORD101324,2023-11-20,Fashion,iOS App,Lucknow,60,1,1094.42,4,0,49,4426.68,Delivered,5.0,13.0
+ORD101325,2023-11-21,Toys,Android App,Kanpur,57,1,944.69,1,20,99,854.75,Delivered,,13.0
+ORD101326,2023-11-21,Automotive,Tablet,Kanpur,44,1,9069.5,1,0,99,9168.5,Cancelled,5.0,
+ORD101327,2023-11-22,Home & Kitchen,Tablet,Hyderabad,62,0,5788.17,3,15,149,14908.83,Cancelled,,
+ORD101328,2023-11-22,Books,Web,Kolkata,19,1,479.2,1,0,99,578.2,Shipped,4.0,3.0
+ORD101329,2023-11-22,Books,iOS App,Pune,62,0,624.33,2,10,49,1172.79,Processing,,9.0
+ORD101330,2023-11-23,Home & Kitchen,Web,Indore,41,0,5096.55,4,0,149,20535.2,Delivered,,11.0
+ORD101331,2023-11-23,Food,iOS App,Delhi,35,1,415.13,3,5,99,1282.12,Delivered,2.0,6.0
+ORD101332,2023-11-24,Home & Kitchen,iOS App,Indore,55,0,2001.56,1,0,99,2100.56,Processing,5.0,4.0
+ORD101333,2023-11-24,Books,Tablet,Pune,39,0,426.29,2,0,0,852.58,Processing,4.0,3.0
+ORD101334,2023-11-24,Health,Android App,Kanpur,46,0,1106.45,5,15,49,4751.41,Delivered,5.0,8.0
+ORD101335,2023-11-25,Home & Kitchen,Web,Bangalore,32,0,5043.56,5,0,0,25217.8,Delivered,3.0,1.0
+ORD101336,2023-11-25,Toys,iOS App,Nagpur,42,0,965.41,5,25,149,3769.29,Delivered,4.0,10.0
+ORD101337,2023-11-26,Health,Android App,Jaipur,24,1,1556.8,3,5,0,4436.88,Delivered,4.0,12.0
+ORD101338,2023-11-26,Electronics,Android App,Bhopal,28,1,29020.14,3,0,49,87109.42,Shipped,4.0,12.0
+ORD101339,2023-11-26,Electronics,Tablet,Pune,44,1,19979.94,4,25,149,60088.82,Delivered,,5.0
+ORD101340,2023-11-27,Fashion,Web,Bhopal,62,0,2025.08,5,0,99,10224.4,Delivered,4.0,2.0
+ORD101341,2023-11-27,Health,Tablet,Nagpur,26,1,1206.76,1,20,99,1064.41,Delivered,4.0,8.0
+ORD101342,2023-11-28,Automotive,Tablet,Mumbai,45,1,7192.77,5,0,99,36062.85,Shipped,5.0,11.0
+ORD101343,2023-11-28,Food,Web,Pune,20,0,303.5,4,10,0,1092.6,Cancelled,3.0,
+ORD101344,2023-11-29,Toys,Android App,Kolkata,41,0,1357.58,1,20,0,1086.06,Delivered,4.0,2.0
+ORD101345,2023-11-29,Food,Android App,Chennai,57,0,431.59,5,0,99,2256.95,Cancelled,4.0,
+ORD101346,2023-11-29,Food,Tablet,Indore,33,0,406.98,1,10,149,515.28,Delivered,,2.0
+ORD101347,2023-11-30,Health,Web,Delhi,55,0,894.94,1,0,49,943.94,Delivered,5.0,8.0
+ORD101348,2023-11-30,Books,Web,Chennai,36,1,429.84,2,15,0,730.73,Processing,5.0,3.0
+ORD101349,2023-12-01,Food,Tablet,Chennai,61,0,448.59,3,0,0,1345.77,Delivered,4.0,14.0
+ORD101350,2023-12-01,Toys,Web,Kolkata,47,0,1333.2,3,0,49,4048.6,Delivered,4.0,5.0
+ORD101351,2023-12-01,Automotive,iOS App,Lucknow,33,0,9981.63,2,0,0,19963.26,Delivered,5.0,12.0
+ORD101352,2023-12-02,Electronics,iOS App,Mumbai,30,0,24024.66,4,10,0,86488.78,Delivered,4.0,5.0
+ORD101353,2023-12-02,Food,Android App,Surat,58,0,399.06,3,30,49,887.03,Processing,4.0,4.0
+ORD101354,2023-12-03,Books,iOS App,Kolkata,40,1,224.28,1,30,49,206.0,Delivered,3.0,2.0
+ORD101355,2023-12-03,Automotive,Tablet,Surat,36,0,8136.56,5,15,99,34679.38,Delivered,,3.0
+ORD101356,2023-12-03,Books,Web,Mumbai,45,1,357.04,2,20,49,620.26,Delivered,5.0,11.0
+ORD101357,2023-12-04,Food,Android App,Nagpur,21,0,449.23,4,20,49,1486.54,Delivered,3.0,11.0
+ORD101358,2023-12-04,Toys,Android App,Jaipur,26,0,361.81,2,5,0,687.44,Shipped,,10.0
+ORD101359,2023-12-05,Electronics,Android App,Chennai,39,1,28523.68,4,0,99,114193.72,Delivered,4.0,2.0
+ORD101360,2023-12-05,Electronics,Web,Kanpur,31,0,18387.32,2,10,0,33097.18,Processing,5.0,5.0
+ORD101361,2023-12-05,Electronics,iOS App,Ahmedabad,44,0,10379.0,2,0,149,20907.0,Delivered,3.0,9.0
+ORD101362,2023-12-06,Home & Kitchen,Tablet,Pune,34,1,4204.49,1,20,0,3363.59,Delivered,,14.0
+ORD101363,2023-12-06,Fashion,Android App,Bangalore,38,0,1845.66,5,5,99,8865.88,Delivered,2.0,4.0
+ORD101364,2023-12-07,Health,Web,Ahmedabad,54,1,1502.73,4,0,49,6059.92,Delivered,,3.0
+ORD101365,2023-12-07,Toys,Android App,Chennai,54,1,1086.94,4,20,99,3577.21,Delivered,5.0,12.0
+ORD101366,2023-12-07,Toys,Tablet,Kanpur,31,0,931.04,4,0,99,3823.16,Delivered,4.0,7.0
+ORD101367,2023-12-08,Food,Tablet,Pune,34,0,155.73,1,30,0,109.01,Delivered,3.0,6.0
+ORD101368,2023-12-08,Automotive,Web,Delhi,48,0,8971.74,3,30,49,18889.65,Delivered,5.0,6.0
+ORD101369,2023-12-09,Food,Web,Lucknow,61,0,493.78,5,10,0,2222.01,Cancelled,2.0,
+ORD101370,2023-12-09,Health,Web,Nagpur,43,0,1500.31,2,15,49,2599.53,Delivered,3.0,7.0
+ORD101371,2023-12-09,Automotive,iOS App,Nagpur,21,0,2760.57,1,0,149,2909.57,Delivered,5.0,12.0
+ORD101372,2023-12-10,Automotive,Tablet,Ahmedabad,46,1,8167.73,5,5,49,38845.72,Delivered,2.0,10.0
+ORD101373,2023-12-10,Automotive,iOS App,Hyderabad,51,1,4522.31,1,20,99,3716.85,Processing,4.0,2.0
+ORD101374,2023-12-11,Books,Tablet,Chennai,62,0,680.1,4,0,0,2720.4,Delivered,5.0,2.0
+ORD101375,2023-12-11,Health,Web,Pune,61,0,535.74,5,0,49,2727.7,Delivered,1.0,9.0
+ORD101376,2023-12-12,Food,Tablet,Delhi,50,1,159.6,4,0,99,737.4,Delivered,4.0,12.0
+ORD101377,2023-12-12,Books,Tablet,Indore,43,0,270.22,1,10,0,243.2,Delivered,1.0,14.0
+ORD101378,2023-12-12,Health,Tablet,Chennai,25,0,1466.76,5,15,0,6233.73,Delivered,,13.0
+ORD101379,2023-12-13,Toys,Android App,Kanpur,59,0,1033.98,1,0,0,1033.98,Shipped,4.0,10.0
+ORD101380,2023-12-13,Electronics,Android App,Pune,40,0,23862.83,5,0,0,119314.15,Delivered,5.0,4.0
+ORD101381,2023-12-14,Fashion,Web,Lucknow,50,0,1236.99,1,20,149,1138.59,Cancelled,5.0,
+ORD101382,2023-12-14,Toys,Tablet,Indore,52,0,1273.55,3,0,0,3820.65,Cancelled,5.0,
+ORD101383,2023-12-14,Automotive,Android App,Kolkata,18,0,5846.92,5,0,0,29234.6,Shipped,4.0,13.0
+ORD101384,2023-12-15,Health,Android App,Bhopal,35,1,631.05,2,0,0,1262.1,Shipped,3.0,6.0
+ORD101385,2023-12-15,Toys,iOS App,Pune,49,0,1155.85,1,15,0,982.47,Delivered,4.0,2.0
+ORD101386,2023-12-16,Fashion,Web,Chennai,40,1,1553.17,1,0,49,1602.17,Shipped,5.0,11.0
+ORD101387,2023-12-16,Electronics,Android App,Lucknow,48,0,20851.75,2,0,0,41703.5,Delivered,5.0,6.0
+ORD101388,2023-12-16,Toys,Android App,Bangalore,44,0,754.38,2,5,0,1433.32,Shipped,2.0,9.0
+ORD101389,2023-12-17,Toys,Web,Delhi,18,1,1096.26,2,0,0,2192.52,Delivered,5.0,3.0
+ORD101390,2023-12-17,Electronics,Tablet,Pune,32,0,8300.28,3,30,99,17529.59,Shipped,3.0,5.0
+ORD101391,2023-12-18,Health,Web,Jaipur,37,0,1113.09,2,20,49,1829.94,Delivered,4.0,11.0
+ORD101392,2023-12-18,Fashion,Android App,Ahmedabad,36,0,1368.89,3,10,99,3795.0,Delivered,5.0,12.0
+ORD101393,2023-12-18,Automotive,Web,Mumbai,19,0,8098.59,2,5,0,15387.32,Delivered,3.0,4.0
+ORD101394,2023-12-19,Fashion,Tablet,Jaipur,18,0,1078.56,2,0,49,2206.12,Delivered,,12.0
+ORD101395,2023-12-19,Automotive,iOS App,Surat,31,1,4252.84,5,10,149,19286.78,Delivered,5.0,4.0
+ORD101396,2023-12-20,Electronics,iOS App,Hyderabad,58,1,14696.23,4,0,0,58784.92,Shipped,4.0,11.0
+ORD101397,2023-12-20,Home & Kitchen,Android App,Jaipur,64,0,3662.45,4,10,49,13233.82,Delivered,2.0,6.0
+ORD101398,2023-12-20,Food,Tablet,Pune,57,0,203.7,2,0,0,407.4,Cancelled,5.0,
+ORD101399,2023-12-21,Automotive,Android App,Mumbai,62,0,7631.55,5,15,0,32434.09,Processing,5.0,5.0
+ORD101400,2023-12-21,Home & Kitchen,Android App,Kanpur,61,0,2992.25,2,0,49,6033.5,Processing,3.0,2.0
+ORD101401,2023-12-22,Electronics,Web,Kolkata,50,0,16984.36,4,5,49,64589.57,Cancelled,4.0,
+ORD101402,2023-12-22,Fashion,Tablet,Bhopal,23,0,1603.67,4,0,49,6463.68,Delivered,5.0,1.0
+ORD101403,2023-12-22,Books,Android App,Bangalore,35,0,372.86,2,0,49,794.72,Processing,4.0,8.0
+ORD101404,2023-12-23,Health,Web,Mumbai,52,0,1396.66,4,5,49,5356.31,Delivered,4.0,1.0
+ORD101405,2023-12-23,Books,iOS App,Kanpur,36,0,519.5,1,5,49,542.52,Delivered,4.0,8.0
+ORD101406,2023-12-24,Food,Android App,Nagpur,30,0,408.81,2,30,99,671.33,Delivered,4.0,2.0
+ORD101407,2023-12-24,Automotive,Tablet,Indore,19,0,6422.53,3,0,99,19366.59,Delivered,3.0,3.0
+ORD101408,2023-12-25,Home & Kitchen,Android App,Bhopal,33,1,3153.4,4,0,0,12613.6,Delivered,4.0,14.0
+ORD101409,2023-12-25,Food,iOS App,Hyderabad,33,1,200.42,2,5,0,380.8,Delivered,2.0,13.0
+ORD101410,2023-12-25,Books,iOS App,Lucknow,56,0,404.37,4,0,99,1716.48,Returned,1.0,7.0
+ORD101411,2023-12-26,Fashion,Android App,Mumbai,54,0,2171.43,4,20,0,6948.58,Delivered,,5.0
+ORD101412,2023-12-26,Automotive,Tablet,Kolkata,23,0,3407.7,5,0,149,17187.5,Cancelled,2.0,
+ORD101413,2023-12-27,Toys,Android App,Indore,42,1,576.17,1,20,99,559.94,Shipped,2.0,6.0
+ORD101414,2023-12-27,Home & Kitchen,Tablet,Surat,60,0,4493.61,3,10,0,12132.75,Processing,5.0,3.0
+ORD101415,2023-12-27,Food,Android App,Nagpur,40,0,340.61,4,0,99,1461.44,Shipped,,4.0
+ORD101416,2023-12-28,Food,iOS App,Bhopal,62,0,468.57,3,5,0,1335.42,Returned,5.0,9.0
+ORD101417,2023-12-28,Food,iOS App,Kanpur,22,0,135.89,2,5,0,258.19,Delivered,3.0,14.0
+ORD101418,2023-12-29,Food,iOS App,Lucknow,33,1,454.44,3,5,149,1444.15,Delivered,5.0,10.0
+ORD101419,2023-12-29,Home & Kitchen,Web,Pune,61,0,4764.7,3,0,99,14393.1,Delivered,5.0,9.0
+ORD101420,2023-12-29,Health,Android App,Ahmedabad,51,0,1496.95,3,10,49,4090.77,Delivered,5.0,11.0
+ORD101421,2023-12-30,Electronics,Web,Delhi,31,1,16020.01,5,15,99,68184.04,Delivered,3.0,1.0
+ORD101422,2023-12-30,Toys,Tablet,Jaipur,59,0,672.69,3,5,0,1917.17,Delivered,4.0,9.0
+ORD101423,2023-12-31,Books,Tablet,Bhopal,35,1,182.55,2,10,99,427.59,Returned,4.0,3.0
+ORD101424,2023-12-31,Food,iOS App,Bangalore,55,1,420.28,1,20,149,485.22,Delivered,5.0,6.0
+ORD101425,2023-12-31,Food,Android App,Ahmedabad,33,1,185.58,1,5,99,275.3,Cancelled,4.0,
+ORD101426,2024-01-01,Home & Kitchen,Web,Indore,33,1,2517.58,3,5,49,7224.1,Delivered,4.0,11.0
+ORD101427,2024-01-01,Home & Kitchen,Android App,Pune,33,1,2744.53,2,0,49,5538.06,Delivered,5.0,3.0
+ORD101428,2024-01-02,Fashion,Tablet,Jaipur,35,0,2165.41,1,0,149,2314.41,Delivered,5.0,14.0
+ORD101429,2024-01-02,Health,Android App,Kanpur,46,1,838.67,2,0,0,1677.34,Returned,,9.0
+ORD101430,2024-01-02,Books,Tablet,Kanpur,56,0,398.48,2,5,149,906.11,Delivered,5.0,5.0
+ORD101431,2024-01-03,Food,Web,Lucknow,47,1,405.25,3,15,49,1082.39,Delivered,3.0,5.0
+ORD101432,2024-01-03,Automotive,Tablet,Mumbai,19,0,9192.03,1,0,0,9192.03,Cancelled,5.0,
+ORD101433,2024-01-04,Books,iOS App,Mumbai,46,1,590.37,5,15,0,2509.07,Delivered,4.0,5.0
+ORD101434,2024-01-04,Health,Web,Kanpur,38,0,1172.81,5,0,49,5913.05,Cancelled,2.0,
+ORD101435,2024-01-04,Toys,Android App,Bhopal,21,0,352.29,5,0,0,1761.45,Delivered,4.0,12.0
+ORD101436,2024-01-05,Food,Android App,Hyderabad,33,1,184.19,1,0,49,233.19,Delivered,5.0,12.0
+ORD101437,2024-01-05,Food,Web,Jaipur,63,0,220.1,4,5,149,985.38,Delivered,3.0,8.0
+ORD101438,2024-01-06,Books,iOS App,Delhi,34,0,392.23,1,0,0,392.23,Delivered,4.0,14.0
+ORD101439,2024-01-06,Home & Kitchen,Tablet,Bangalore,51,1,3129.85,4,0,99,12618.4,Shipped,3.0,2.0
+ORD101440,2024-01-07,Toys,Web,Ahmedabad,27,0,890.13,4,10,49,3253.47,Delivered,5.0,13.0
+ORD101441,2024-01-07,Home & Kitchen,Web,Mumbai,59,0,3354.12,2,5,99,6471.83,Delivered,5.0,6.0
+ORD101442,2024-01-07,Electronics,Tablet,Jaipur,56,0,23836.5,3,5,49,67983.02,Delivered,4.0,11.0
+ORD101443,2024-01-08,Home & Kitchen,Android App,Jaipur,25,1,1735.04,5,0,149,8824.2,Delivered,4.0,13.0
+ORD101444,2024-01-08,Home & Kitchen,iOS App,Delhi,50,0,5976.28,1,0,49,6025.28,Delivered,5.0,2.0
+ORD101445,2024-01-09,Health,iOS App,Jaipur,61,0,1588.13,3,0,49,4813.39,Delivered,4.0,12.0
+ORD101446,2024-01-09,Toys,Tablet,Kolkata,60,1,701.72,2,0,0,1403.44,Delivered,4.0,14.0
+ORD101447,2024-01-09,Electronics,Tablet,Delhi,51,1,16428.05,1,5,49,15655.65,Delivered,5.0,11.0
+ORD101448,2024-01-10,Fashion,Web,Chennai,52,1,2334.67,4,5,0,8871.75,Delivered,5.0,3.0
+ORD101449,2024-01-10,Electronics,Tablet,Jaipur,41,0,28555.6,5,25,49,107132.5,Delivered,5.0,12.0
+ORD101450,2024-01-11,Food,iOS App,Nagpur,25,1,272.44,3,20,49,702.86,Cancelled,2.0,
+ORD101451,2024-01-11,Home & Kitchen,iOS App,Kolkata,19,1,1768.27,3,0,99,5403.81,Processing,5.0,2.0
+ORD101452,2024-01-11,Health,iOS App,Surat,31,1,1783.75,3,0,49,5400.25,Shipped,4.0,10.0
+ORD101453,2024-01-12,Health,iOS App,Kolkata,29,0,1332.57,1,20,99,1165.06,Shipped,,2.0
+ORD101454,2024-01-12,Home & Kitchen,Android App,Nagpur,60,1,4618.51,2,0,0,9237.02,Delivered,4.0,8.0
+ORD101455,2024-01-13,Automotive,Tablet,Bhopal,57,1,4559.47,4,5,99,17424.99,Cancelled,4.0,
+ORD101456,2024-01-13,Fashion,Web,Kolkata,33,1,2073.67,3,10,149,5747.91,Delivered,3.0,11.0
+ORD101457,2024-01-13,Health,Android App,Hyderabad,35,1,1202.6,2,5,49,2333.94,Delivered,4.0,2.0
+ORD101458,2024-01-14,Books,Web,Jaipur,52,0,421.88,1,0,0,421.88,Shipped,4.0,10.0
+ORD101459,2024-01-14,Automotive,Web,Indore,49,1,8059.01,1,0,99,8158.01,Processing,5.0,12.0
+ORD101460,2024-01-15,Electronics,iOS App,Jaipur,59,0,15867.74,3,0,0,47603.22,Delivered,5.0,2.0
+ORD101461,2024-01-15,Food,Tablet,Pune,52,0,286.03,2,0,49,621.06,Processing,4.0,1.0
+ORD101462,2024-01-15,Automotive,iOS App,Kanpur,50,0,7392.45,4,0,0,29569.8,Delivered,5.0,13.0
+ORD101463,2024-01-16,Toys,iOS App,Bangalore,54,0,1021.57,3,10,49,2807.24,Delivered,5.0,7.0
+ORD101464,2024-01-16,Books,Tablet,Hyderabad,60,0,684.87,1,5,149,799.63,Cancelled,,
+ORD101465,2024-01-17,Toys,iOS App,Bangalore,35,0,940.99,2,0,0,1881.98,Delivered,4.0,4.0
+ORD101466,2024-01-17,Electronics,Tablet,Indore,29,1,14722.17,1,0,49,14771.17,Processing,4.0,7.0
+ORD101467,2024-01-17,Fashion,Tablet,Bhopal,60,1,1117.39,1,30,0,782.17,Shipped,,12.0
+ORD101468,2024-01-18,Toys,Android App,Bhopal,25,0,910.72,4,0,0,3642.88,Delivered,5.0,12.0
+ORD101469,2024-01-18,Books,Tablet,Mumbai,31,0,237.77,2,0,99,574.54,Processing,4.0,12.0
+ORD101470,2024-01-19,Home & Kitchen,Tablet,Indore,24,0,4146.45,5,10,99,18758.03,Delivered,4.0,5.0
+ORD101471,2024-01-19,Home & Kitchen,Web,Chennai,57,1,3256.15,2,0,149,6661.3,Shipped,3.0,11.0
+ORD101472,2024-01-20,Health,Web,Bhopal,61,0,925.2,2,0,0,1850.4,Shipped,4.0,7.0
+ORD101473,2024-01-20,Health,iOS App,Pune,37,0,709.84,3,0,0,2129.52,Shipped,4.0,6.0
+ORD101474,2024-01-20,Toys,Android App,Hyderabad,22,0,870.18,2,30,49,1267.25,Cancelled,5.0,
+ORD101475,2024-01-21,Food,iOS App,Surat,29,0,139.11,3,10,49,424.6,Delivered,4.0,13.0
+ORD101476,2024-01-21,Automotive,Android App,Kanpur,45,1,7053.88,1,5,99,6800.19,Delivered,4.0,3.0
+ORD101477,2024-01-22,Home & Kitchen,Tablet,Pune,34,1,2784.97,1,20,99,2326.98,Delivered,2.0,13.0
+ORD101478,2024-01-22,Electronics,Web,Nagpur,53,0,27864.08,5,10,149,125537.36,Delivered,1.0,13.0
+ORD101479,2024-01-22,Electronics,Tablet,Mumbai,55,0,19343.14,2,0,0,38686.28,Delivered,4.0,10.0
+ORD101480,2024-01-23,Health,iOS App,Indore,38,0,1503.79,1,5,149,1577.6,Delivered,3.0,1.0
+ORD101481,2024-01-23,Automotive,Tablet,Ahmedabad,46,1,8883.92,2,5,149,17028.45,Delivered,5.0,9.0
+ORD101482,2024-01-24,Home & Kitchen,Android App,Jaipur,20,1,5455.42,3,0,0,16366.26,Processing,4.0,2.0
+ORD101483,2024-01-24,Food,Web,Indore,24,1,451.49,3,15,49,1200.3,Delivered,4.0,5.0
+ORD101484,2024-01-24,Books,Tablet,Mumbai,33,1,293.37,4,0,99,1272.48,Processing,4.0,2.0
+ORD101485,2024-01-25,Automotive,Web,Indore,23,0,4774.87,5,0,49,23923.35,Delivered,5.0,11.0
+ORD101486,2024-01-25,Home & Kitchen,iOS App,Chennai,18,0,4685.72,2,0,0,9371.44,Cancelled,3.0,
+ORD101487,2024-01-26,Electronics,Android App,Bhopal,50,1,19596.41,2,0,49,39241.82,Shipped,5.0,14.0
+ORD101488,2024-01-26,Health,Tablet,Lucknow,19,0,1272.6,1,30,49,939.82,Delivered,3.0,10.0
+ORD101489,2024-01-26,Health,Web,Pune,29,0,1364.93,1,5,149,1445.68,Delivered,4.0,5.0
+ORD101490,2024-01-27,Books,Android App,Mumbai,51,1,234.98,1,0,99,333.98,Returned,4.0,11.0
+ORD101491,2024-01-27,Books,Web,Delhi,27,0,263.36,1,10,149,386.02,Cancelled,5.0,
+ORD101492,2024-01-28,Toys,iOS App,Delhi,28,0,1019.73,3,15,49,2649.31,Delivered,5.0,4.0
+ORD101493,2024-01-28,Toys,iOS App,Delhi,53,0,1006.64,4,5,99,3924.23,Processing,5.0,4.0
+ORD101494,2024-01-28,Electronics,iOS App,Surat,19,0,25892.21,5,5,0,122988.0,Cancelled,4.0,
+ORD101495,2024-01-29,Toys,Android App,Indore,33,0,1078.47,2,15,49,1882.4,Delivered,3.0,14.0
+ORD101496,2024-01-29,Home & Kitchen,Android App,Kanpur,43,0,2434.54,2,0,149,5018.08,Delivered,5.0,12.0
+ORD101497,2024-01-30,Automotive,Android App,Kanpur,21,0,3025.54,4,10,99,10990.94,Shipped,4.0,8.0
+ORD101498,2024-01-30,Books,Web,Bhopal,48,1,380.29,4,10,99,1468.04,Delivered,5.0,1.0
+ORD101499,2024-01-31,Electronics,Tablet,Surat,37,0,15853.63,4,20,0,50731.62,Shipped,4.0,14.0

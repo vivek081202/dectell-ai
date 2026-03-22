@@ -1,0 +1,1201 @@
+date,product_category,region,sales_channel,payment_method,unit_price,quantity_sold,discount_pct,marketing_spend,revenue,profit_margin,customer_rating,return_flag
+2022-01-01,Electronics,North,Mobile App,Debit Card,12411.05,7,10,6719.16,78189.61,0.156,5,0
+2022-01-01,Sports,Central,In-Store,Cash,3082.51,9,10,4955.72,24968.33,0.251,4,0
+2022-01-02,Books,North,Online,UPI,399.7,3,0,2336.41,1199.1,0.223,4,1
+2022-01-02,Furniture,West,Mobile App,Cash,9635.9,9,15,6092.56,73714.63,0.268,4,0
+2022-01-03,Furniture,Central,Phone,UPI,10993.98,13,10,1133.61,128629.57,0.39,5,0
+2022-01-04,Sports,South,Online,Credit Card,3118.51,2,15,6308.13,5301.47,0.14,4,1
+2022-01-04,Electronics,South,Online,Credit Card,15681.13,5,5,4924.89,74485.37,0.061,4,0
+2022-01-05,Books,South,In-Store,Credit Card,233.96,10,20,1330.63,1871.68,0.065,1,0
+2022-01-05,Clothing,North,Mobile App,UPI,1819.03,9,0,1096.29,16371.27,0.104,4,1
+2022-01-06,Electronics,North,Online,UPI,12096.75,10,15,6131.27,102822.38,0.278,5,0
+2022-01-07,Toys,North,Phone,Cash,652.3,8,0,2697.02,5218.4,0.373,5,0
+2022-01-07,Beauty,East,In-Store,Net Banking,926.3,10,0,7169.76,9263.0,0.405,2,0
+2022-01-08,Books,East,Online,Credit Card,413.66,9,5,6215.55,3536.79,0.304,5,1
+2022-01-08,Sports,North,Phone,Net Banking,3473.01,2,5,5736.43,6598.72,0.211,5,0
+2022-01-09,Books,Central,Online,Net Banking,270.53,11,15,2589.55,2529.46,0.112,4,0
+2022-01-10,Sports,West,Online,Cash,3034.07,7,0,5817.08,21238.49,0.211,1,0
+2022-01-10,Toys,North,Phone,UPI,734.99,1,20,7611.11,,0.183,4,0
+2022-01-11,Clothing,Central,Mobile App,Credit Card,1413.82,6,0,1186.7,8482.92,0.398,2,0
+2022-01-11,Sports,North,In-Store,Credit Card,1966.77,7,5,2946.22,13079.02,0.245,4,0
+2022-01-12,Furniture,East,Mobile App,Credit Card,5829.3,2,20,2260.04,9326.88,0.14,4,0
+2022-01-13,Toys,East,Mobile App,Cash,746.48,14,5,3449.38,9928.18,0.166,5,0
+2022-01-13,Groceries,East,Mobile App,UPI,417.12,4,10,6067.49,1501.63,0.105,4,0
+2022-01-14,Clothing,Central,Online,Credit Card,2084.82,5,20,4056.82,8339.28,0.417,5,0
+2022-01-14,Beauty,Central,Mobile App,Credit Card,820.39,7,20,4780.48,4594.18,0.07,5,0
+2022-01-15,Sports,South,In-Store,Credit Card,3461.35,12,5,2856.16,39459.39,0.055,1,0
+2022-01-16,Books,East,Phone,Cash,296.43,11,0,1559.67,3260.73,0.123,3,0
+2022-01-16,Furniture,Central,Mobile App,Cash,10044.62,11,0,2502.0,110490.82,0.374,5,0
+2022-01-17,Sports,West,Online,Cash,1898.43,4,5,6947.6,7214.03,0.259,5,0
+2022-01-18,Toys,Central,Phone,Credit Card,653.29,12,20,5018.13,6271.58,0.3,4,0
+2022-01-18,Furniture,East,In-Store,Credit Card,10091.53,12,5,3334.92,115043.44,0.193,4,0
+2022-01-19,Furniture,South,In-Store,Credit Card,10778.33,7,0,6424.29,75448.31,0.077,4,0
+2022-01-19,Clothing,East,Phone,Cash,1913.71,8,0,983.43,15309.68,0.392,5,0
+2022-01-20,Electronics,Central,Phone,Cash,8710.55,1,0,2404.18,8710.55,0.127,5,0
+2022-01-21,Toys,Central,Phone,Debit Card,576.53,11,0,2225.77,,0.063,2,0
+2022-01-21,Beauty,West,Mobile App,Credit Card,587.27,14,20,7890.23,6577.42,0.279,3,0
+2022-01-22,Electronics,West,Phone,Debit Card,9317.97,7,5,5795.74,61964.5,0.083,3,0
+2022-01-22,Sports,East,Online,Net Banking,2931.78,8,0,5133.39,23454.24,0.088,5,0
+2022-01-23,Sports,South,Mobile App,Credit Card,2998.2,7,0,537.39,20987.4,0.37,5,0
+2022-01-24,Groceries,East,In-Store,Cash,496.64,2,15,1882.33,844.29,0.247,5,1
+2022-01-24,Books,East,In-Store,UPI,391.75,9,20,5266.56,2820.6,0.147,2,0
+2022-01-25,Clothing,Central,Online,Credit Card,1826.4,11,15,3347.89,17076.84,0.189,4,0
+2022-01-25,Sports,East,Online,Net Banking,3151.53,13,0,7432.1,40969.89,0.342,3,0
+2022-01-26,Books,West,In-Store,UPI,220.28,14,0,6235.43,3083.92,0.077,4,0
+2022-01-27,Groceries,North,Phone,Cash,345.67,7,0,3855.38,2419.69,0.097,3,1
+2022-01-27,Electronics,West,Mobile App,Credit Card,13623.94,14,15,6121.36,162124.89,0.297,5,0
+2022-01-28,Beauty,East,In-Store,Debit Card,1040.55,8,15,7815.53,7075.74,0.293,3,0
+2022-01-28,Furniture,Central,In-Store,Cash,5625.2,9,15,3957.36,43032.78,0.439,4,0
+2022-01-29,Beauty,East,Mobile App,Cash,848.19,9,0,5318.94,7633.71,0.2,5,0
+2022-01-30,Books,East,Online,Credit Card,352.23,14,0,7389.98,4931.22,0.076,4,0
+2022-01-30,Sports,North,Mobile App,Cash,1801.81,11,20,2365.06,15855.93,0.265,2,1
+2022-01-31,Sports,Central,Mobile App,Net Banking,2452.37,2,20,7149.18,3923.79,0.305,5,0
+2022-02-01,Clothing,West,Online,Cash,1990.42,2,15,1231.59,3383.71,0.106,4,0
+2022-02-01,Groceries,Central,Mobile App,Debit Card,468.05,6,0,5363.36,2808.3,0.271,4,0
+2022-02-02,Furniture,North,Mobile App,Net Banking,6930.89,8,0,6371.29,55447.12,0.129,4,0
+2022-02-02,Furniture,South,Mobile App,Cash,10375.57,10,0,5109.55,103755.7,0.388,5,0
+2022-02-03,Electronics,Central,In-Store,Credit Card,11323.46,7,10,4216.51,71337.8,0.384,4,0
+2022-02-04,Toys,North,Mobile App,Credit Card,778.4,8,15,5130.1,5293.12,0.222,4,0
+2022-02-04,Clothing,East,Phone,Net Banking,1363.89,13,10,1637.48,15957.51,0.437,4,0
+2022-02-05,Books,East,Online,Debit Card,333.97,5,0,2116.78,1669.85,0.442,2,0
+2022-02-05,Books,Central,Mobile App,Credit Card,293.36,7,15,2524.25,1745.49,0.102,5,0
+2022-02-06,Beauty,Central,Mobile App,UPI,713.9,8,0,4983.35,5711.2,0.197,2,1
+2022-02-07,Books,Central,In-Store,UPI,396.18,7,15,3814.26,2357.27,0.29,4,0
+2022-02-07,Groceries,South,In-Store,UPI,332.53,14,20,2333.57,3724.34,0.084,4,0
+2022-02-08,Beauty,East,Phone,Cash,607.49,14,15,7121.07,7229.13,0.203,3,0
+2022-02-08,Furniture,West,In-Store,Net Banking,7514.79,8,20,3304.41,48094.66,0.154,4,0
+2022-02-09,Groceries,Central,Mobile App,Cash,480.94,7,10,3845.24,3029.92,0.431,4,1
+2022-02-10,Beauty,North,Online,Credit Card,1012.16,9,5,3572.76,8653.97,0.215,4,0
+2022-02-10,Groceries,Central,Phone,Credit Card,559.65,3,0,1864.57,1678.95,0.355,3,0
+2022-02-11,Electronics,South,Mobile App,Credit Card,10889.44,6,20,5987.2,52269.31,0.205,5,1
+2022-02-11,Furniture,North,Phone,Debit Card,7884.47,4,10,3863.44,28384.09,0.103,5,0
+2022-02-12,Sports,West,Mobile App,Debit Card,1989.44,3,0,621.93,5968.32,0.395,4,0
+2022-02-13,Clothing,West,In-Store,Net Banking,1653.62,2,20,7730.1,2645.79,0.05,4,0
+2022-02-13,Furniture,North,In-Store,Debit Card,11186.45,9,0,6618.23,100678.05,0.072,1,0
+2022-02-14,Clothing,North,Mobile App,Credit Card,1785.93,1,10,5926.7,1607.34,0.196,1,0
+2022-02-14,Books,Central,Phone,Net Banking,334.99,10,0,7018.19,3349.9,0.325,4,1
+2022-02-15,Furniture,Central,Online,Debit Card,7797.27,7,10,7301.05,49122.8,0.187,5,0
+2022-02-16,Groceries,North,Phone,Net Banking,536.28,6,0,3031.17,3217.68,0.077,5,0
+2022-02-16,Clothing,Central,Phone,Cash,1571.76,11,5,5082.19,,0.177,4,0
+2022-02-17,Toys,Central,Online,Net Banking,476.43,8,10,5066.06,3430.3,0.148,5,0
+2022-02-18,Books,Central,Online,Net Banking,286.73,11,15,2504.75,2680.93,0.052,4,0
+2022-02-18,Beauty,South,Mobile App,Credit Card,597.61,10,0,2164.64,5976.1,0.264,3,0
+2022-02-19,Furniture,East,Phone,Cash,6731.08,1,20,1354.3,,0.097,4,0
+2022-02-19,Clothing,Central,In-Store,UPI,1068.55,4,5,5444.86,4060.49,0.165,3,0
+2022-02-20,Sports,Central,Mobile App,Cash,2543.24,8,0,6356.89,20345.92,0.306,5,0
+2022-02-21,Books,West,Phone,Cash,343.25,14,0,6207.15,,0.34,4,0
+2022-02-21,Books,North,In-Store,UPI,282.09,3,0,2872.07,846.27,0.155,4,1
+2022-02-22,Electronics,North,Online,Debit Card,11931.21,2,10,2039.45,21476.18,0.182,4,0
+2022-02-22,Groceries,South,Phone,Net Banking,548.58,14,5,3902.11,7296.11,0.149,5,0
+2022-02-23,Sports,North,In-Store,Cash,3065.94,14,0,4601.1,42923.16,0.433,4,0
+2022-02-24,Sports,North,In-Store,Net Banking,2696.5,3,5,7393.15,7685.02,0.126,4,1
+2022-02-24,Furniture,North,In-Store,Debit Card,7193.43,6,15,7061.17,36686.49,0.123,3,0
+2022-02-25,Sports,West,Mobile App,Net Banking,3319.74,9,10,7370.44,26889.89,0.228,5,0
+2022-02-25,Sports,East,In-Store,Debit Card,2161.42,3,0,6876.97,6484.26,0.126,4,0
+2022-02-26,Furniture,East,Mobile App,UPI,7421.92,5,0,7734.36,37109.6,0.113,3,0
+2022-02-27,Beauty,Central,Mobile App,Net Banking,1069.08,6,5,3991.25,6093.76,0.088,5,0
+2022-02-27,Groceries,East,Online,Debit Card,428.27,9,0,856.05,3854.43,0.306,2,1
+2022-02-28,Clothing,East,In-Store,Debit Card,1829.43,5,15,1126.72,7775.08,0.295,4,0
+2022-02-28,Books,South,Online,Net Banking,334.06,6,10,3427.07,1803.92,0.31,4,0
+2022-03-01,Books,East,Online,Net Banking,347.22,5,15,2432.65,1475.69,0.359,4,0
+2022-03-02,Clothing,North,Phone,Debit Card,1364.35,11,10,1774.55,13507.06,0.181,4,0
+2022-03-02,Sports,East,Mobile App,Debit Card,2172.4,3,0,7649.03,6517.2,0.417,3,0
+2022-03-03,Clothing,Central,Mobile App,Debit Card,1388.62,4,10,1965.65,4999.03,0.343,3,0
+2022-03-04,Sports,East,Phone,Credit Card,2022.02,4,10,7695.34,7279.27,0.372,1,0
+2022-03-04,Electronics,South,Mobile App,UPI,15744.24,13,15,6206.29,173973.85,0.338,3,0
+2022-03-05,Sports,West,Phone,Debit Card,2245.68,14,0,5307.09,31439.52,0.193,5,0
+2022-03-05,Sports,Central,Mobile App,Net Banking,2732.61,8,10,5570.14,19674.79,0.163,4,0
+2022-03-06,Sports,East,In-Store,Credit Card,3135.96,3,0,2986.06,9407.88,0.219,4,0
+2022-03-07,Books,South,Mobile App,Cash,374.6,11,15,5348.2,,0.089,4,0
+2022-03-07,Furniture,West,In-Store,UPI,8054.96,7,15,1900.19,47927.01,0.231,5,0
+2022-03-08,Books,North,Phone,Cash,310.01,12,10,7532.79,3348.11,0.067,3,0
+2022-03-08,Groceries,Central,Online,Credit Card,558.52,6,20,2763.45,2680.9,0.052,3,0
+2022-03-09,Sports,South,Phone,UPI,2930.55,14,5,2413.9,38976.32,0.423,4,0
+2022-03-10,Toys,South,Phone,Cash,762.15,12,0,5833.72,9145.8,0.326,4,0
+2022-03-10,Furniture,West,Online,Debit Card,10654.3,4,10,5423.37,38355.48,0.275,5,0
+2022-03-11,Toys,North,Mobile App,Net Banking,750.79,11,15,3884.74,7019.89,0.186,5,0
+2022-03-11,Toys,South,Phone,UPI,497.78,5,0,5243.35,2488.9,0.278,5,0
+2022-03-12,Electronics,North,Mobile App,Debit Card,13122.23,5,0,1696.2,65611.15,0.407,3,0
+2022-03-13,Clothing,South,In-Store,Credit Card,1156.99,4,0,5549.96,4627.96,0.311,2,0
+2022-03-13,Clothing,East,Phone,Credit Card,1735.57,10,15,2529.58,14752.34,0.291,3,0
+2022-03-14,Electronics,North,Mobile App,UPI,16424.94,4,5,2546.27,62414.77,0.234,5,0
+2022-03-14,Furniture,South,Online,UPI,8471.3,9,20,1716.35,60993.36,0.188,5,0
+2022-03-15,Books,West,Online,Net Banking,300.92,9,20,2992.83,2166.62,0.329,5,0
+2022-03-16,Books,Central,Mobile App,Cash,217.53,11,5,2984.38,,0.442,3,0
+2022-03-16,Furniture,North,In-Store,Credit Card,10974.74,14,10,3906.34,138281.72,0.22,5,1
+2022-03-17,Sports,West,Online,UPI,1930.25,1,0,1928.15,1930.25,0.207,4,0
+2022-03-18,Toys,North,Phone,UPI,437.25,14,0,1947.56,6121.5,0.221,5,0
+2022-03-18,Electronics,East,Online,Credit Card,10466.96,2,0,4563.04,20933.92,0.22,4,1
+2022-03-19,Sports,Central,Online,Cash,1864.68,8,10,1466.58,13425.7,0.446,3,0
+2022-03-19,Toys,West,In-Store,UPI,611.15,5,0,5666.73,3055.75,0.333,2,0
+2022-03-20,Books,South,Online,Credit Card,318.38,9,0,7579.6,2865.42,0.194,5,0
+2022-03-21,Toys,South,In-Store,UPI,551.28,11,0,3700.97,6064.08,0.199,4,0
+2022-03-21,Toys,West,Phone,Cash,441.4,13,15,7258.29,4877.47,0.222,4,0
+2022-03-22,Electronics,Central,Phone,Debit Card,9337.44,6,20,1237.37,44819.71,0.065,4,0
+2022-03-22,Toys,South,Phone,Debit Card,581.49,14,15,822.18,,0.261,4,0
+2022-03-23,Sports,North,In-Store,Credit Card,1855.92,5,0,5910.27,9279.6,0.375,5,0
+2022-03-24,Groceries,East,Online,Debit Card,475.49,3,10,6207.66,1283.82,0.314,2,0
+2022-03-24,Toys,West,Phone,Net Banking,506.95,6,20,6822.94,2433.36,0.129,2,0
+2022-03-25,Electronics,East,In-Store,Cash,10937.4,8,10,926.13,78749.28,0.341,5,0
+2022-03-25,Groceries,Central,Mobile App,Credit Card,390.36,10,0,6326.8,3903.6,0.338,4,0
+2022-03-26,Furniture,Central,Online,UPI,7933.01,12,0,3324.04,95196.12,0.155,2,0
+2022-03-27,Beauty,West,Mobile App,Credit Card,560.93,4,15,2775.03,1907.16,0.299,1,0
+2022-03-27,Clothing,North,Mobile App,UPI,1167.67,5,5,1797.68,5546.43,0.294,3,0
+2022-03-28,Groceries,Central,Phone,Credit Card,521.57,14,15,7970.12,6206.68,0.386,3,0
+2022-03-28,Furniture,West,Online,Cash,5606.91,7,20,977.48,31398.7,0.104,1,0
+2022-03-29,Beauty,South,In-Store,UPI,844.57,4,0,6702.56,3378.28,0.128,3,0
+2022-03-30,Sports,East,Phone,Cash,2606.63,14,15,5296.21,31018.9,0.244,5,0
+2022-03-30,Electronics,Central,In-Store,UPI,11197.99,7,0,6013.1,78385.93,0.068,5,0
+2022-03-31,Clothing,Central,Mobile App,Debit Card,1502.89,14,5,5837.88,19988.44,0.216,5,0
+2022-03-31,Sports,East,Online,Debit Card,3116.02,13,0,6938.26,40508.26,0.365,4,0
+2022-04-01,Electronics,North,Mobile App,Debit Card,15466.11,13,0,1878.44,201059.43,0.109,4,0
+2022-04-02,Sports,West,In-Store,UPI,2205.61,9,0,506.18,19850.49,0.234,5,0
+2022-04-02,Groceries,West,Mobile App,UPI,370.3,12,0,4988.96,4443.6,0.446,5,0
+2022-04-03,Beauty,North,Phone,Cash,695.79,14,15,3153.94,8279.9,0.252,4,0
+2022-04-04,Groceries,Central,Mobile App,Credit Card,414.36,4,0,1428.4,1657.44,0.249,3,0
+2022-04-04,Furniture,South,In-Store,Debit Card,9426.25,1,0,1896.04,9426.25,0.274,4,0
+2022-04-05,Books,Central,Online,Net Banking,257.93,5,0,2988.12,1289.65,0.124,4,1
+2022-04-05,Clothing,East,In-Store,Net Banking,1397.27,9,0,1026.75,12575.43,0.109,4,0
+2022-04-06,Toys,South,Phone,Net Banking,810.76,8,0,926.85,6486.08,0.321,1,0
+2022-04-07,Toys,North,Online,Debit Card,440.4,2,20,7370.2,704.64,0.208,5,0
+2022-04-07,Sports,North,Mobile App,Credit Card,2556.35,8,20,2840.77,16360.64,0.166,4,0
+2022-04-08,Beauty,West,In-Store,Credit Card,958.47,3,0,7866.73,2875.41,0.063,4,0
+2022-04-08,Books,South,In-Store,Credit Card,241.6,8,5,7732.75,1836.16,0.388,3,0
+2022-04-09,Furniture,Central,Mobile App,Net Banking,5865.29,9,20,1569.28,42230.09,0.063,5,0
+2022-04-10,Furniture,South,In-Store,Net Banking,6373.95,9,0,5861.93,57365.55,0.35,5,0
+2022-04-10,Furniture,Central,In-Store,Net Banking,10745.41,6,20,5006.04,51577.97,0.203,2,0
+2022-04-11,Sports,Central,Mobile App,Cash,1766.2,6,0,5679.85,10597.2,0.289,4,0
+2022-04-11,Groceries,North,Phone,Debit Card,332.73,10,0,1221.43,3327.3,0.149,4,0
+2022-04-12,Clothing,West,Phone,UPI,1082.85,11,0,1914.2,11911.35,0.112,5,0
+2022-04-13,Groceries,Central,Mobile App,Net Banking,310.98,12,0,1074.79,3731.76,0.263,3,0
+2022-04-13,Electronics,South,Mobile App,Net Banking,13609.25,5,15,5031.01,57839.31,0.328,5,0
+2022-04-14,Electronics,North,Phone,UPI,10429.77,6,15,7899.43,53191.83,0.128,4,0
+2022-04-14,Electronics,Central,In-Store,Net Banking,13181.38,5,0,5539.88,65906.9,0.225,2,0
+2022-04-15,Sports,East,In-Store,Debit Card,2782.84,8,15,5830.71,18923.31,0.228,2,1
+2022-04-16,Books,North,In-Store,UPI,388.38,2,15,7884.39,660.25,0.136,3,0
+2022-04-16,Books,Central,Mobile App,Net Banking,211.0,7,15,5585.09,1255.45,0.276,3,0
+2022-04-17,Furniture,West,Mobile App,Debit Card,10378.87,3,15,801.36,26466.12,0.108,4,0
+2022-04-18,Books,North,Online,Cash,340.02,8,10,7002.54,2448.14,0.254,5,0
+2022-04-18,Clothing,South,Phone,UPI,1220.88,12,0,3235.09,14650.56,0.095,3,0
+2022-04-19,Beauty,North,In-Store,Debit Card,992.84,14,20,532.73,11119.81,0.244,5,0
+2022-04-19,Toys,Central,Phone,Debit Card,779.31,7,10,4304.26,4909.65,0.175,3,1
+2022-04-20,Beauty,North,Mobile App,Cash,702.39,1,20,7527.61,561.91,0.231,4,0
+2022-04-21,Clothing,West,Phone,UPI,2014.73,4,20,2429.98,6447.14,0.223,5,0
+2022-04-21,Furniture,East,Mobile App,Debit Card,8144.96,2,0,4186.35,16289.92,0.413,5,0
+2022-04-22,Books,East,Mobile App,Cash,336.72,11,0,1803.33,3703.92,0.246,4,0
+2022-04-22,Furniture,Central,Online,Credit Card,11114.04,14,0,932.7,155596.56,0.377,5,0
+2022-04-23,Furniture,Central,In-Store,Credit Card,7624.6,8,0,1104.09,60996.8,0.14,3,0
+2022-04-24,Clothing,North,Phone,Net Banking,1903.82,3,20,5952.58,4569.17,0.191,1,0
+2022-04-24,Furniture,North,In-Store,Cash,7383.04,1,20,6980.56,5906.43,0.08,4,0
+2022-04-25,Clothing,North,Online,UPI,1889.17,14,20,1574.74,21158.7,0.218,2,0
+2022-04-25,Groceries,West,Online,Credit Card,448.21,5,20,2662.39,1792.84,0.317,4,0
+2022-04-26,Books,East,Mobile App,UPI,255.43,2,10,1962.72,459.77,0.385,3,0
+2022-04-27,Books,North,Mobile App,UPI,296.95,3,5,701.42,846.31,0.276,5,0
+2022-04-27,Toys,South,Phone,UPI,553.41,4,20,4650.74,1770.91,0.306,5,0
+2022-04-28,Groceries,East,Phone,Credit Card,301.87,10,5,5749.42,2867.76,0.121,5,1
+2022-04-28,Beauty,West,Mobile App,UPI,576.71,13,10,5359.08,6747.51,0.065,5,0
+2022-04-29,Electronics,South,Mobile App,UPI,11310.42,4,0,3410.4,45241.68,0.367,3,0
+2022-04-30,Groceries,Central,Phone,Debit Card,285.33,10,15,4662.58,2425.3,0.117,1,0
+2022-04-30,Electronics,Central,Online,Credit Card,9790.1,1,15,1205.74,8321.59,0.086,4,0
+2022-05-01,Groceries,West,Mobile App,Net Banking,483.05,1,10,1657.28,434.74,0.425,4,0
+2022-05-01,Beauty,East,In-Store,Cash,956.53,1,5,7488.46,908.7,0.435,4,0
+2022-05-02,Groceries,Central,Phone,Cash,486.8,13,0,6211.31,6328.4,0.297,4,0
+2022-05-03,Beauty,West,Phone,Cash,737.61,9,0,7420.54,6638.49,0.201,4,0
+2022-05-03,Furniture,East,Mobile App,Cash,10584.11,12,10,7375.1,114308.39,0.383,3,0
+2022-05-04,Books,East,Mobile App,Credit Card,334.7,1,10,5370.44,301.23,0.132,4,1
+2022-05-05,Furniture,Central,Mobile App,UPI,6305.75,1,15,7461.79,5359.89,0.222,4,1
+2022-05-05,Groceries,East,Mobile App,Net Banking,320.24,12,20,3625.28,3074.3,0.193,4,0
+2022-05-06,Sports,North,Online,Debit Card,2962.92,2,5,527.12,5629.55,0.415,5,0
+2022-05-06,Beauty,Central,In-Store,Net Banking,656.85,3,15,969.28,1674.97,0.418,4,0
+2022-05-07,Groceries,North,Mobile App,Credit Card,422.04,8,15,1321.15,2869.87,0.31,5,0
+2022-05-08,Sports,West,Mobile App,Debit Card,3485.61,9,0,1215.15,31370.49,0.094,5,0
+2022-05-08,Groceries,West,Online,Debit Card,281.12,4,15,3137.77,955.81,0.243,2,0
+2022-05-09,Books,East,Phone,Cash,213.48,7,0,5759.53,1494.36,0.148,4,0
+2022-05-09,Sports,North,Phone,Credit Card,3487.9,10,10,6429.87,31391.1,0.404,4,0
+2022-05-10,Furniture,East,Mobile App,Debit Card,8873.98,7,20,4926.6,49694.29,0.105,4,0
+2022-05-11,Books,Central,Online,Cash,236.65,6,10,1598.27,1277.91,0.072,1,1
+2022-05-11,Groceries,South,Phone,Debit Card,531.24,2,20,6109.26,849.98,0.332,5,1
+2022-05-12,Electronics,West,Online,Net Banking,15795.19,7,0,3161.01,110566.33,0.231,5,0
+2022-05-12,Electronics,Central,In-Store,Net Banking,12904.08,12,5,597.45,147106.51,0.385,1,0
+2022-05-13,Furniture,Central,Phone,Debit Card,9082.04,9,15,2604.41,69477.61,0.08,3,0
+2022-05-14,Beauty,East,Mobile App,UPI,712.98,13,10,2979.5,8341.87,0.37,3,0
+2022-05-14,Clothing,South,Online,Debit Card,1103.05,2,20,2556.84,1764.88,0.065,5,0
+2022-05-15,Furniture,West,Online,Debit Card,8929.58,1,5,6589.03,,0.061,4,0
+2022-05-15,Books,East,In-Store,Cash,271.9,8,10,6199.45,1957.68,0.235,3,0
+2022-05-16,Clothing,West,Mobile App,Debit Card,1746.8,3,0,5716.64,5240.4,0.139,5,0
+2022-05-17,Books,West,Mobile App,Credit Card,385.61,9,20,1542.54,2776.39,0.287,4,1
+2022-05-17,Groceries,West,Online,Debit Card,285.08,13,0,6558.75,3706.04,0.06,4,0
+2022-05-18,Sports,South,Online,Net Banking,2792.5,5,0,5578.82,13962.5,0.064,4,0
+2022-05-19,Toys,West,Mobile App,Debit Card,517.14,8,0,1961.28,,0.341,4,0
+2022-05-19,Toys,East,Online,Debit Card,787.03,10,10,5360.7,7083.27,0.134,4,0
+2022-05-20,Clothing,Central,Online,Cash,1316.35,3,0,4126.34,3949.05,0.313,3,0
+2022-05-20,Furniture,West,In-Store,Credit Card,9020.31,13,0,3795.13,117264.03,0.35,4,0
+2022-05-21,Sports,Central,Mobile App,Debit Card,2718.7,3,15,1340.92,6932.68,0.074,5,0
+2022-05-22,Electronics,Central,Online,Credit Card,11727.8,12,0,4387.28,140733.6,0.358,4,0
+2022-05-22,Sports,Central,Online,Net Banking,2935.84,10,0,1249.49,29358.4,0.157,5,0
+2022-05-23,Furniture,West,Online,Net Banking,9664.31,2,0,1731.9,19328.62,0.206,4,0
+2022-05-23,Books,East,In-Store,Cash,329.06,11,0,1494.1,3619.66,0.085,5,0
+2022-05-24,Books,North,Online,Debit Card,369.27,3,20,7655.81,886.25,0.385,3,0
+2022-05-25,Furniture,South,Online,Cash,11107.14,9,5,2636.49,94966.05,0.274,5,0
+2022-05-25,Groceries,East,In-Store,Cash,397.4,14,20,3164.03,4450.88,0.252,3,0
+2022-05-26,Books,West,Online,Net Banking,318.06,14,0,2915.6,4452.84,0.437,1,0
+2022-05-26,Clothing,East,In-Store,Credit Card,1063.09,13,0,7236.88,13820.17,0.184,3,0
+2022-05-27,Toys,East,Mobile App,Cash,754.33,7,0,4722.24,5280.31,0.406,1,0
+2022-05-28,Electronics,North,Online,Credit Card,12769.93,8,0,7393.7,102159.44,0.338,5,0
+2022-05-28,Books,West,Mobile App,UPI,295.67,5,5,2749.44,1404.43,0.421,5,0
+2022-05-29,Books,East,Mobile App,Net Banking,229.76,13,15,1361.26,2538.85,0.413,5,0
+2022-05-29,Electronics,North,Mobile App,Credit Card,15873.11,7,0,4671.64,111111.77,0.446,2,0
+2022-05-30,Sports,South,Mobile App,Credit Card,2441.26,11,15,3091.53,22825.78,0.103,5,0
+2022-05-31,Furniture,Central,Phone,Net Banking,9422.46,6,10,6514.3,50881.28,0.368,5,0
+2022-05-31,Sports,North,Online,Credit Card,2011.4,11,0,7095.68,22125.4,0.372,4,0
+2022-06-01,Electronics,East,Online,Cash,16477.02,4,20,4044.3,52726.46,0.308,4,0
+2022-06-02,Clothing,East,In-Store,UPI,1237.36,11,5,7785.19,12930.41,0.162,4,0
+2022-06-02,Furniture,North,Mobile App,Debit Card,6717.44,1,0,4647.6,6717.44,0.436,1,0
+2022-06-03,Clothing,North,Phone,Net Banking,1951.93,2,20,2531.9,3123.09,0.132,4,0
+2022-06-03,Groceries,Central,Phone,Net Banking,535.52,5,20,4167.32,2142.08,0.25,5,0
+2022-06-04,Books,East,Mobile App,Debit Card,254.55,7,0,779.83,1781.85,0.259,3,0
+2022-06-05,Clothing,South,In-Store,Credit Card,1543.29,10,20,6530.01,12346.32,0.115,4,0
+2022-06-05,Books,North,In-Store,Credit Card,364.03,6,20,1260.76,1747.34,0.339,4,0
+2022-06-06,Electronics,East,Online,Credit Card,15778.27,1,15,2815.61,13411.53,0.086,5,0
+2022-06-06,Clothing,West,In-Store,Net Banking,1448.01,5,0,4739.87,7240.05,0.327,5,0
+2022-06-07,Toys,West,Mobile App,UPI,637.15,7,10,822.31,4014.04,0.389,5,0
+2022-06-08,Sports,North,Online,Cash,3048.0,8,5,1094.88,23164.8,0.19,4,0
+2022-06-08,Clothing,West,Phone,Debit Card,1817.69,10,10,5720.87,16359.21,0.334,4,0
+2022-06-09,Groceries,Central,Phone,Net Banking,499.23,4,10,1038.33,1797.23,0.113,4,0
+2022-06-09,Beauty,South,In-Store,Cash,879.16,9,10,4078.12,7121.2,0.388,4,0
+2022-06-10,Beauty,North,Phone,Cash,618.58,9,5,3040.22,5288.86,0.431,2,0
+2022-06-11,Toys,Central,Online,UPI,799.67,11,10,2210.6,7916.73,0.111,4,0
+2022-06-11,Furniture,East,Phone,Cash,10447.21,8,5,1915.84,79398.8,0.327,5,0
+2022-06-12,Groceries,West,Phone,UPI,503.47,12,0,6225.58,6041.64,0.252,4,0
+2022-06-12,Toys,South,Online,Debit Card,461.94,4,0,7636.57,,0.263,5,0
+2022-06-13,Toys,South,Mobile App,UPI,505.85,10,20,1551.35,4046.8,0.333,4,0
+2022-06-14,Groceries,South,In-Store,Debit Card,488.21,1,20,7697.61,390.57,0.245,4,0
+2022-06-14,Electronics,South,Phone,Net Banking,8594.38,2,10,4960.72,15469.88,0.29,1,0
+2022-06-15,Clothing,East,Online,Cash,2078.19,13,0,5312.45,27016.47,0.142,2,0
+2022-06-15,Beauty,North,Online,Cash,771.2,7,15,5824.45,4588.64,0.201,4,0
+2022-06-16,Furniture,Central,In-Store,Cash,9628.15,9,0,5780.89,86653.35,0.396,4,0
+2022-06-17,Furniture,East,Online,UPI,10570.4,9,0,6648.58,95133.6,0.094,3,0
+2022-06-17,Furniture,Central,In-Store,Net Banking,7809.93,10,0,4126.01,78099.3,0.289,3,0
+2022-06-18,Sports,East,Mobile App,Debit Card,2308.48,4,0,4500.19,9233.92,0.124,3,1
+2022-06-19,Electronics,South,Mobile App,UPI,13513.43,3,15,2928.7,34459.25,0.389,5,1
+2022-06-19,Electronics,East,Mobile App,Credit Card,13280.31,1,5,1289.43,12616.29,0.282,5,0
+2022-06-20,Groceries,North,Online,Debit Card,394.56,13,0,5484.8,5129.28,0.211,4,0
+2022-06-20,Furniture,Central,Online,UPI,8969.94,4,5,752.07,34085.77,0.15,3,0
+2022-06-21,Books,West,Phone,UPI,406.43,9,0,2567.26,3657.87,0.225,2,0
+2022-06-22,Furniture,North,In-Store,Net Banking,8218.79,7,5,1206.72,54654.95,0.433,2,0
+2022-06-22,Furniture,East,Online,Cash,6701.76,3,5,1930.45,19100.02,0.254,4,0
+2022-06-23,Beauty,East,In-Store,UPI,771.24,6,0,5290.48,4627.44,0.238,1,0
+2022-06-23,Clothing,South,Online,UPI,1463.81,2,15,5213.57,2488.48,0.349,4,0
+2022-06-24,Toys,North,In-Store,Cash,475.07,3,0,3657.91,1425.21,0.202,5,0
+2022-06-25,Toys,West,Phone,Cash,488.41,2,0,1176.29,976.82,0.221,4,0
+2022-06-25,Furniture,South,In-Store,Debit Card,9433.55,12,5,3750.3,107542.47,0.185,5,0
+2022-06-26,Sports,East,Mobile App,UPI,2344.09,8,20,3145.59,15002.18,0.11,2,0
+2022-06-26,Groceries,South,In-Store,UPI,547.37,13,0,5903.44,7115.81,0.336,3,0
+2022-06-27,Beauty,West,In-Store,Credit Card,696.41,7,0,4842.7,4874.87,0.399,5,0
+2022-06-28,Groceries,North,Mobile App,Net Banking,307.7,3,20,4186.74,738.48,0.412,4,0
+2022-06-28,Toys,South,Mobile App,UPI,736.47,9,5,4152.37,6296.82,0.402,4,0
+2022-06-29,Toys,East,In-Store,Debit Card,790.04,14,0,7747.23,11060.56,0.231,5,0
+2022-06-29,Sports,East,Online,Cash,2236.7,8,10,6172.21,16104.24,0.164,4,0
+2022-06-30,Furniture,West,Phone,Cash,6731.69,1,0,4227.35,6731.69,0.305,4,0
+2022-07-01,Groceries,North,Online,Net Banking,332.01,5,20,4094.17,1328.04,0.432,4,0
+2022-07-01,Electronics,East,Phone,Credit Card,12784.9,13,0,698.59,166203.7,0.341,2,0
+2022-07-02,Groceries,West,In-Store,UPI,411.16,8,5,7568.82,3124.82,0.248,2,0
+2022-07-03,Sports,South,Phone,Credit Card,2204.02,14,5,2893.8,29313.47,0.326,1,0
+2022-07-03,Electronics,North,In-Store,UPI,8779.45,8,0,2419.54,70235.6,0.359,5,0
+2022-07-04,Beauty,Central,Mobile App,UPI,829.64,1,5,7995.57,788.16,0.418,4,0
+2022-07-04,Toys,West,Mobile App,UPI,822.92,13,0,5890.17,10697.96,0.355,3,0
+2022-07-05,Clothing,West,In-Store,Net Banking,1735.15,11,10,855.23,17177.98,0.223,3,0
+2022-07-06,Groceries,West,Online,UPI,418.74,11,15,964.14,3915.22,0.159,4,0
+2022-07-06,Toys,West,Mobile App,UPI,466.49,14,20,691.26,5224.69,0.25,5,0
+2022-07-07,Groceries,West,Mobile App,Credit Card,350.68,3,0,4997.14,1052.04,0.181,3,0
+2022-07-07,Electronics,East,In-Store,Debit Card,10876.1,13,0,1036.73,141389.3,0.427,4,0
+2022-07-08,Books,North,Phone,Net Banking,370.61,4,5,7500.41,1408.32,0.253,5,0
+2022-07-09,Books,East,Mobile App,UPI,394.11,14,10,7526.8,4965.79,0.239,5,0
+2022-07-09,Electronics,South,Online,Net Banking,15973.79,3,20,4595.41,38337.1,0.189,5,0
+2022-07-10,Groceries,West,Phone,UPI,555.68,8,0,5124.79,4445.44,0.306,3,0
+2022-07-10,Clothing,East,Online,UPI,2081.49,12,0,2689.21,24977.88,0.258,2,0
+2022-07-11,Books,Central,Mobile App,UPI,410.13,2,0,979.79,820.26,0.102,4,0
+2022-07-12,Books,East,In-Store,UPI,225.08,1,0,6030.95,225.08,0.398,3,0
+2022-07-12,Books,East,Mobile App,Credit Card,238.94,12,5,1263.39,2723.92,0.194,5,0
+2022-07-13,Beauty,Central,Phone,Credit Card,730.5,1,20,1141.68,584.4,0.223,1,0
+2022-07-13,Sports,East,Mobile App,UPI,2717.57,9,0,2834.17,24458.13,0.132,4,1
+2022-07-14,Groceries,South,Mobile App,UPI,307.15,14,15,593.49,3655.08,0.271,5,0
+2022-07-15,Electronics,South,Phone,UPI,15504.69,9,10,3755.27,125587.99,0.331,5,0
+2022-07-15,Toys,Central,Mobile App,UPI,679.04,7,10,5807.61,4277.95,0.402,4,0
+2022-07-16,Beauty,West,Phone,Debit Card,863.72,6,10,6510.12,4664.09,0.071,5,1
+2022-07-16,Beauty,North,In-Store,Cash,652.57,9,0,5032.3,5873.13,0.439,2,0
+2022-07-17,Clothing,East,Online,Cash,1315.92,9,15,6851.56,10066.79,0.332,4,0
+2022-07-18,Clothing,South,Online,Credit Card,1218.33,8,0,3548.77,9746.64,0.164,1,0
+2022-07-18,Electronics,West,Mobile App,UPI,15556.24,3,5,6865.79,44335.28,0.132,5,0
+2022-07-19,Clothing,North,Mobile App,Cash,1663.44,10,10,4298.55,14970.96,0.168,5,0
+2022-07-20,Toys,West,Online,Cash,728.75,11,10,2172.77,7214.62,0.4,1,0
+2022-07-20,Toys,West,Online,Debit Card,544.33,10,0,7581.09,5443.3,0.167,1,0
+2022-07-21,Groceries,South,Phone,Net Banking,383.95,2,0,2562.28,767.9,0.235,4,0
+2022-07-21,Groceries,North,Mobile App,Cash,393.36,10,5,696.51,3736.92,0.332,3,0
+2022-07-22,Sports,West,Phone,UPI,3080.03,11,0,2320.06,33880.33,0.399,5,0
+2022-07-23,Furniture,South,Online,Cash,9925.18,3,15,3250.16,25309.21,0.313,3,1
+2022-07-23,Sports,Central,Online,Net Banking,2111.92,12,0,3135.12,25343.04,0.351,5,0
+2022-07-24,Beauty,West,In-Store,Debit Card,1087.26,8,5,4435.01,8263.18,0.119,4,0
+2022-07-24,Groceries,Central,Phone,Credit Card,313.78,7,10,7123.45,1976.81,0.401,4,0
+2022-07-25,Clothing,East,Mobile App,UPI,1990.93,11,0,2692.54,21900.23,0.16,3,0
+2022-07-26,Beauty,Central,Phone,Credit Card,616.22,8,20,4405.78,3943.81,0.101,5,0
+2022-07-26,Books,North,In-Store,Net Banking,265.55,8,0,3051.04,2124.4,0.44,4,0
+2022-07-27,Groceries,South,In-Store,Net Banking,517.01,5,0,6663.3,2585.05,0.131,4,0
+2022-07-27,Toys,North,Mobile App,Cash,495.39,13,10,1682.01,5796.06,0.105,4,0
+2022-07-28,Toys,West,Phone,Net Banking,593.7,14,5,1276.33,7896.21,0.3,5,0
+2022-07-29,Beauty,East,In-Store,Credit Card,811.92,2,10,4272.46,1461.46,0.178,5,0
+2022-07-29,Groceries,South,Mobile App,Cash,348.67,11,15,5539.16,3260.06,0.103,5,0
+2022-07-30,Beauty,South,Phone,UPI,957.74,1,5,6466.44,909.85,0.29,4,0
+2022-07-30,Beauty,West,In-Store,Debit Card,1036.75,6,15,4922.19,5287.42,0.354,5,0
+2022-07-31,Clothing,North,Phone,Debit Card,1968.3,14,0,6303.87,27556.2,0.367,3,0
+2022-08-01,Clothing,East,Mobile App,UPI,1406.29,3,5,3445.33,4007.93,0.112,5,0
+2022-08-01,Toys,West,Phone,Cash,642.96,6,0,746.51,3857.76,0.273,4,0
+2022-08-02,Electronics,South,In-Store,Credit Card,10486.61,4,10,1370.74,37751.8,0.375,4,0
+2022-08-03,Groceries,South,Mobile App,Cash,348.54,11,0,790.42,3833.94,0.114,5,0
+2022-08-03,Furniture,South,In-Store,Net Banking,6503.02,7,10,2967.08,40969.03,0.133,5,0
+2022-08-04,Beauty,East,Mobile App,Credit Card,1086.41,9,15,4216.19,8311.04,0.051,4,0
+2022-08-04,Beauty,South,In-Store,Net Banking,1057.27,14,20,3172.38,11841.42,0.26,4,0
+2022-08-05,Clothing,South,Mobile App,Cash,1866.23,8,20,4704.5,11943.87,0.128,5,0
+2022-08-06,Beauty,East,Phone,Debit Card,849.89,11,0,4104.57,9348.79,0.34,5,0
+2022-08-06,Electronics,North,In-Store,Cash,12521.11,2,0,5584.57,25042.22,0.435,5,0
+2022-08-07,Books,East,In-Store,Cash,321.25,4,20,5502.22,1028.0,0.134,2,0
+2022-08-07,Sports,North,In-Store,Cash,2688.99,14,0,2885.48,37645.86,0.31,4,1
+2022-08-08,Beauty,North,Mobile App,Credit Card,803.36,13,0,3096.61,10443.68,0.135,5,0
+2022-08-09,Clothing,South,Mobile App,Credit Card,1188.34,10,0,4888.61,11883.4,0.057,5,0
+2022-08-09,Beauty,South,Mobile App,Cash,630.37,6,15,4973.24,3214.89,0.353,5,1
+2022-08-10,Electronics,North,Online,Debit Card,16398.9,3,0,2860.25,49196.7,0.224,4,0
+2022-08-10,Toys,Central,Online,Debit Card,622.45,12,0,2977.38,7469.4,0.429,4,1
+2022-08-11,Furniture,South,Online,UPI,10937.95,11,15,5705.34,102269.83,0.264,4,1
+2022-08-12,Groceries,Central,Phone,Cash,325.8,4,0,5355.58,,0.113,5,0
+2022-08-12,Electronics,Central,Phone,Credit Card,13057.1,9,0,1512.88,117513.9,0.23,3,0
+2022-08-13,Sports,Central,Online,Net Banking,2113.51,9,0,3807.81,19021.59,0.131,4,0
+2022-08-13,Groceries,Central,Online,UPI,350.89,7,10,7195.3,2210.61,0.401,5,0
+2022-08-14,Books,North,Phone,Credit Card,216.31,13,5,772.29,2671.43,0.326,5,0
+2022-08-15,Furniture,South,Mobile App,Credit Card,6266.14,2,20,6913.73,10025.82,0.186,4,0
+2022-08-15,Groceries,West,In-Store,Net Banking,536.72,4,0,1723.84,2146.88,0.261,5,0
+2022-08-16,Beauty,East,Mobile App,Credit Card,740.06,2,0,4304.36,1480.12,0.318,2,0
+2022-08-17,Electronics,North,Online,UPI,13508.29,10,0,3682.52,135082.9,0.363,3,0
+2022-08-17,Books,East,Online,Cash,307.65,10,0,575.97,3076.5,0.082,4,0
+2022-08-18,Books,Central,In-Store,UPI,294.09,14,5,7365.48,3911.4,0.059,2,0
+2022-08-18,Furniture,Central,Phone,Debit Card,8578.56,8,0,3911.94,68628.48,0.096,5,0
+2022-08-19,Groceries,South,Phone,Credit Card,332.43,3,0,7657.01,997.29,0.208,5,1
+2022-08-20,Electronics,South,Online,Cash,16704.27,7,15,2650.58,99390.41,0.237,1,0
+2022-08-20,Beauty,South,Mobile App,UPI,1018.25,2,15,6997.07,1731.02,0.105,5,1
+2022-08-21,Beauty,South,Phone,Credit Card,975.3,10,10,7417.92,8777.7,0.214,4,0
+2022-08-21,Clothing,South,Phone,Credit Card,1542.2,10,20,4676.24,12337.6,0.227,5,0
+2022-08-22,Electronics,South,Phone,UPI,9684.17,13,15,2020.08,107010.08,0.094,5,0
+2022-08-23,Electronics,East,Online,Credit Card,16133.59,5,10,5639.36,72601.16,0.417,4,0
+2022-08-23,Electronics,North,Online,Debit Card,11267.65,5,20,4617.34,45070.6,0.29,2,0
+2022-08-24,Sports,South,Online,Credit Card,1837.69,1,0,7583.97,1837.69,0.205,1,0
+2022-08-24,Beauty,South,Online,Cash,751.75,6,15,3794.54,3833.92,0.253,4,0
+2022-08-25,Clothing,North,Online,Cash,1884.18,7,0,2513.85,13189.26,0.176,5,0
+2022-08-26,Books,Central,In-Store,Cash,340.77,11,15,1537.15,3186.2,0.392,4,0
+2022-08-26,Clothing,West,Mobile App,Credit Card,1838.38,11,20,5739.75,16177.74,0.28,4,0
+2022-08-27,Groceries,Central,In-Store,Debit Card,502.22,2,5,7805.82,954.22,0.248,1,0
+2022-08-27,Toys,East,In-Store,Debit Card,509.02,4,0,712.58,2036.08,0.414,5,0
+2022-08-28,Books,North,Online,Cash,403.99,8,0,6053.34,3231.92,0.385,4,0
+2022-08-29,Sports,Central,Online,Net Banking,2516.48,5,0,7451.98,12582.4,0.375,5,0
+2022-08-29,Electronics,East,Phone,Debit Card,13767.71,1,20,1060.86,11014.17,0.14,4,0
+2022-08-30,Clothing,West,Mobile App,Cash,1052.42,12,20,1326.28,10103.23,0.111,3,0
+2022-08-30,Groceries,South,Online,UPI,558.14,11,5,5689.68,5832.56,0.326,2,0
+2022-08-31,Groceries,East,Phone,Net Banking,358.65,8,20,5359.73,2295.36,0.237,4,0
+2022-09-01,Beauty,East,Phone,Credit Card,594.76,5,5,1016.21,2825.11,0.323,4,0
+2022-09-01,Sports,South,Phone,Net Banking,2551.96,12,0,6758.17,30623.52,0.354,5,1
+2022-09-02,Groceries,East,Online,UPI,316.13,1,15,4425.68,268.71,0.168,5,0
+2022-09-03,Beauty,West,Mobile App,Debit Card,645.3,7,10,7303.98,4065.39,0.164,3,0
+2022-09-03,Furniture,North,Phone,Credit Card,9140.78,12,5,7084.93,104204.89,0.246,4,0
+2022-09-04,Toys,North,Phone,Net Banking,585.03,14,5,6593.81,7780.9,0.159,1,0
+2022-09-04,Furniture,Central,Online,Net Banking,10762.37,4,10,4369.24,38744.53,0.317,3,0
+2022-09-05,Clothing,East,Phone,Credit Card,1385.11,10,15,2387.83,11773.43,0.349,5,0
+2022-09-06,Beauty,Central,In-Store,UPI,966.66,3,5,4294.82,2754.98,0.239,5,0
+2022-09-06,Electronics,West,In-Store,Cash,12273.24,2,0,1256.09,24546.48,0.34,5,1
+2022-09-07,Clothing,West,Mobile App,UPI,1742.95,5,0,5441.35,8714.75,0.254,3,0
+2022-09-07,Clothing,Central,Phone,Credit Card,1679.68,13,0,1504.83,21835.84,0.335,4,0
+2022-09-08,Groceries,West,Online,Debit Card,412.38,10,5,4333.8,3917.61,0.14,4,0
+2022-09-09,Clothing,South,Mobile App,Debit Card,2047.56,7,10,907.86,12899.63,0.346,5,0
+2022-09-09,Electronics,East,Phone,Debit Card,11278.79,4,15,2746.34,38347.89,0.336,4,0
+2022-09-10,Books,South,Mobile App,Net Banking,247.22,2,0,2240.6,494.44,0.157,5,0
+2022-09-10,Beauty,South,In-Store,Debit Card,939.73,4,15,5150.24,3195.08,0.272,3,0
+2022-09-11,Electronics,West,Online,Cash,15506.46,3,10,6400.9,41867.44,0.392,4,0
+2022-09-12,Groceries,North,Mobile App,Net Banking,291.27,3,0,929.77,873.81,0.15,5,0
+2022-09-12,Toys,West,Mobile App,Cash,608.85,10,0,6877.13,6088.5,0.344,4,0
+2022-09-13,Beauty,East,Mobile App,Cash,1059.79,2,0,6955.76,2119.58,0.432,4,0
+2022-09-13,Books,South,Phone,Credit Card,367.42,1,20,3067.02,293.94,0.396,4,0
+2022-09-14,Sports,North,Mobile App,Credit Card,3485.66,8,20,5442.53,22308.22,0.211,5,0
+2022-09-15,Toys,West,Mobile App,Cash,643.19,5,15,3519.6,2733.56,0.293,3,0
+2022-09-15,Furniture,Central,Online,Cash,9295.98,7,5,1656.43,61818.27,0.447,5,0
+2022-09-16,Clothing,West,Mobile App,Cash,1367.6,2,5,4464.97,2598.44,0.277,4,0
+2022-09-17,Sports,East,Online,UPI,3408.19,3,0,1147.7,10224.57,0.096,4,0
+2022-09-17,Sports,West,Mobile App,UPI,2391.09,7,15,7088.54,14226.99,0.068,4,0
+2022-09-18,Electronics,East,Online,Credit Card,14603.49,10,0,7432.17,146034.9,0.366,3,0
+2022-09-18,Books,South,Phone,Debit Card,294.66,6,0,6662.1,1767.96,0.219,5,0
+2022-09-19,Electronics,South,In-Store,UPI,13119.28,8,0,4718.96,104954.24,0.149,5,0
+2022-09-20,Books,South,In-Store,Credit Card,361.15,8,5,4681.99,2744.74,0.189,5,0
+2022-09-20,Sports,Central,Online,Credit Card,2640.63,4,0,7884.56,10562.52,0.353,5,0
+2022-09-21,Clothing,West,Online,Credit Card,2002.44,4,0,2359.26,8009.76,0.236,4,1
+2022-09-21,Furniture,North,Phone,Debit Card,7948.09,6,0,1069.61,47688.54,0.397,4,0
+2022-09-22,Electronics,Central,In-Store,Net Banking,13835.4,1,20,4714.56,11068.32,0.344,5,0
+2022-09-23,Toys,North,Mobile App,Cash,563.79,10,5,2965.89,5356.0,0.44,1,0
+2022-09-23,Beauty,East,Phone,Net Banking,788.57,9,15,2917.54,6032.56,0.405,5,0
+2022-09-24,Electronics,North,Mobile App,Debit Card,12096.42,5,20,553.14,48385.68,0.152,4,0
+2022-09-24,Furniture,South,Online,UPI,6304.52,6,20,4971.8,30261.7,0.314,4,0
+2022-09-25,Beauty,West,In-Store,Net Banking,611.37,5,0,2480.25,3056.85,0.058,4,0
+2022-09-26,Groceries,Central,In-Store,Debit Card,466.9,10,20,1908.94,3735.2,0.446,4,0
+2022-09-26,Clothing,Central,In-Store,Cash,1738.29,11,20,803.24,15296.95,0.154,1,0
+2022-09-27,Furniture,Central,Online,Cash,9312.29,2,20,3232.71,14899.66,0.316,4,0
+2022-09-27,Toys,South,Mobile App,Net Banking,428.3,6,0,7092.27,2569.8,0.39,4,0
+2022-09-28,Books,North,In-Store,Net Banking,278.57,1,0,3025.03,278.57,0.114,3,0
+2022-09-29,Groceries,Central,In-Store,Cash,335.39,7,10,5593.06,2112.96,0.389,3,0
+2022-09-29,Beauty,Central,In-Store,UPI,995.76,4,20,6174.1,3186.43,0.055,4,0
+2022-09-30,Toys,South,In-Store,Net Banking,781.46,5,20,2960.76,3125.84,0.227,4,0
+2022-09-30,Groceries,North,Online,Cash,349.07,7,5,6662.31,2321.32,0.239,5,0
+2022-10-01,Beauty,West,In-Store,Debit Card,934.0,5,0,5689.1,4670.0,0.2,2,0
+2022-10-02,Beauty,North,Phone,Cash,632.44,6,0,4694.32,3794.64,0.285,4,0
+2022-10-02,Furniture,North,Mobile App,UPI,7140.85,11,10,507.44,70694.42,0.416,3,0
+2022-10-03,Electronics,Central,Mobile App,Debit Card,9564.7,12,5,763.18,109037.58,0.181,4,1
+2022-10-04,Toys,East,Phone,UPI,539.08,1,0,7931.49,539.08,0.282,4,0
+2022-10-04,Toys,North,Mobile App,Cash,703.39,6,0,6367.13,4220.34,0.401,4,0
+2022-10-05,Clothing,West,Online,Net Banking,2005.84,12,0,7531.74,24070.08,0.359,4,1
+2022-10-05,Books,South,In-Store,UPI,252.53,8,0,7267.27,2020.24,0.066,4,0
+2022-10-06,Sports,East,In-Store,Credit Card,2698.64,3,10,653.32,7286.33,0.427,3,0
+2022-10-07,Electronics,Central,In-Store,Net Banking,14291.69,9,0,6438.85,128625.21,0.069,4,0
+2022-10-07,Books,South,Online,UPI,410.11,3,20,3883.59,984.26,0.286,4,0
+2022-10-08,Clothing,West,Online,Debit Card,1690.56,1,0,6421.69,1690.56,0.28,4,0
+2022-10-08,Books,Central,In-Store,Cash,263.57,9,10,550.37,2134.92,0.365,4,0
+2022-10-09,Furniture,East,Phone,Debit Card,9102.68,8,5,2661.49,69180.37,0.109,5,0
+2022-10-10,Electronics,Central,Mobile App,Debit Card,11092.13,11,15,6134.93,103711.42,0.122,4,0
+2022-10-10,Beauty,East,Phone,Net Banking,1106.63,5,20,6447.66,4426.52,0.351,3,0
+2022-10-11,Clothing,East,Online,Net Banking,1469.66,12,5,5147.86,16754.12,0.11,3,0
+2022-10-11,Toys,Central,In-Store,UPI,707.88,6,10,2759.42,3822.55,0.238,1,0
+2022-10-12,Clothing,West,Mobile App,Debit Card,1074.39,11,10,2827.72,10636.46,0.343,4,0
+2022-10-13,Beauty,Central,In-Store,Net Banking,784.03,2,5,7750.73,1489.66,0.31,5,0
+2022-10-13,Books,West,In-Store,Credit Card,393.77,2,0,3794.09,787.54,0.134,5,0
+2022-10-14,Sports,West,In-Store,Cash,2817.9,11,5,3853.44,29447.06,0.172,4,0
+2022-10-14,Furniture,South,Online,UPI,8086.08,12,0,4642.5,97032.96,0.438,3,0
+2022-10-15,Furniture,South,Phone,Net Banking,10841.25,14,5,3571.27,144188.62,0.229,5,0
+2022-10-16,Books,Central,Phone,UPI,389.34,5,10,4645.04,1752.03,0.068,2,0
+2022-10-16,Sports,West,Online,Net Banking,2313.88,1,0,3742.52,2313.88,0.138,4,0
+2022-10-17,Sports,South,In-Store,Credit Card,2702.96,14,0,6700.36,37841.44,0.187,5,0
+2022-10-18,Electronics,South,Mobile App,Cash,12514.52,9,15,7317.88,95736.08,0.45,4,0
+2022-10-18,Books,West,Phone,Credit Card,342.76,4,0,7490.83,1371.04,0.171,2,0
+2022-10-19,Electronics,North,Phone,Cash,11206.53,11,0,4732.22,123271.83,0.061,3,1
+2022-10-19,Groceries,North,In-Store,Credit Card,348.38,13,10,3816.11,4076.05,0.255,4,0
+2022-10-20,Sports,West,Mobile App,Net Banking,3347.18,4,15,5789.3,11380.41,0.083,3,0
+2022-10-21,Groceries,South,Phone,Cash,538.68,11,15,6787.43,5036.66,0.16,4,0
+2022-10-21,Sports,West,Phone,Credit Card,3225.82,12,15,4722.37,32903.36,0.447,4,0
+2022-10-22,Furniture,East,In-Store,Net Banking,11077.94,8,20,5749.86,70898.82,0.332,4,0
+2022-10-22,Clothing,Central,Phone,Debit Card,1832.24,9,10,6122.97,14841.14,0.07,3,1
+2022-10-23,Groceries,East,In-Store,UPI,494.11,4,0,5572.95,1976.44,0.229,5,0
+2022-10-24,Toys,Central,Online,Credit Card,740.29,14,20,6096.0,8291.25,0.119,4,1
+2022-10-24,Sports,Central,Phone,Credit Card,2591.06,14,0,2064.84,36274.84,0.099,5,0
+2022-10-25,Toys,South,Phone,Debit Card,611.71,14,0,4237.81,8563.94,0.285,4,0
+2022-10-25,Beauty,Central,In-Store,UPI,694.53,11,15,4912.01,6493.86,0.252,2,0
+2022-10-26,Sports,West,In-Store,UPI,2878.43,1,20,518.58,2302.74,0.347,4,1
+2022-10-27,Sports,North,In-Store,Net Banking,2256.31,6,0,6919.72,13537.86,0.407,4,0
+2022-10-27,Toys,North,Online,Credit Card,528.28,7,15,5075.18,3143.27,0.149,4,0
+2022-10-28,Groceries,South,Phone,Cash,444.07,14,20,1468.52,4973.58,0.419,5,0
+2022-10-28,Furniture,North,Online,Credit Card,7895.9,8,15,6622.68,53692.12,0.257,5,0
+2022-10-29,Electronics,South,Mobile App,Debit Card,10238.4,8,0,5877.93,81907.2,0.154,5,0
+2022-10-30,Groceries,Central,Online,Credit Card,508.5,3,10,6187.25,1372.95,0.388,4,0
+2022-10-30,Beauty,East,Mobile App,Credit Card,1041.92,12,0,3440.32,12503.04,0.064,4,0
+2022-10-31,Furniture,North,Phone,UPI,6539.12,5,15,6906.52,27791.26,0.274,4,0
+2022-11-01,Electronics,East,Mobile App,Net Banking,8463.06,2,0,3605.21,16926.12,0.339,3,0
+2022-11-01,Books,South,Mobile App,Cash,280.59,14,20,4778.82,3142.61,0.162,5,0
+2022-11-02,Beauty,Central,Phone,Net Banking,1006.61,3,0,504.82,3019.83,0.395,5,0
+2022-11-02,Sports,North,Phone,UPI,3218.55,1,0,5336.55,3218.55,0.146,3,0
+2022-11-03,Groceries,West,Phone,Credit Card,318.73,2,0,5886.32,637.46,0.386,5,0
+2022-11-04,Furniture,East,Online,Debit Card,9936.28,7,15,4753.32,59120.87,0.081,5,1
+2022-11-04,Toys,North,Mobile App,Net Banking,468.6,2,0,4224.19,937.2,0.114,4,0
+2022-11-05,Clothing,West,Phone,Credit Card,1459.57,12,15,6574.52,14887.61,0.202,5,0
+2022-11-05,Groceries,East,In-Store,Credit Card,559.61,8,0,5610.3,4476.88,0.392,2,0
+2022-11-06,Clothing,West,Mobile App,Net Banking,1252.22,5,5,2585.56,5948.04,0.108,1,0
+2022-11-07,Beauty,West,Online,Credit Card,646.22,1,20,7693.05,516.98,0.4,4,0
+2022-11-07,Books,West,Phone,Net Banking,298.79,7,20,5804.5,1673.22,0.142,4,0
+2022-11-08,Sports,East,Mobile App,Cash,2834.42,3,0,7909.54,8503.26,0.231,4,0
+2022-11-08,Sports,North,Mobile App,Cash,3382.58,14,0,7784.46,47356.12,0.191,5,0
+2022-11-09,Beauty,North,Phone,UPI,1109.26,5,0,7391.82,5546.3,0.097,3,0
+2022-11-10,Electronics,East,Online,Credit Card,8984.98,7,5,6165.29,59750.12,0.428,3,0
+2022-11-10,Beauty,South,In-Store,UPI,637.28,1,5,5070.72,605.42,0.225,4,0
+2022-11-11,Electronics,West,Phone,Net Banking,15042.2,2,0,1791.28,30084.4,0.326,1,0
+2022-11-11,Furniture,East,Online,Net Banking,7115.54,3,15,4575.14,18144.63,0.28,5,0
+2022-11-12,Toys,Central,Phone,UPI,791.64,1,0,6240.32,791.64,0.251,4,0
+2022-11-13,Groceries,North,In-Store,Net Banking,465.77,11,0,4406.43,5123.47,0.297,5,1
+2022-11-13,Clothing,South,Mobile App,Cash,1167.44,14,15,7011.79,13892.54,0.409,4,0
+2022-11-14,Clothing,West,Mobile App,Credit Card,1924.16,14,10,1322.42,24244.42,0.33,2,0
+2022-11-14,Sports,North,Mobile App,Cash,2058.62,4,0,3357.05,8234.48,0.263,2,0
+2022-11-15,Groceries,South,Phone,Cash,398.58,12,20,4294.73,3826.37,0.308,2,0
+2022-11-16,Groceries,West,In-Store,UPI,434.61,8,0,3742.44,,0.293,5,0
+2022-11-16,Beauty,East,Online,Cash,840.43,1,5,1314.4,798.41,0.223,4,0
+2022-11-17,Clothing,West,In-Store,Net Banking,1770.47,2,0,1651.46,3540.94,0.3,4,0
+2022-11-18,Beauty,East,Mobile App,UPI,925.5,8,0,6782.13,7404.0,0.227,3,0
+2022-11-18,Beauty,Central,Phone,Debit Card,1115.54,6,5,4132.88,6358.58,0.353,5,1
+2022-11-19,Toys,Central,Phone,Net Banking,839.76,1,5,865.42,797.77,0.438,3,0
+2022-11-19,Clothing,Central,In-Store,Net Banking,1592.28,14,15,623.68,18948.13,0.434,5,0
+2022-11-20,Clothing,North,Phone,Cash,1149.96,11,0,4051.07,12649.56,0.378,5,0
+2022-11-21,Groceries,East,Online,Cash,483.8,8,20,1732.84,3096.32,0.291,3,0
+2022-11-21,Toys,North,Online,Credit Card,830.2,14,10,5788.44,10460.52,0.35,4,0
+2022-11-22,Clothing,South,Online,UPI,1384.24,14,0,6464.93,19379.36,0.121,3,0
+2022-11-22,Furniture,South,Phone,Credit Card,8182.77,14,15,2212.23,97374.96,0.242,4,0
+2022-11-23,Electronics,West,Online,UPI,11968.13,4,10,4941.33,43085.27,0.153,5,0
+2022-11-24,Toys,East,Mobile App,Net Banking,441.6,13,0,1658.33,5740.8,0.051,4,0
+2022-11-24,Electronics,Central,Phone,Debit Card,14047.02,8,5,2776.87,106757.35,0.437,5,1
+2022-11-25,Books,South,Phone,Net Banking,284.2,11,0,7165.97,3126.2,0.396,4,0
+2022-11-25,Electronics,West,Phone,Credit Card,15014.7,13,10,4580.74,175671.99,0.255,3,0
+2022-11-26,Clothing,West,Online,Credit Card,1923.73,3,5,7144.17,5482.63,0.152,5,0
+2022-11-27,Clothing,Central,In-Store,Net Banking,1912.29,7,5,2189.36,12716.73,0.327,4,0
+2022-11-27,Sports,South,Mobile App,Credit Card,2479.17,2,0,2975.18,4958.34,0.224,3,0
+2022-11-28,Electronics,West,Mobile App,Cash,11100.98,4,0,4032.14,44403.92,0.371,4,0
+2022-11-28,Furniture,North,Mobile App,Cash,9793.4,6,5,4100.6,55822.38,0.45,4,0
+2022-11-29,Toys,East,Mobile App,Debit Card,756.58,12,5,7982.36,8625.01,0.19,5,1
+2022-11-30,Toys,East,In-Store,Credit Card,626.33,13,0,1358.34,8142.29,0.148,3,0
+2022-11-30,Books,Central,Online,Debit Card,397.54,6,10,6889.74,2146.72,0.157,5,0
+2022-12-01,Sports,West,In-Store,Credit Card,2001.84,5,0,6977.62,10009.2,0.087,4,1
+2022-12-02,Furniture,Central,In-Store,Cash,10522.79,8,5,4648.99,79973.2,0.208,3,0
+2022-12-02,Sports,Central,Mobile App,Net Banking,1918.17,13,0,3080.28,24936.21,0.057,3,0
+2022-12-03,Groceries,East,Phone,Net Banking,322.99,14,5,4394.2,4295.77,0.096,5,0
+2022-12-03,Beauty,West,Mobile App,Net Banking,858.95,4,15,2693.51,2920.43,0.159,4,0
+2022-12-04,Toys,North,Mobile App,Cash,448.36,3,15,6493.31,1143.32,0.114,4,0
+2022-12-05,Books,East,Online,Net Banking,221.09,10,10,4237.09,1989.81,0.343,3,0
+2022-12-05,Beauty,North,Mobile App,Cash,560.29,5,15,7443.82,2381.23,0.092,4,0
+2022-12-06,Sports,West,In-Store,Cash,2513.55,3,0,5170.19,,0.396,5,0
+2022-12-06,Sports,Central,Online,Net Banking,3105.59,1,0,4357.39,3105.59,0.138,4,0
+2022-12-07,Toys,West,Online,Debit Card,434.63,6,10,5833.02,2347.0,0.093,5,0
+2022-12-08,Electronics,Central,Phone,UPI,13878.96,6,15,4279.5,70782.7,0.054,1,0
+2022-12-08,Furniture,South,Phone,Net Banking,10209.51,8,10,7283.8,73508.47,0.336,3,0
+2022-12-09,Clothing,Central,Mobile App,Debit Card,1226.4,3,15,1883.34,3127.32,0.153,4,0
+2022-12-09,Beauty,East,Phone,Debit Card,642.24,11,0,7800.12,7064.64,0.254,5,0
+2022-12-10,Clothing,West,Online,Credit Card,1953.84,10,0,6591.43,19538.4,0.095,3,0
+2022-12-11,Clothing,West,In-Store,Debit Card,1914.28,7,0,6955.5,13399.96,0.444,4,1
+2022-12-11,Clothing,West,Phone,UPI,1615.89,3,10,4121.81,4362.9,0.1,4,0
+2022-12-12,Books,South,Online,Net Banking,382.03,8,10,6779.01,2750.62,0.215,4,0
+2022-12-12,Toys,West,Mobile App,Credit Card,458.96,10,0,2800.81,4589.6,0.391,4,0
+2022-12-13,Beauty,West,Online,Cash,780.91,6,15,6214.61,3982.64,0.148,5,0
+2022-12-14,Furniture,Central,In-Store,Cash,9731.67,4,15,1553.38,33087.68,0.157,4,0
+2022-12-14,Groceries,East,In-Store,Net Banking,352.09,8,0,2802.89,2816.72,0.373,4,0
+2022-12-15,Electronics,East,In-Store,Cash,14719.56,5,0,3842.99,73597.8,0.159,4,1
+2022-12-15,Electronics,East,Phone,Credit Card,12635.1,6,15,2917.4,64439.01,0.051,4,1
+2022-12-16,Groceries,North,Phone,UPI,490.07,5,10,3402.63,2205.32,0.221,3,0
+2022-12-17,Beauty,North,Mobile App,Net Banking,820.22,5,0,6650.79,4101.1,0.055,5,0
+2022-12-17,Toys,North,Mobile App,Net Banking,574.52,11,0,2425.07,6319.72,0.414,3,0
+2022-12-18,Beauty,West,Online,Cash,682.75,7,5,6089.61,4540.29,0.307,5,0
+2022-12-19,Electronics,East,Online,Net Banking,10150.39,7,5,1052.84,67500.09,0.283,3,0
+2022-12-19,Electronics,Central,Online,Cash,14712.52,10,0,6243.04,147125.2,0.131,5,0
+2022-12-20,Sports,West,Phone,Credit Card,1958.09,6,20,6440.17,9398.83,0.33,3,0
+2022-12-20,Electronics,North,Online,Net Banking,9122.25,2,0,3512.74,18244.5,0.321,5,0
+2022-12-21,Electronics,North,In-Store,Credit Card,9880.85,12,0,5918.58,118570.2,0.074,4,1
+2022-12-22,Furniture,South,Phone,Debit Card,6581.94,1,0,7363.54,6581.94,0.402,2,0
+2022-12-22,Beauty,Central,Mobile App,Debit Card,1020.94,9,20,6505.35,7350.77,0.282,4,0
+2022-12-23,Books,North,Mobile App,Cash,293.69,4,0,3428.35,1174.76,0.367,4,0
+2022-12-23,Electronics,North,Online,Credit Card,16719.26,3,20,4131.6,40126.22,0.155,4,0
+2022-12-24,Sports,North,Mobile App,Cash,1990.12,1,5,6345.18,1890.61,0.099,3,1
+2022-12-25,Sports,East,Mobile App,Net Banking,2893.69,13,20,2694.46,30094.38,0.331,5,0
+2022-12-25,Sports,Central,In-Store,Cash,2535.28,7,0,6529.12,17746.96,0.368,5,0
+2022-12-26,Beauty,West,Mobile App,Debit Card,780.03,5,0,2960.53,3900.15,0.204,4,0
+2022-12-26,Clothing,East,Phone,Net Banking,1968.84,11,15,6544.93,18408.65,0.059,5,0
+2022-12-27,Beauty,North,In-Store,Debit Card,1106.33,1,15,1151.0,940.38,0.377,3,0
+2022-12-28,Groceries,South,In-Store,Cash,524.4,8,5,832.98,3985.44,0.132,2,0
+2022-12-28,Sports,East,In-Store,UPI,2086.53,7,0,7982.57,14605.71,0.186,4,0
+2022-12-29,Toys,South,Phone,Credit Card,512.74,8,20,7020.93,3281.54,0.301,2,0
+2022-12-29,Sports,West,Online,Credit Card,2898.13,2,0,7121.36,5796.26,0.09,3,0
+2022-12-30,Books,Central,Phone,Credit Card,270.71,14,20,7634.6,,0.079,4,0
+2022-12-31,Books,South,Phone,Net Banking,364.29,4,20,3787.37,1165.73,0.06,3,0
+2022-12-31,Toys,South,In-Store,Net Banking,657.9,10,15,2651.27,5592.15,0.417,3,1
+2023-01-01,Sports,North,Mobile App,UPI,2714.09,11,10,1475.19,26869.49,0.175,5,0
+2023-01-02,Books,West,Phone,Net Banking,383.99,5,10,4259.07,1727.96,0.314,4,0
+2023-01-02,Clothing,East,Phone,Credit Card,1796.06,2,5,2150.36,3412.51,0.446,5,0
+2023-01-03,Sports,South,In-Store,Net Banking,1796.51,5,0,7516.63,8982.55,0.318,4,1
+2023-01-03,Toys,South,Online,Debit Card,440.77,12,0,530.02,5289.24,0.26,4,0
+2023-01-04,Groceries,North,Mobile App,Credit Card,448.44,13,15,1573.98,4955.26,0.258,3,0
+2023-01-05,Toys,East,Online,Cash,624.2,14,15,2348.57,7427.98,0.201,5,1
+2023-01-05,Beauty,West,Online,Debit Card,705.7,4,5,1992.18,2681.66,0.29,3,0
+2023-01-06,Sports,South,Phone,Debit Card,2482.65,9,10,2193.34,20109.47,0.434,3,1
+2023-01-06,Sports,North,In-Store,Cash,3076.34,3,0,5420.36,9229.02,0.365,5,0
+2023-01-07,Furniture,East,Mobile App,Debit Card,10229.02,10,5,2956.34,97175.69,0.22,5,0
+2023-01-08,Sports,West,Online,Cash,2732.14,6,5,5112.68,15573.2,0.183,4,0
+2023-01-08,Furniture,South,Online,Credit Card,7758.07,10,20,7176.93,62064.56,0.403,1,1
+2023-01-09,Books,South,Online,Credit Card,266.85,10,0,5019.18,2668.5,0.104,2,0
+2023-01-09,Books,North,In-Store,Debit Card,319.6,14,0,5709.0,4474.4,0.39,4,0
+2023-01-10,Clothing,West,Online,Cash,1380.49,7,0,3241.27,9663.43,0.152,5,0
+2023-01-11,Groceries,Central,In-Store,Debit Card,437.95,5,0,1698.04,2189.75,0.336,4,0
+2023-01-11,Electronics,West,In-Store,Credit Card,14083.88,8,5,2904.38,107037.49,0.372,1,0
+2023-01-12,Clothing,East,Mobile App,Cash,1119.38,3,10,7732.12,3022.33,0.241,3,0
+2023-01-12,Furniture,West,Mobile App,UPI,5605.98,2,15,5163.59,9530.17,0.127,4,0
+2023-01-13,Furniture,South,In-Store,UPI,6788.75,8,20,2581.33,43448.0,0.388,4,0
+2023-01-14,Clothing,North,In-Store,Debit Card,1989.24,12,0,3881.86,23870.88,0.197,1,0
+2023-01-14,Furniture,South,Online,Credit Card,9219.23,8,0,6766.35,73753.84,0.178,1,0
+2023-01-15,Toys,West,In-Store,Credit Card,492.22,11,0,5513.33,5414.42,0.254,3,0
+2023-01-16,Clothing,West,Phone,Cash,1984.78,3,0,4704.9,5954.34,0.224,2,0
+2023-01-16,Groceries,Central,Phone,Credit Card,411.59,7,15,7138.72,2448.96,0.323,4,0
+2023-01-17,Groceries,Central,In-Store,Debit Card,413.31,9,0,5543.3,3719.79,0.105,2,0
+2023-01-17,Toys,South,Phone,Net Banking,812.93,5,0,5320.47,,0.224,4,0
+2023-01-18,Groceries,North,Mobile App,Debit Card,296.66,1,20,1923.26,237.33,0.407,5,0
+2023-01-19,Books,South,Online,Cash,255.19,2,20,1297.92,408.3,0.064,5,0
+2023-01-19,Groceries,Central,Phone,Debit Card,444.02,13,0,7738.57,5772.26,0.233,5,0
+2023-01-20,Furniture,Central,In-Store,Net Banking,6694.72,9,0,4991.44,60252.48,0.314,3,0
+2023-01-20,Furniture,North,Mobile App,Net Banking,9405.35,4,5,3617.63,35740.33,0.405,1,0
+2023-01-21,Clothing,North,Mobile App,UPI,1274.8,4,5,4917.66,4844.24,0.288,4,0
+2023-01-22,Books,East,In-Store,Cash,230.82,1,20,963.59,184.66,0.38,5,0
+2023-01-22,Clothing,West,Mobile App,UPI,1267.33,14,0,6665.95,17742.62,0.139,2,0
+2023-01-23,Groceries,Central,Mobile App,Net Banking,398.37,2,0,2124.84,796.74,0.191,4,0
+2023-01-23,Sports,West,In-Store,Debit Card,2058.24,11,0,6534.1,22640.64,0.427,3,0
+2023-01-24,Beauty,South,In-Store,Net Banking,635.43,4,5,4507.84,2414.63,0.404,3,0
+2023-01-25,Books,North,Mobile App,Cash,390.66,5,5,2574.29,1855.64,0.273,5,0
+2023-01-25,Beauty,West,Online,Cash,739.42,4,5,726.57,2809.8,0.24,4,0
+2023-01-26,Sports,East,Online,Debit Card,2381.33,12,20,6618.75,22860.77,0.23,4,0
+2023-01-26,Furniture,Central,Phone,Net Banking,5909.51,1,15,1823.45,5023.08,0.074,5,0
+2023-01-27,Sports,East,In-Store,Cash,2375.4,5,0,888.54,11877.0,0.407,2,0
+2023-01-28,Groceries,East,Mobile App,Net Banking,354.15,4,0,6169.08,1416.6,0.377,3,0
+2023-01-28,Furniture,South,Mobile App,Net Banking,9018.72,4,10,3125.32,32467.39,0.233,4,0
+2023-01-29,Toys,North,Phone,Credit Card,506.26,3,0,3420.01,1518.78,0.162,4,0
+2023-01-29,Beauty,Central,Mobile App,Net Banking,1057.48,13,0,2353.01,13747.24,0.187,4,0
+2023-01-30,Sports,Central,Mobile App,Net Banking,3376.92,6,0,6943.84,20261.52,0.099,2,0
+2023-01-31,Furniture,North,Phone,Debit Card,6159.05,6,0,2729.97,36954.3,0.339,5,0
+2023-01-31,Books,West,Phone,Net Banking,232.55,6,15,2076.44,1186.01,0.273,4,1
+2023-02-01,Clothing,South,Online,UPI,1171.09,14,15,2819.37,13935.97,0.144,4,0
+2023-02-02,Sports,East,Mobile App,Debit Card,2834.25,5,15,2023.62,12045.56,0.299,4,0
+2023-02-02,Toys,Central,Online,Debit Card,471.23,5,0,2882.41,2356.15,0.442,5,0
+2023-02-03,Toys,Central,Phone,Debit Card,778.0,5,0,1122.02,3890.0,0.099,4,0
+2023-02-03,Sports,North,Online,Credit Card,3069.98,5,0,1688.98,15349.9,0.233,5,0
+2023-02-04,Books,South,Online,Cash,382.16,2,0,3627.9,764.32,0.248,3,0
+2023-02-05,Electronics,Central,Online,Cash,12818.91,9,5,7096.0,109601.68,0.117,4,0
+2023-02-05,Groceries,Central,Mobile App,Cash,559.07,1,20,929.68,447.26,0.263,5,0
+2023-02-06,Clothing,North,Online,UPI,1096.38,4,20,2095.06,3508.42,0.292,4,0
+2023-02-06,Books,Central,Online,Debit Card,294.27,3,0,7312.59,,0.113,4,0
+2023-02-07,Electronics,East,Mobile App,Cash,11121.07,5,10,7175.11,50044.82,0.112,5,1
+2023-02-08,Clothing,East,Phone,Net Banking,2046.08,11,0,5595.88,22506.88,0.393,3,0
+2023-02-08,Toys,North,Mobile App,Credit Card,662.28,9,0,2303.55,5960.52,0.175,4,0
+2023-02-09,Books,West,In-Store,Debit Card,379.3,14,5,3648.58,5044.69,0.302,5,0
+2023-02-09,Toys,West,Mobile App,Net Banking,491.54,5,0,2084.16,2457.7,0.301,5,0
+2023-02-10,Sports,West,Mobile App,Net Banking,3462.61,13,0,1464.41,45013.93,0.386,5,0
+2023-02-11,Beauty,West,In-Store,Net Banking,839.24,1,5,3349.99,797.28,0.346,5,0
+2023-02-11,Clothing,Central,Mobile App,Credit Card,1568.36,8,0,4818.66,12546.88,0.386,2,0
+2023-02-12,Beauty,Central,Online,UPI,1103.7,12,10,3199.5,,0.3,5,0
+2023-02-12,Toys,West,Online,Credit Card,579.91,8,5,5081.18,4407.32,0.23,4,0
+2023-02-13,Books,Central,Mobile App,Net Banking,293.48,14,15,2721.91,3492.41,0.207,4,0
+2023-02-14,Electronics,West,In-Store,UPI,13311.92,5,0,3093.88,66559.6,0.202,4,1
+2023-02-14,Toys,West,Online,Debit Card,473.78,1,0,6430.05,473.78,0.217,5,0
+2023-02-15,Books,East,Online,Credit Card,277.43,11,5,7087.36,2899.14,0.102,4,0
+2023-02-16,Toys,West,Phone,Cash,501.15,1,0,2915.26,501.15,0.22,5,0
+2023-02-16,Electronics,North,In-Store,Net Banking,9267.58,11,10,4786.37,91749.04,0.206,3,1
+2023-02-17,Toys,East,Online,Net Banking,783.78,11,0,2586.22,8621.58,0.064,3,0
+2023-02-17,Beauty,East,Mobile App,Net Banking,890.03,12,10,900.01,9612.32,0.16,4,0
+2023-02-18,Books,Central,Mobile App,Net Banking,285.32,7,20,6033.93,1597.79,0.351,1,0
+2023-02-19,Clothing,North,In-Store,Cash,1479.1,13,0,1782.53,19228.3,0.281,4,0
+2023-02-19,Beauty,West,Phone,Net Banking,801.65,3,0,3692.84,2404.95,0.372,3,0
+2023-02-20,Beauty,North,In-Store,Net Banking,914.56,7,15,4152.84,5441.63,0.267,4,0
+2023-02-20,Clothing,Central,Mobile App,UPI,2023.11,2,5,1883.54,3843.91,0.392,2,0
+2023-02-21,Sports,Central,Mobile App,Cash,3382.36,11,0,1209.17,37205.96,0.368,3,0
+2023-02-22,Furniture,South,Mobile App,Net Banking,7792.36,10,0,3110.1,77923.6,0.089,4,0
+2023-02-22,Toys,Central,Online,Credit Card,558.29,12,15,7642.14,5694.56,0.441,4,0
+2023-02-23,Furniture,East,Mobile App,Cash,8125.86,11,20,5113.52,71507.57,0.056,3,0
+2023-02-23,Sports,Central,Mobile App,Debit Card,2743.88,5,0,3360.58,13719.4,0.289,3,0
+2023-02-24,Beauty,West,Online,Credit Card,818.62,1,5,791.83,777.69,0.367,3,0
+2023-02-25,Sports,North,Online,Credit Card,2902.82,14,15,5002.05,34543.56,0.183,4,0
+2023-02-25,Beauty,South,Mobile App,Credit Card,870.46,7,0,1191.93,6093.22,0.289,3,0
+2023-02-26,Beauty,East,Online,Net Banking,739.6,2,0,4569.08,1479.2,0.195,4,1
+2023-02-26,Electronics,South,Phone,Cash,11304.14,13,15,6139.63,124910.75,0.074,4,0
+2023-02-27,Groceries,North,Online,Credit Card,386.01,14,0,3676.89,5404.14,0.053,4,0
+2023-02-28,Books,Central,Phone,Cash,229.87,7,15,2745.59,1367.73,0.088,4,0
+2023-02-28,Toys,Central,Mobile App,Cash,489.75,11,5,855.38,5117.89,0.089,3,0
+2023-03-01,Electronics,East,In-Store,UPI,14474.16,1,20,685.83,11579.33,0.294,5,0
+2023-03-01,Electronics,South,In-Store,Cash,11668.41,2,0,3725.2,23336.82,0.26,4,0
+2023-03-02,Toys,North,In-Store,Net Banking,510.11,4,20,7125.09,1632.35,0.232,3,0
+2023-03-03,Toys,Central,Mobile App,UPI,656.32,10,0,2330.47,6563.2,0.327,5,0
+2023-03-03,Clothing,South,Phone,Cash,1843.32,2,0,4805.42,3686.64,0.057,4,0
+2023-03-04,Clothing,North,Online,UPI,1320.29,1,15,5632.29,1122.25,0.158,4,0
+2023-03-05,Clothing,South,Mobile App,Debit Card,1918.13,10,5,956.22,18222.24,0.361,5,0
+2023-03-05,Toys,East,Phone,Net Banking,809.55,11,15,1648.25,7569.29,0.414,2,1
+2023-03-06,Electronics,West,In-Store,UPI,13418.11,11,0,2984.58,147599.21,0.225,5,0
+2023-03-06,Toys,South,Mobile App,Cash,700.96,12,0,5525.7,8411.52,0.083,4,1
+2023-03-07,Furniture,Central,Online,Cash,5894.43,12,5,3792.76,67196.5,0.369,4,0
+2023-03-08,Furniture,West,Phone,Cash,10894.91,9,20,6006.46,78443.35,0.404,3,0
+2023-03-08,Books,Central,Online,Cash,292.42,8,0,7006.98,2339.36,0.215,2,0
+2023-03-09,Toys,South,In-Store,Cash,808.04,12,15,6187.79,8242.01,0.147,5,0
+2023-03-09,Books,West,In-Store,UPI,331.59,5,20,7941.85,1326.36,0.068,3,0
+2023-03-10,Sports,South,In-Store,Cash,1758.08,2,20,6157.71,2812.93,0.286,3,0
+2023-03-11,Beauty,West,Online,UPI,581.58,11,5,6891.34,6077.51,0.414,4,0
+2023-03-11,Sports,West,Mobile App,Debit Card,2940.73,4,10,6742.75,10586.63,0.321,5,0
+2023-03-12,Toys,South,Online,Cash,656.32,14,5,5976.99,8729.06,0.177,3,0
+2023-03-12,Furniture,Central,Phone,Net Banking,5748.58,6,10,6513.51,31042.33,0.307,5,0
+2023-03-13,Clothing,Central,Online,Cash,1830.63,12,5,7510.12,20869.18,0.383,4,0
+2023-03-14,Toys,Central,In-Store,Cash,777.9,1,5,4064.06,739.0,0.24,5,0
+2023-03-14,Clothing,South,Phone,Net Banking,1571.24,10,5,5287.15,14926.78,0.378,2,0
+2023-03-15,Beauty,West,Online,Debit Card,820.82,7,10,4362.05,5171.17,0.207,1,0
+2023-03-15,Sports,North,Online,Credit Card,1759.58,7,15,6882.78,10469.5,0.189,4,0
+2023-03-16,Electronics,North,Mobile App,Debit Card,15007.86,4,20,3735.2,48025.15,0.283,3,0
+2023-03-17,Sports,Central,Online,Cash,2328.75,14,10,6647.95,29342.25,0.236,4,0
+2023-03-17,Electronics,North,Phone,Net Banking,15781.61,6,0,6495.16,94689.66,0.441,1,0
+2023-03-18,Books,Central,In-Store,UPI,288.34,12,10,7714.15,3114.07,0.257,5,1
+2023-03-19,Electronics,East,Phone,Cash,13146.65,6,0,2366.91,78879.9,0.204,5,1
+2023-03-19,Furniture,South,Online,Credit Card,7113.91,1,0,5822.15,7113.91,0.208,5,0
+2023-03-20,Books,North,Online,Cash,243.72,13,0,6176.9,3168.36,0.269,5,0
+2023-03-20,Books,West,Phone,Cash,372.73,3,10,7522.09,1006.37,0.192,5,0
+2023-03-21,Furniture,West,Phone,UPI,8380.91,4,20,7301.77,26818.91,0.339,4,0
+2023-03-22,Beauty,East,Phone,Cash,860.43,13,5,4801.44,10626.31,0.202,4,0
+2023-03-22,Sports,Central,In-Store,UPI,3439.48,13,5,4843.65,42477.58,0.204,5,0
+2023-03-23,Clothing,South,In-Store,UPI,2061.76,13,0,1754.68,26802.88,0.297,5,0
+2023-03-23,Books,East,Mobile App,Cash,389.68,6,10,7812.22,2104.27,0.074,5,1
+2023-03-24,Books,South,In-Store,Cash,249.4,11,0,2412.63,2743.4,0.312,5,0
+2023-03-25,Groceries,East,Online,Debit Card,446.4,5,15,5935.52,1897.2,0.252,3,1
+2023-03-25,Books,North,In-Store,Debit Card,394.41,11,15,6468.46,3687.73,0.231,5,0
+2023-03-26,Beauty,East,Mobile App,UPI,769.7,8,20,3809.12,4926.08,0.338,5,0
+2023-03-26,Sports,East,Online,Debit Card,1926.94,1,0,2083.95,1926.94,0.353,4,0
+2023-03-27,Sports,East,In-Store,Debit Card,3169.19,6,0,1917.2,19015.14,0.389,5,0
+2023-03-28,Books,East,In-Store,Debit Card,311.17,7,0,6923.72,2178.19,0.2,4,0
+2023-03-28,Groceries,West,Online,Debit Card,438.03,4,15,4330.67,1489.3,0.181,5,0
+2023-03-29,Sports,East,Online,UPI,3468.75,6,0,1176.03,20812.5,0.336,2,0
+2023-03-29,Groceries,South,In-Store,UPI,450.02,8,20,5877.65,2880.13,0.283,5,0
+2023-03-30,Toys,South,Online,Cash,598.49,1,0,2376.28,598.49,0.303,2,0
+2023-03-31,Groceries,West,In-Store,Debit Card,383.6,3,0,7072.96,1150.8,0.272,4,0
+2023-03-31,Groceries,Central,Mobile App,Net Banking,396.93,11,0,2821.79,4366.23,0.359,3,0
+2023-04-01,Clothing,West,Phone,UPI,1174.32,5,15,2002.03,4990.86,0.126,4,0
+2023-04-02,Beauty,West,Online,Cash,1005.06,9,10,1136.44,8140.99,0.272,3,0
+2023-04-02,Clothing,Central,In-Store,Credit Card,1929.6,8,0,4336.48,15436.8,0.113,5,0
+2023-04-03,Electronics,Central,Online,Credit Card,10788.94,8,10,3880.53,77680.37,0.213,4,0
+2023-04-03,Beauty,East,In-Store,UPI,730.13,6,10,6134.84,3942.7,0.316,5,1
+2023-04-04,Toys,North,In-Store,Debit Card,787.22,7,5,3984.52,5235.01,0.247,3,0
+2023-04-05,Furniture,West,Phone,UPI,5734.23,12,5,3078.62,65370.22,0.202,1,0
+2023-04-05,Books,West,In-Store,Credit Card,319.3,14,0,2462.41,4470.2,0.404,5,0
+2023-04-06,Furniture,South,Phone,UPI,8196.58,4,0,2586.1,32786.32,0.359,5,0
+2023-04-06,Clothing,Central,Online,Cash,1774.63,10,5,7458.86,16858.98,0.261,4,0
+2023-04-07,Books,Central,Online,Cash,244.31,14,0,1738.09,3420.34,0.43,5,0
+2023-04-08,Clothing,South,Online,Debit Card,1751.75,1,5,7911.32,1664.16,0.22,5,0
+2023-04-08,Toys,East,In-Store,Debit Card,578.23,11,0,2951.9,6360.53,0.365,4,0
+2023-04-09,Beauty,North,Online,UPI,906.48,7,15,1162.93,5393.56,0.117,5,1
+2023-04-09,Beauty,North,Online,UPI,582.45,14,0,2365.18,8154.3,0.164,5,0
+2023-04-10,Groceries,South,Online,Cash,409.28,9,0,938.11,3683.52,0.185,4,0
+2023-04-11,Sports,South,Phone,Debit Card,2663.94,12,10,6425.22,28770.55,0.092,4,0
+2023-04-11,Toys,South,Phone,Cash,510.02,3,0,4344.15,1530.06,0.251,1,0
+2023-04-12,Furniture,North,Online,Net Banking,6381.89,2,0,3027.4,12763.78,0.127,3,0
+2023-04-12,Clothing,East,Phone,Debit Card,1247.9,13,0,5465.37,16222.7,0.304,5,1
+2023-04-13,Furniture,West,Online,Net Banking,7527.19,8,0,5229.85,60217.52,0.126,5,1
+2023-04-14,Books,South,In-Store,Debit Card,230.33,8,15,7549.04,1566.24,0.099,4,0
+2023-04-14,Beauty,East,In-Store,Debit Card,1090.5,3,10,7709.45,2944.35,0.438,4,0
+2023-04-15,Electronics,South,In-Store,Cash,11801.95,4,0,5605.13,47207.8,0.313,3,1
+2023-04-15,Books,West,Phone,Cash,379.88,12,10,6633.62,4102.7,0.425,3,0
+2023-04-16,Sports,West,Mobile App,UPI,3455.23,5,10,6443.19,15548.54,0.246,5,0
+2023-04-17,Beauty,Central,Mobile App,Debit Card,605.21,9,5,4184.78,5174.55,0.063,4,0
+2023-04-17,Furniture,North,Mobile App,Credit Card,9249.35,5,10,5783.44,41622.08,0.28,3,0
+2023-04-18,Electronics,Central,Mobile App,Net Banking,15719.84,4,20,1086.94,50303.49,0.273,4,0
+2023-04-19,Groceries,South,Online,Net Banking,457.59,3,5,6185.16,1304.13,0.056,4,1
+2023-04-19,Sports,North,In-Store,Net Banking,2500.8,14,0,7713.75,35011.2,0.394,5,0
+2023-04-20,Beauty,West,Online,UPI,801.4,14,5,1137.31,10658.62,0.298,5,0
+2023-04-20,Books,North,Mobile App,Net Banking,217.54,2,15,6770.87,369.82,0.348,4,0
+2023-04-21,Electronics,North,In-Store,UPI,12890.65,5,10,7497.35,58007.92,0.248,4,0
+2023-04-22,Electronics,Central,Mobile App,Credit Card,16745.76,8,0,2196.42,133966.08,0.297,4,0
+2023-04-22,Furniture,South,Mobile App,Credit Card,10968.76,6,5,4436.08,62521.93,0.153,4,0
+2023-04-23,Toys,East,In-Store,Debit Card,436.97,11,15,7458.94,4085.67,0.44,4,1
+2023-04-23,Electronics,South,Online,Debit Card,14328.69,4,0,7701.7,,0.21,1,0
+2023-04-24,Books,North,Phone,Net Banking,273.37,1,20,1459.12,218.7,0.115,5,0
+2023-04-25,Toys,North,In-Store,Debit Card,799.26,5,15,3117.53,3396.86,0.072,4,0
+2023-04-25,Electronics,North,Online,Cash,8778.96,9,15,5736.08,67159.04,0.304,4,0
+2023-04-26,Electronics,East,In-Store,Debit Card,16261.34,3,0,2161.69,48784.02,0.443,2,0
+2023-04-26,Furniture,East,Phone,Cash,10289.86,12,10,2935.78,111130.49,0.408,5,1
+2023-04-27,Books,North,In-Store,UPI,234.68,1,5,674.68,222.95,0.331,3,0
+2023-04-28,Sports,South,Phone,Credit Card,1854.69,1,10,1651.41,1669.22,0.446,4,0
+2023-04-28,Furniture,South,In-Store,UPI,10274.36,8,15,4717.47,69865.65,0.339,5,0
+2023-04-29,Groceries,East,Phone,Credit Card,323.61,8,0,5398.18,2588.88,0.186,4,0
+2023-04-29,Beauty,Central,Mobile App,Net Banking,859.54,5,5,5366.84,4082.81,0.29,5,0
+2023-04-30,Furniture,West,Online,Cash,10728.17,4,10,6337.7,38621.41,0.082,3,0
+2023-05-01,Groceries,Central,Mobile App,Net Banking,438.89,1,15,3614.61,373.06,0.139,5,0
+2023-05-01,Furniture,North,In-Store,Net Banking,7824.51,10,15,2551.18,66508.34,0.217,5,0
+2023-05-02,Electronics,South,Online,Debit Card,12138.13,6,0,616.86,72828.78,0.131,4,0
+2023-05-03,Groceries,West,Mobile App,Cash,297.67,2,20,2049.72,476.27,0.431,4,0
+2023-05-03,Toys,South,Online,Credit Card,826.88,6,0,2842.91,4961.28,0.448,4,0
+2023-05-04,Beauty,Central,Mobile App,Net Banking,733.97,14,5,1836.55,9761.8,0.198,5,0
+2023-05-04,Books,East,Phone,Cash,249.77,4,10,651.08,899.17,0.334,5,0
+2023-05-05,Sports,South,Online,Cash,2250.58,13,0,1680.86,,0.213,5,0
+2023-05-06,Toys,Central,In-Store,Net Banking,825.04,4,5,5495.75,3135.15,0.106,5,0
+2023-05-06,Electronics,East,Mobile App,Net Banking,9192.0,3,10,5221.89,24818.4,0.185,4,0
+2023-05-07,Furniture,Central,Online,Net Banking,10456.9,4,10,7517.63,37644.84,0.143,4,0
+2023-05-07,Beauty,East,In-Store,Credit Card,956.39,5,0,6486.26,4781.95,0.181,4,1
+2023-05-08,Electronics,North,In-Store,Credit Card,15372.16,2,0,4758.17,30744.32,0.136,5,0
+2023-05-09,Beauty,West,Online,Net Banking,1106.5,9,0,1531.67,9958.5,0.095,5,0
+2023-05-09,Books,North,Phone,Debit Card,386.85,5,10,4730.54,1740.82,0.137,4,1
+2023-05-10,Groceries,West,In-Store,UPI,544.15,11,0,961.96,5985.65,0.412,3,0
+2023-05-10,Sports,East,Phone,Credit Card,1972.14,7,10,3731.64,12424.48,0.084,4,0
+2023-05-11,Sports,West,Mobile App,Cash,3142.63,7,15,3426.94,18698.65,0.18,5,0
+2023-05-12,Electronics,Central,Phone,Net Banking,12983.68,7,15,3708.6,77252.9,0.261,5,0
+2023-05-12,Electronics,East,Phone,Net Banking,12965.36,3,0,2598.69,38896.08,0.192,3,0
+2023-05-13,Books,Central,Mobile App,UPI,398.77,10,20,5643.73,3190.16,0.257,2,0
+2023-05-13,Beauty,North,In-Store,Cash,1104.21,2,0,6807.08,2208.42,0.067,4,0
+2023-05-14,Electronics,North,In-Store,UPI,14320.64,11,0,6263.88,157527.04,0.309,2,1
+2023-05-15,Books,Central,Phone,UPI,311.42,14,0,5208.14,4359.88,0.275,5,0
+2023-05-15,Clothing,East,In-Store,UPI,1529.22,11,0,4537.59,16821.42,0.322,4,0
+2023-05-16,Books,East,Mobile App,Net Banking,291.13,7,20,733.13,1630.33,0.277,4,0
+2023-05-16,Toys,North,Online,Debit Card,571.87,5,0,5922.0,2859.35,0.225,3,1
+2023-05-17,Electronics,South,Phone,UPI,11688.66,13,10,4587.37,136757.32,0.19,4,0
+2023-05-18,Books,West,Mobile App,Cash,228.85,4,0,2530.56,915.4,0.141,5,0
+2023-05-18,Beauty,Central,In-Store,UPI,603.36,7,0,2958.82,4223.52,0.25,4,0
+2023-05-19,Sports,Central,Mobile App,Credit Card,3114.77,11,5,7517.05,32549.35,0.06,1,0
+2023-05-20,Electronics,East,In-Store,Debit Card,12147.01,13,0,5182.72,157911.13,0.181,3,0
+2023-05-20,Clothing,East,Online,Cash,2027.22,13,5,4069.34,25036.17,0.321,5,0
+2023-05-21,Clothing,North,Phone,Cash,1692.83,2,5,5156.91,3216.38,0.093,5,1
+2023-05-21,Furniture,North,Phone,Cash,5796.99,13,5,3603.07,71592.83,0.075,3,1
+2023-05-22,Clothing,East,Phone,Net Banking,1215.4,2,0,4026.37,2430.8,0.311,4,1
+2023-05-23,Sports,East,In-Store,Cash,2110.18,9,15,2677.32,16142.88,0.209,2,0
+2023-05-23,Sports,North,In-Store,UPI,3457.54,14,10,3798.9,43565.0,0.371,4,0
+2023-05-24,Sports,East,Online,Debit Card,2132.73,10,0,5641.94,21327.3,0.425,2,0
+2023-05-24,Clothing,West,Mobile App,Debit Card,1591.54,14,5,799.56,21167.48,0.433,5,0
+2023-05-25,Electronics,Central,In-Store,Net Banking,16263.89,5,0,6462.71,81319.45,0.22,5,0
+2023-05-26,Beauty,Central,Phone,UPI,1107.23,5,20,2622.35,4428.92,0.156,3,0
+2023-05-26,Groceries,South,Phone,Cash,346.18,5,15,5619.2,1471.26,0.293,4,0
+2023-05-27,Books,South,Online,Credit Card,220.31,5,0,5320.44,1101.55,0.301,2,0
+2023-05-27,Beauty,Central,Phone,Credit Card,646.02,10,10,5394.71,5814.18,0.299,4,0
+2023-05-28,Electronics,West,Online,Debit Card,8931.96,7,10,5060.97,56271.35,0.179,2,0
+2023-05-29,Electronics,South,In-Store,Credit Card,10039.04,11,10,7693.26,99386.5,0.076,3,0
+2023-05-29,Electronics,West,In-Store,Cash,13175.99,6,0,4312.58,79055.94,0.134,5,0
+2023-05-30,Clothing,North,Phone,Cash,2008.07,5,20,5992.39,8032.28,0.112,1,0
+2023-05-30,Electronics,East,Mobile App,UPI,12912.64,3,20,5790.87,30990.34,0.1,5,0
+2023-05-31,Sports,South,Phone,Debit Card,2845.48,8,20,2272.01,18211.07,0.421,2,0
+2023-06-01,Toys,Central,Mobile App,UPI,504.78,13,20,2624.79,5249.71,0.056,4,1
+2023-06-01,Beauty,North,Phone,Credit Card,1008.33,13,20,3680.13,10486.63,0.291,4,0
+2023-06-02,Sports,Central,Phone,UPI,2831.13,4,15,2582.73,9625.84,0.429,5,0
+2023-06-03,Beauty,South,Phone,Credit Card,1043.92,7,0,3250.57,7307.44,0.194,3,0
+2023-06-03,Clothing,North,In-Store,Credit Card,2046.29,10,5,3432.2,19439.76,0.261,3,0
+2023-06-04,Groceries,West,In-Store,Credit Card,377.41,9,0,5028.98,3396.69,0.328,5,0
+2023-06-04,Sports,West,Phone,Credit Card,1908.51,1,0,2149.18,1908.51,0.177,5,0
+2023-06-05,Clothing,North,Phone,UPI,1287.23,9,15,6532.19,9847.31,0.241,4,0
+2023-06-06,Electronics,North,Phone,UPI,12077.87,1,15,3781.52,10266.19,0.377,1,0
+2023-06-06,Books,North,Mobile App,Cash,408.6,2,5,5796.83,776.34,0.348,3,0
+2023-06-07,Sports,East,Phone,UPI,2412.04,10,15,1110.82,20502.34,0.373,5,1
+2023-06-07,Beauty,North,Mobile App,Credit Card,991.63,2,0,4024.74,1983.26,0.445,4,0
+2023-06-08,Beauty,West,Mobile App,Credit Card,862.67,5,0,711.65,4313.35,0.198,4,0
+2023-06-09,Electronics,North,Online,Cash,9935.59,9,20,5569.32,71536.25,0.349,3,0
+2023-06-09,Sports,West,Mobile App,Net Banking,2311.28,10,5,3077.83,21957.16,0.291,3,0
+2023-06-10,Sports,Central,Mobile App,Debit Card,2893.09,7,5,7619.4,19239.05,0.317,5,0
+2023-06-10,Books,West,Phone,Debit Card,351.3,2,5,2930.93,667.47,0.346,5,0
+2023-06-11,Sports,Central,Phone,Debit Card,2510.83,12,0,4728.54,30129.96,0.35,2,0
+2023-06-12,Sports,Central,In-Store,Debit Card,2150.13,14,15,2430.41,25586.55,0.404,5,1
+2023-06-12,Furniture,North,In-Store,Debit Card,9642.68,13,15,5150.84,106551.61,0.19,4,0
+2023-06-13,Electronics,South,Phone,UPI,9818.53,11,10,4002.82,97203.45,0.311,4,0
+2023-06-13,Furniture,West,Phone,Cash,10845.35,6,0,3279.71,65072.1,0.162,4,0
+2023-06-14,Clothing,South,Online,Cash,1247.3,13,10,2027.67,,0.288,5,0
+2023-06-15,Electronics,West,In-Store,Net Banking,9301.42,7,20,1336.41,52087.95,0.35,4,0
+2023-06-15,Electronics,West,Phone,Debit Card,12580.24,2,10,1399.09,22644.43,0.366,4,0
+2023-06-16,Books,Central,Online,UPI,319.11,12,5,7992.8,3637.85,0.218,5,0
+2023-06-17,Toys,South,Phone,Debit Card,633.44,5,0,3592.33,3167.2,0.253,3,0
+2023-06-17,Toys,South,Online,Credit Card,603.4,14,5,514.47,8025.22,0.184,5,0
+2023-06-18,Books,North,Online,Debit Card,418.91,6,0,7646.97,2513.46,0.118,4,0
+2023-06-18,Toys,South,Phone,Debit Card,624.24,13,10,649.85,7303.61,0.154,4,0
+2023-06-19,Books,South,Mobile App,UPI,310.37,8,0,3639.4,2482.96,0.415,4,0
+2023-06-20,Electronics,East,Mobile App,Credit Card,11942.83,7,0,5881.08,83599.81,0.174,4,0
+2023-06-20,Sports,East,Phone,Cash,1866.95,5,15,7359.49,7934.54,0.44,4,0
+2023-06-21,Furniture,Central,In-Store,Net Banking,8920.56,12,0,5846.65,107046.72,0.147,4,0
+2023-06-21,Clothing,West,Mobile App,Net Banking,1289.37,1,5,3977.19,1224.9,0.339,5,0
+2023-06-22,Sports,West,Mobile App,Credit Card,2865.82,7,5,7808.32,19057.7,0.28,5,0
+2023-06-23,Books,North,Mobile App,Credit Card,220.68,6,5,794.9,1257.88,0.329,5,0
+2023-06-23,Electronics,East,In-Store,Net Banking,16643.65,8,15,7901.69,113176.82,0.308,3,0
+2023-06-24,Clothing,West,Mobile App,Net Banking,1542.46,4,0,6870.44,6169.84,0.333,4,0
+2023-06-24,Electronics,South,In-Store,UPI,15932.75,10,15,7466.98,135428.38,0.412,4,0
+2023-06-25,Groceries,East,Mobile App,Debit Card,413.16,6,0,2410.79,2478.96,0.275,1,0
+2023-06-26,Electronics,West,Phone,UPI,8906.78,3,0,1568.44,26720.34,0.077,5,0
+2023-06-26,Books,West,In-Store,UPI,382.66,3,10,5474.86,1033.18,0.158,4,0
+2023-06-27,Toys,Central,Mobile App,Net Banking,692.24,10,20,4368.95,5537.92,0.333,3,0
+2023-06-27,Beauty,East,Phone,UPI,997.78,4,0,4423.76,3991.12,0.248,3,0
+2023-06-28,Books,South,Phone,Credit Card,299.92,5,10,7434.64,,0.269,3,0
+2023-06-29,Toys,South,Phone,Cash,687.93,9,0,5150.61,6191.37,0.289,4,0
+2023-06-29,Toys,West,Mobile App,Cash,779.62,5,0,2832.98,3898.1,0.203,4,0
+2023-06-30,Electronics,East,In-Store,Debit Card,13700.95,6,15,3500.5,69874.84,0.36,4,0
+2023-06-30,Electronics,East,Phone,Credit Card,11320.46,4,15,1501.22,38489.56,0.339,3,0
+2023-07-01,Toys,North,Mobile App,Credit Card,698.26,5,0,1942.36,3491.3,0.336,3,0
+2023-07-02,Electronics,East,Online,Net Banking,14043.58,10,10,1575.13,126392.22,0.336,5,0
+2023-07-02,Electronics,South,In-Store,UPI,16468.93,8,0,6577.19,131751.44,0.406,2,0
+2023-07-03,Clothing,East,In-Store,UPI,1439.46,14,0,5786.55,20152.44,0.288,4,0
+2023-07-04,Beauty,Central,Phone,Net Banking,798.05,11,5,4477.59,8339.62,0.437,4,0
+2023-07-04,Furniture,West,Online,Credit Card,10147.89,1,0,3307.76,10147.89,0.098,4,0
+2023-07-05,Books,East,Mobile App,Debit Card,316.21,6,15,5513.71,1612.67,0.303,5,0
+2023-07-05,Furniture,Central,Mobile App,Net Banking,9724.81,5,0,6596.79,48624.05,0.337,4,0
+2023-07-06,Clothing,Central,Online,UPI,1532.69,9,0,7109.25,13794.21,0.241,5,0
+2023-07-07,Groceries,East,Mobile App,Credit Card,340.34,4,5,4602.62,1293.29,0.165,5,1
+2023-07-07,Electronics,West,Phone,Cash,14659.71,14,15,6649.14,174450.55,0.27,3,0
+2023-07-08,Sports,South,Mobile App,Credit Card,1979.52,5,0,4334.79,9897.6,0.196,3,0
+2023-07-08,Clothing,Central,Mobile App,Cash,1258.51,8,20,4058.98,8054.46,0.414,4,0
+2023-07-09,Furniture,South,In-Store,Cash,9110.22,2,5,6990.74,17309.42,0.193,4,0
+2023-07-10,Beauty,South,Online,Net Banking,978.47,13,10,3397.8,11448.1,0.12,4,0
+2023-07-10,Toys,North,Online,UPI,795.77,13,20,3469.35,8276.01,0.281,3,0
+2023-07-11,Furniture,Central,In-Store,Debit Card,7126.48,12,5,2786.84,81241.87,0.208,3,0
+2023-07-11,Toys,South,Mobile App,Net Banking,466.5,5,0,4390.26,2332.5,0.088,4,0
+2023-07-12,Sports,Central,Online,UPI,3423.08,1,15,4586.38,2909.62,0.276,4,0
+2023-07-13,Groceries,North,Phone,Cash,323.24,10,0,5453.46,3232.4,0.265,4,0
+2023-07-13,Books,East,Mobile App,Credit Card,251.51,7,5,3728.77,1672.54,0.119,5,0
+2023-07-14,Sports,East,In-Store,Cash,2259.83,14,20,2133.78,25310.1,0.289,3,0
+2023-07-14,Toys,East,Phone,UPI,642.34,10,0,7001.32,6423.4,0.277,4,0
+2023-07-15,Furniture,North,Online,Debit Card,10543.82,8,10,3095.01,75915.5,0.359,5,0
+2023-07-16,Clothing,North,Phone,Cash,1848.57,14,5,7422.08,24585.98,0.195,4,0
+2023-07-16,Clothing,South,In-Store,Credit Card,1793.57,12,0,2055.15,21522.84,0.15,4,0
+2023-07-17,Beauty,East,In-Store,Cash,658.1,7,0,4700.43,4606.7,0.43,4,1
+2023-07-18,Toys,West,In-Store,Net Banking,570.23,1,5,4524.61,541.72,0.274,2,0
+2023-07-18,Groceries,East,Phone,UPI,413.95,2,0,6714.86,827.9,0.061,5,0
+2023-07-19,Furniture,South,In-Store,Credit Card,6425.59,7,0,1541.39,44979.13,0.378,4,1
+2023-07-19,Toys,South,Phone,UPI,534.84,8,0,7324.53,4278.72,0.129,4,0
+2023-07-20,Toys,West,In-Store,UPI,549.5,1,15,4485.71,467.08,0.364,4,0
+2023-07-21,Books,East,In-Store,UPI,236.73,2,0,4895.82,473.46,0.332,4,0
+2023-07-21,Groceries,Central,Mobile App,Debit Card,434.07,10,15,4326.25,,0.438,3,0
+2023-07-22,Books,East,Mobile App,Cash,358.06,11,0,770.19,3938.66,0.436,5,0
+2023-07-22,Furniture,East,In-Store,Debit Card,5991.62,1,10,4228.18,5392.46,0.16,4,0
+2023-07-23,Beauty,North,Online,UPI,829.43,8,5,2476.62,6303.67,0.357,1,1
+2023-07-24,Clothing,North,In-Store,UPI,1871.32,2,0,3070.16,3742.64,0.177,4,0
+2023-07-24,Clothing,Central,Mobile App,Cash,1835.39,11,20,5368.26,16151.43,0.302,5,0
+2023-07-25,Furniture,South,Online,Cash,10164.41,12,0,4232.73,121972.92,0.289,4,0
+2023-07-25,Toys,East,Online,Net Banking,608.26,13,0,1199.14,7907.38,0.072,4,0
+2023-07-26,Books,East,Phone,Cash,382.32,9,15,1047.81,2924.75,0.052,4,0
+2023-07-27,Furniture,North,Online,Cash,6948.22,9,10,1892.43,56280.58,0.073,5,0
+2023-07-27,Beauty,East,In-Store,Net Banking,762.05,13,20,1931.64,7925.32,0.101,4,0
+2023-07-28,Furniture,South,Phone,Debit Card,6587.59,9,5,5062.26,56323.89,0.153,5,0
+2023-07-28,Clothing,North,In-Store,Debit Card,1540.86,7,0,1833.61,10786.02,0.413,2,0
+2023-07-29,Electronics,East,In-Store,UPI,11693.3,11,0,7112.9,128626.3,0.257,5,0
+2023-07-30,Beauty,East,Online,UPI,694.92,9,5,2073.2,5941.57,0.369,5,0
+2023-07-30,Clothing,North,Phone,Cash,1839.37,12,0,1183.49,22072.44,0.385,4,0
+2023-07-31,Beauty,East,Mobile App,Credit Card,735.75,8,20,7068.1,4708.8,0.344,4,0
+2023-07-31,Groceries,West,Phone,Credit Card,356.39,13,0,2714.96,4633.07,0.207,3,0
+2023-08-01,Electronics,South,Phone,Cash,9499.48,1,20,3690.67,7599.58,0.396,4,0
+2023-08-02,Groceries,Central,In-Store,Net Banking,402.87,1,0,7692.7,402.87,0.347,3,0
+2023-08-02,Toys,West,Online,Debit Card,547.25,2,0,7582.77,1094.5,0.347,1,0
+2023-08-03,Furniture,West,In-Store,Debit Card,7667.93,8,0,5861.88,61343.44,0.411,5,0
+2023-08-04,Sports,North,Online,UPI,2163.0,10,0,1017.04,21630.0,0.289,3,0
+2023-08-04,Toys,West,Mobile App,UPI,740.53,4,0,4950.05,2962.12,0.261,4,0
+2023-08-05,Furniture,South,Online,Credit Card,10808.02,3,0,7918.08,32424.06,0.406,4,0
+2023-08-05,Books,West,Phone,UPI,314.57,13,5,7601.87,3884.94,0.232,4,0
+2023-08-06,Beauty,Central,Mobile App,Net Banking,920.08,11,5,1295.02,9614.84,0.375,4,0
+2023-08-07,Furniture,South,In-Store,Cash,10456.16,10,0,3469.75,104561.6,0.072,4,0
+2023-08-07,Clothing,South,Phone,Net Banking,2098.77,7,0,2866.53,14691.39,0.051,4,0
+2023-08-08,Furniture,North,Phone,Cash,9035.69,6,0,1472.96,54214.14,0.261,5,0
+2023-08-08,Sports,West,In-Store,Net Banking,3307.11,1,0,5710.99,3307.11,0.079,4,0
+2023-08-09,Clothing,West,Online,Debit Card,2004.04,3,0,2553.86,6012.12,0.441,5,0
+2023-08-10,Beauty,East,In-Store,Credit Card,1003.21,13,0,3086.49,13041.73,0.052,4,0
+2023-08-10,Toys,North,Mobile App,Credit Card,613.59,5,5,1177.69,2914.55,0.337,4,1
+2023-08-11,Toys,South,Phone,Net Banking,454.08,10,0,4234.76,4540.8,0.147,3,0
+2023-08-11,Groceries,East,In-Store,Cash,284.43,10,0,1686.26,2844.3,0.437,2,0
+2023-08-12,Beauty,Central,Mobile App,Debit Card,827.23,5,5,3740.68,3929.34,0.203,5,0
+2023-08-13,Electronics,North,In-Store,Net Banking,12552.24,3,5,1575.07,35773.88,0.061,4,0
+2023-08-13,Groceries,South,Online,Debit Card,394.06,10,0,7653.87,3940.6,0.061,4,0
+2023-08-14,Furniture,West,In-Store,UPI,8781.74,2,0,1587.37,17563.48,0.271,5,1
+2023-08-14,Furniture,South,Online,Debit Card,8692.11,7,0,4414.15,60844.77,0.445,4,0
+2023-08-15,Furniture,Central,In-Store,Credit Card,10285.03,13,0,1977.35,133705.39,0.442,5,0
+2023-08-16,Clothing,Central,In-Store,Debit Card,1164.09,10,5,1072.71,11058.86,0.185,4,0
+2023-08-16,Clothing,South,In-Store,Debit Card,1286.44,11,20,2017.31,11320.67,0.243,5,0
+2023-08-17,Electronics,West,Phone,UPI,15061.24,2,0,910.81,30122.48,0.09,3,0
+2023-08-18,Toys,West,In-Store,Credit Card,776.09,3,0,1545.48,2328.27,0.259,3,0
+2023-08-18,Groceries,West,Mobile App,Debit Card,558.55,4,10,4201.13,2010.78,0.29,4,0
+2023-08-19,Toys,North,Mobile App,UPI,786.62,5,0,5388.62,3933.1,0.15,3,0
+2023-08-19,Toys,North,Mobile App,Debit Card,793.76,3,0,1155.05,2381.28,0.295,5,0
+2023-08-20,Books,South,In-Store,Cash,276.01,14,0,3807.64,3864.14,0.41,4,0
+2023-08-21,Toys,North,Phone,Cash,588.7,3,20,4859.35,1412.88,0.05,3,0
+2023-08-21,Books,South,Online,Net Banking,266.3,10,20,2256.69,2130.4,0.142,3,0
+2023-08-22,Toys,West,In-Store,Net Banking,674.65,9,5,3290.59,5768.26,0.134,5,0
+2023-08-22,Books,East,Phone,Debit Card,407.15,9,10,1038.76,3297.92,0.1,4,0
+2023-08-23,Toys,South,In-Store,Cash,564.75,4,10,2150.98,2033.1,0.116,5,0
+2023-08-24,Groceries,North,Mobile App,Cash,435.96,5,10,4000.65,1961.82,0.3,2,0
+2023-08-24,Clothing,South,Online,UPI,1361.11,9,5,7928.32,11637.49,0.091,5,0
+2023-08-25,Sports,East,Mobile App,Cash,2047.15,5,20,7971.99,8188.6,0.345,4,0
+2023-08-25,Groceries,West,Phone,Credit Card,334.65,10,15,7847.16,2844.52,0.405,4,0
+2023-08-26,Toys,South,Mobile App,Debit Card,444.34,1,0,3673.15,444.34,0.421,4,0
+2023-08-27,Clothing,South,Mobile App,Net Banking,2046.76,2,0,1105.1,4093.52,0.314,2,0
+2023-08-27,Furniture,East,Phone,Net Banking,7856.13,11,20,2926.8,69133.94,0.129,5,1
+2023-08-28,Toys,North,In-Store,Credit Card,770.33,9,0,2282.86,6932.97,0.084,5,0
+2023-08-28,Books,South,In-Store,UPI,353.08,1,0,605.95,353.08,0.143,4,0
+2023-08-29,Toys,North,Online,Debit Card,500.61,13,20,1214.25,5206.34,0.435,5,0
+2023-08-30,Groceries,East,Mobile App,Credit Card,329.13,1,10,3898.94,296.22,0.435,3,0
+2023-08-30,Beauty,East,Mobile App,Credit Card,1014.71,14,5,3047.47,13495.64,0.203,3,0
+2023-08-31,Toys,East,Phone,UPI,531.18,11,0,1852.65,5842.98,0.18,2,0
+2023-09-01,Sports,West,Mobile App,Cash,3348.25,14,0,5870.75,46875.5,0.254,4,0
+2023-09-01,Books,South,Online,UPI,239.41,14,0,3178.37,3351.74,0.167,2,0
+2023-09-02,Toys,Central,Mobile App,Debit Card,704.64,5,5,6889.01,3347.04,0.442,4,1
+2023-09-02,Beauty,Central,Phone,Cash,1016.11,11,20,2307.33,8941.77,0.138,3,0
+2023-09-03,Clothing,North,Online,Cash,1297.02,3,0,4537.95,3891.06,0.198,5,0
+2023-09-04,Beauty,Central,In-Store,Net Banking,714.68,7,0,1881.04,5002.76,0.222,5,0
+2023-09-04,Sports,North,Phone,Debit Card,3437.91,4,0,4214.75,13751.64,0.1,4,0
+2023-09-05,Toys,South,In-Store,Debit Card,531.13,7,20,1643.5,2974.33,0.203,3,0
+2023-09-05,Books,East,Phone,UPI,300.29,13,5,1711.84,3708.58,0.393,5,0
+2023-09-06,Toys,North,Mobile App,UPI,601.66,7,0,5091.68,4211.62,0.106,3,0
+2023-09-07,Groceries,South,Mobile App,UPI,350.85,2,10,2478.4,631.53,0.284,5,0
+2023-09-07,Sports,North,Mobile App,Net Banking,3107.63,5,10,1792.75,13984.34,0.213,4,1
+2023-09-08,Clothing,East,Mobile App,Credit Card,1860.44,12,0,7473.26,22325.28,0.118,4,0
+2023-09-08,Groceries,Central,Phone,UPI,385.93,8,20,822.52,2469.95,0.055,2,0
+2023-09-09,Toys,Central,Phone,UPI,770.75,8,10,4738.61,5549.4,0.159,5,0
+2023-09-10,Sports,South,In-Store,Debit Card,2122.88,7,0,4611.98,14860.16,0.075,5,0
+2023-09-10,Furniture,East,Phone,Cash,5624.11,5,0,2379.57,28120.55,0.201,4,1
+2023-09-11,Furniture,East,Mobile App,Net Banking,8798.54,9,20,3895.79,63349.49,0.374,5,0
+2023-09-11,Electronics,East,Mobile App,UPI,16750.25,9,0,1158.03,150752.25,0.338,5,0
+2023-09-12,Electronics,West,In-Store,Credit Card,8724.61,13,5,5909.53,107748.93,0.429,3,0
+2023-09-13,Electronics,Central,In-Store,Credit Card,10147.18,9,10,2162.73,82192.16,0.221,5,0
+2023-09-13,Electronics,East,Mobile App,UPI,12758.88,14,10,1950.39,160761.89,0.333,4,0
+2023-09-14,Sports,North,In-Store,Cash,3167.4,12,20,2861.59,30407.04,0.316,4,0
+2023-09-14,Sports,Central,In-Store,Debit Card,1905.82,2,0,7267.77,3811.64,0.137,3,0
+2023-09-15,Sports,Central,Phone,Debit Card,2441.66,6,5,6473.5,13917.46,0.171,5,0
+2023-09-16,Electronics,South,In-Store,Net Banking,14675.44,6,5,7601.69,83650.01,0.262,5,0
+2023-09-16,Electronics,East,Mobile App,Credit Card,11520.96,1,0,5389.72,11520.96,0.369,3,0
+2023-09-17,Groceries,Central,Online,Credit Card,332.87,3,10,5471.91,898.75,0.235,4,1
+2023-09-18,Toys,East,Online,Credit Card,502.11,11,0,4100.23,5523.21,0.141,4,0
+2023-09-18,Groceries,East,Phone,Net Banking,394.81,5,5,7288.9,1875.35,0.447,5,0
+2023-09-19,Furniture,Central,Online,UPI,8284.74,3,0,4331.58,24854.22,0.096,5,0
+2023-09-19,Clothing,Central,Phone,Credit Card,1954.91,5,0,3162.95,9774.55,0.432,4,0
+2023-09-20,Books,East,Phone,Debit Card,344.87,4,15,5302.81,1172.56,0.374,4,1
+2023-09-21,Groceries,North,In-Store,Net Banking,473.31,3,0,4596.05,1419.93,0.386,4,0
+2023-09-21,Electronics,East,Phone,Cash,16657.09,2,0,1430.15,33314.18,0.368,4,1
+2023-09-22,Books,West,In-Store,Debit Card,296.49,11,15,3445.44,2772.18,0.133,4,0
+2023-09-22,Beauty,South,Phone,Debit Card,785.88,12,20,2849.94,7544.45,0.303,2,0
+2023-09-23,Electronics,East,Online,Credit Card,16156.11,7,0,6851.25,113092.77,0.353,3,0
+2023-09-24,Furniture,West,In-Store,Cash,6976.9,9,0,3341.32,62792.1,0.348,4,0
+2023-09-24,Sports,North,In-Store,Credit Card,3027.18,13,10,6661.66,35418.01,0.159,5,0
+2023-09-25,Books,East,Phone,Debit Card,368.46,12,15,3817.92,3758.29,0.122,4,1
+2023-09-25,Sports,West,Online,Debit Card,1921.13,1,20,6151.25,1536.9,0.181,3,1
+2023-09-26,Furniture,South,Phone,Cash,8222.1,14,5,1514.61,109353.93,0.242,5,0
+2023-09-27,Groceries,East,Online,Cash,336.16,1,0,7434.88,336.16,0.28,5,1
+2023-09-27,Books,West,In-Store,Cash,248.93,1,20,4104.2,199.14,0.385,4,0
+2023-09-28,Clothing,North,Mobile App,Debit Card,1537.02,6,0,2448.49,9222.12,0.358,1,0
+2023-09-28,Clothing,West,Online,Debit Card,1353.9,11,0,2311.17,14892.9,0.32,4,0
+2023-09-29,Toys,South,In-Store,Debit Card,754.35,2,10,2488.08,1357.83,0.155,4,0
+2023-09-30,Books,South,Phone,Credit Card,400.6,5,10,3250.43,1802.7,0.242,4,0
+2023-09-30,Electronics,West,Phone,Cash,15142.85,4,0,5881.4,60571.4,0.184,3,0
+2023-10-01,Toys,North,Online,UPI,531.73,6,0,7622.02,3190.38,0.144,1,1
+2023-10-02,Groceries,North,Mobile App,UPI,356.76,14,10,5517.78,4495.18,0.054,4,0
+2023-10-02,Toys,East,Mobile App,Net Banking,526.99,5,0,4603.75,2634.95,0.186,5,0
+2023-10-03,Beauty,Central,Online,Credit Card,635.62,3,10,3864.48,1716.17,0.152,4,0
+2023-10-03,Electronics,North,Mobile App,Net Banking,16327.91,2,0,6711.46,32655.82,0.279,3,0
+2023-10-04,Beauty,West,Mobile App,Cash,785.15,3,10,6872.43,2119.9,0.075,4,0
+2023-10-05,Furniture,North,Mobile App,Debit Card,6858.26,2,5,2697.78,13030.69,0.158,5,0
+2023-10-05,Sports,East,In-Store,Cash,3231.67,9,0,7650.65,29085.03,0.068,2,0
+2023-10-06,Furniture,East,In-Store,Cash,7835.49,6,0,3463.37,47012.94,0.307,4,0
+2023-10-06,Groceries,East,Mobile App,Debit Card,289.83,7,10,6500.59,1825.93,0.277,4,0
+2023-10-07,Sports,North,Mobile App,Debit Card,2033.4,12,5,7751.15,23180.76,0.185,4,0
+2023-10-08,Books,West,Online,Net Banking,344.24,9,10,5777.44,2788.34,0.109,5,0
+2023-10-08,Clothing,South,Online,Credit Card,1872.05,3,10,1711.63,5054.54,0.433,5,0
+2023-10-09,Books,West,Mobile App,Credit Card,254.3,6,0,4896.03,1525.8,0.284,4,0
+2023-10-09,Sports,West,Phone,Cash,3355.44,5,20,1390.83,13421.76,0.322,1,0
+2023-10-10,Furniture,East,Online,Net Banking,10365.58,12,5,6418.57,118167.61,0.263,4,0
+2023-10-11,Beauty,South,Online,UPI,1035.09,5,15,2609.86,4399.13,0.373,3,0
+2023-10-11,Books,West,Phone,Credit Card,257.81,2,20,5714.11,412.5,0.409,4,1
+2023-10-12,Groceries,Central,Mobile App,UPI,294.15,11,20,7325.67,2588.52,0.203,5,0
+2023-10-12,Electronics,Central,Phone,Debit Card,15686.36,6,10,1857.57,84706.34,0.326,5,0
+2023-10-13,Books,Central,Phone,Net Banking,274.22,2,15,3446.43,466.17,0.142,4,0
+2023-10-14,Clothing,South,Phone,Cash,1699.86,10,5,5353.39,16148.67,0.311,4,0
+2023-10-14,Sports,East,Online,Debit Card,3079.94,3,15,3647.44,7853.85,0.21,1,1
+2023-10-15,Toys,South,In-Store,Cash,473.88,13,0,1811.14,6160.44,0.053,4,0
+2023-10-15,Furniture,Central,Online,Cash,9972.69,12,10,718.04,107705.05,0.432,2,0
+2023-10-16,Clothing,Central,Online,Cash,2035.44,6,0,3549.49,12212.64,0.397,5,0
+2023-10-17,Books,Central,Phone,Debit Card,362.96,8,20,5369.07,2322.94,0.166,5,0
+2023-10-17,Clothing,North,Mobile App,UPI,1513.28,8,0,4804.88,12106.24,0.449,3,0
+2023-10-18,Furniture,South,Online,Credit Card,10509.4,10,10,1671.81,94584.6,0.177,4,0
+2023-10-19,Sports,West,Online,UPI,2673.05,1,0,3880.2,2673.05,0.234,4,0
+2023-10-19,Beauty,West,Online,Debit Card,977.07,5,0,3271.03,4885.35,0.391,5,0
+2023-10-20,Beauty,South,In-Store,UPI,1019.48,3,20,2556.52,2446.75,0.172,4,0
+2023-10-20,Beauty,North,In-Store,Net Banking,979.64,10,15,5969.53,8326.94,0.23,3,0
+2023-10-21,Toys,North,In-Store,Net Banking,540.9,1,0,2822.39,540.9,0.316,4,0
+2023-10-22,Clothing,West,Phone,UPI,1173.74,8,0,4551.06,9389.92,0.102,2,1
+2023-10-22,Sports,East,Online,Cash,2167.09,11,15,7424.18,20262.29,0.219,4,0
+2023-10-23,Sports,East,Mobile App,Credit Card,2630.03,14,20,4544.57,29456.34,0.174,3,1
+2023-10-23,Beauty,Central,In-Store,UPI,842.96,5,0,5127.67,4214.8,0.321,4,0
+2023-10-24,Books,North,In-Store,Cash,332.36,1,10,1049.34,299.12,0.104,5,0
+2023-10-25,Clothing,West,Phone,Cash,1464.86,11,0,1836.01,16113.46,0.143,2,0
+2023-10-25,Toys,South,Phone,Net Banking,750.49,1,15,1257.13,637.92,0.335,4,0
+2023-10-26,Furniture,Central,Online,UPI,10713.66,1,0,6236.1,10713.66,0.112,5,0
+2023-10-26,Sports,Central,In-Store,Net Banking,2181.77,14,0,6769.41,30544.78,0.219,3,1
+2023-10-27,Furniture,East,Online,Net Banking,9724.53,13,0,1898.41,126418.89,0.335,4,1
+2023-10-28,Groceries,South,In-Store,UPI,469.83,10,5,2144.54,4463.38,0.356,4,0
+2023-10-28,Electronics,South,Mobile App,Credit Card,12793.96,12,15,2924.05,130498.39,0.088,4,0
+2023-10-29,Sports,North,In-Store,Debit Card,2079.93,2,0,4933.08,4159.86,0.391,5,0
+2023-10-29,Sports,Central,In-Store,Cash,3141.66,2,20,5163.47,5026.66,0.34,4,0
+2023-10-30,Electronics,North,In-Store,UPI,16469.26,5,10,5650.65,74111.67,0.186,4,0
+2023-10-31,Furniture,East,In-Store,Net Banking,9642.28,1,20,7288.95,7713.82,0.356,3,0
+2023-10-31,Furniture,East,In-Store,Net Banking,10740.02,13,20,2712.8,111696.21,0.341,1,0
+2023-11-01,Furniture,West,In-Store,Credit Card,11111.44,1,0,5440.69,11111.44,0.29,2,0
+2023-11-02,Beauty,Central,Mobile App,Net Banking,757.15,8,0,4697.92,6057.2,0.273,5,1
+2023-11-02,Clothing,East,Online,Debit Card,1720.13,12,15,2793.78,17545.33,0.344,5,0
+2023-11-03,Groceries,West,Online,Net Banking,412.7,11,0,7305.61,4539.7,0.45,5,0
+2023-11-03,Clothing,East,Mobile App,UPI,2085.96,4,0,1216.13,8343.84,0.281,3,0
+2023-11-04,Clothing,East,Mobile App,UPI,1148.5,7,5,5840.01,7637.52,0.373,4,0
+2023-11-05,Beauty,North,In-Store,Credit Card,790.93,8,20,5959.05,5061.95,0.348,5,0
+2023-11-05,Beauty,South,Online,Credit Card,1050.3,11,15,7364.95,9820.3,0.392,4,0
+2023-11-06,Electronics,East,Mobile App,UPI,10786.03,6,5,4389.35,61480.37,0.432,2,0
+2023-11-06,Books,North,In-Store,UPI,375.44,4,0,2912.17,1501.76,0.127,5,0
+2023-11-07,Clothing,South,Mobile App,UPI,1451.92,12,0,6708.06,17423.04,0.116,3,0
+2023-11-08,Clothing,East,Online,Credit Card,2078.98,13,10,6281.08,24324.07,0.285,3,0
+2023-11-08,Groceries,East,Online,UPI,527.39,7,0,4252.37,3691.73,0.23,5,0
+2023-11-09,Clothing,Central,Mobile App,Credit Card,1366.39,1,5,6258.93,1298.07,0.278,4,0
+2023-11-09,Furniture,Central,In-Store,Credit Card,9913.08,8,0,2509.07,79304.64,0.369,4,0
+2023-11-10,Beauty,West,Mobile App,UPI,748.64,13,0,4921.3,9732.32,0.423,4,0
+2023-11-11,Toys,North,Mobile App,Cash,674.67,14,0,6988.88,9445.38,0.217,5,0
+2023-11-11,Books,East,In-Store,Cash,348.28,6,10,2884.88,1880.71,0.337,2,0
+2023-11-12,Furniture,West,Online,Net Banking,10245.73,3,20,4126.62,24589.75,0.129,5,0
+2023-11-12,Electronics,East,Online,Net Banking,8605.39,9,0,7632.84,77448.51,0.264,4,0
+2023-11-13,Electronics,East,Phone,Debit Card,10249.33,12,15,6486.59,104543.17,0.059,2,0
+2023-11-14,Groceries,East,Online,Cash,479.34,14,10,7152.79,6039.68,0.252,4,0
+2023-11-14,Clothing,East,Mobile App,Credit Card,1641.7,1,20,3389.35,1313.36,0.268,4,0
+2023-11-15,Sports,East,Phone,Net Banking,2617.31,5,20,7973.79,10469.24,0.344,3,0
+2023-11-16,Sports,North,Phone,Debit Card,1846.62,7,0,1644.24,12926.34,0.31,4,0
+2023-11-16,Sports,East,In-Store,Cash,2359.48,2,15,4390.78,4011.12,0.193,4,0
+2023-11-17,Books,South,Online,Net Banking,391.67,13,10,4094.55,4582.54,0.052,4,0
+2023-11-17,Toys,West,Phone,Cash,432.97,2,0,6488.24,865.94,0.096,5,0
+2023-11-18,Books,Central,Mobile App,Net Banking,293.25,10,0,7314.63,2932.5,0.439,5,0
+2023-11-19,Furniture,East,In-Store,Credit Card,10892.83,13,20,5983.55,113285.43,0.419,4,0
+2023-11-19,Books,South,Mobile App,Credit Card,220.68,10,5,5201.12,2096.46,0.18,4,0
+2023-11-20,Sports,Central,Online,Cash,3061.99,11,0,3705.72,33681.89,0.154,4,0
+2023-11-20,Sports,West,Mobile App,UPI,2200.82,4,0,4327.44,8803.28,0.225,4,0
+2023-11-21,Toys,East,Mobile App,Credit Card,783.98,12,15,4319.75,7996.6,0.326,2,0
+2023-11-22,Electronics,North,In-Store,Cash,14666.97,6,0,652.76,88001.82,0.193,4,0
+2023-11-22,Books,North,In-Store,Credit Card,396.0,1,0,4272.84,396.0,0.077,3,0
+2023-11-23,Groceries,South,In-Store,Net Banking,340.46,6,10,6919.78,1838.48,0.211,4,0
+2023-11-23,Books,South,Online,Credit Card,321.57,5,20,5819.56,1286.28,0.154,5,0
+2023-11-24,Toys,West,Online,UPI,747.29,8,0,6467.81,5978.32,0.18,4,0
+2023-11-25,Beauty,East,Phone,Net Banking,697.59,4,0,3428.64,2790.36,0.115,4,0
+2023-11-25,Groceries,Central,In-Store,UPI,344.61,7,5,4467.3,2291.66,0.314,4,0
+2023-11-26,Beauty,East,Online,Cash,575.22,6,0,751.13,3451.32,0.261,4,0
+2023-11-26,Sports,Central,Online,Cash,3427.4,5,10,3372.48,15423.3,0.158,4,0
+2023-11-27,Groceries,East,In-Store,Net Banking,478.8,10,0,4058.12,4788.0,0.272,4,1
+2023-11-28,Furniture,South,Phone,UPI,9159.14,5,0,2414.07,45795.7,0.247,5,0
+2023-11-28,Toys,West,In-Store,Net Banking,732.48,11,0,734.31,8057.28,0.368,2,0
+2023-11-29,Sports,East,Phone,UPI,2680.32,4,20,5678.06,8577.02,0.432,4,0
+2023-11-29,Books,South,In-Store,Net Banking,309.99,13,20,3763.16,3223.9,0.102,4,0
+2023-11-30,Sports,East,Phone,Cash,2536.68,6,5,3617.59,14459.08,0.404,5,0
+2023-12-01,Groceries,West,Phone,Credit Card,459.32,1,0,2374.9,459.32,0.332,5,0
+2023-12-01,Toys,South,Online,Cash,504.64,3,15,4533.73,1286.83,0.327,5,0
+2023-12-02,Furniture,West,Online,Net Banking,10573.13,12,0,3785.2,126877.56,0.2,4,0
+2023-12-03,Beauty,Central,Phone,Credit Card,1014.58,13,10,4054.88,11870.59,0.188,3,0
+2023-12-03,Groceries,East,Phone,Net Banking,377.88,3,10,4856.54,1020.28,0.052,4,0
+2023-12-04,Toys,South,Online,Credit Card,663.02,9,10,547.43,5370.46,0.443,5,0
+2023-12-04,Electronics,East,Mobile App,Net Banking,9584.63,9,0,7307.72,86261.67,0.293,5,0
+2023-12-05,Sports,Central,Phone,Cash,3451.61,2,15,1033.16,5867.74,0.211,5,1
+2023-12-06,Furniture,North,Phone,Credit Card,10656.2,7,10,3881.94,67134.06,0.268,3,0
+2023-12-06,Groceries,Central,In-Store,Cash,538.13,10,20,2055.3,4305.04,0.066,5,0
+2023-12-07,Toys,East,Phone,Credit Card,559.51,14,0,4428.37,7833.14,0.119,5,1
+2023-12-07,Furniture,Central,Mobile App,UPI,6547.15,12,10,2601.73,70709.22,0.299,4,0
+2023-12-08,Sports,West,Phone,Net Banking,2120.6,2,15,6950.05,3605.02,0.256,4,1
+2023-12-09,Toys,West,Online,Debit Card,457.8,4,0,3472.7,1831.2,0.365,4,0
+2023-12-09,Toys,Central,Mobile App,Credit Card,470.45,7,15,5290.67,2799.18,0.313,4,0
+2023-12-10,Electronics,North,Online,UPI,8998.96,3,0,2366.6,26996.88,0.291,3,0
+2023-12-10,Electronics,East,In-Store,Debit Card,16714.51,8,15,645.55,113658.67,0.376,2,0
+2023-12-11,Furniture,North,Online,Credit Card,6014.72,1,10,3531.16,5413.25,0.077,5,0
+2023-12-12,Beauty,South,In-Store,UPI,634.22,2,0,4523.65,1268.44,0.326,5,0
+2023-12-12,Beauty,North,Phone,Debit Card,1023.26,1,0,3946.6,1023.26,0.336,5,0
+2023-12-13,Books,West,Mobile App,Credit Card,331.85,5,15,7715.11,1410.36,0.16,4,0
+2023-12-13,Books,West,In-Store,Debit Card,372.63,11,0,5801.29,4098.93,0.128,2,0
+2023-12-14,Furniture,West,In-Store,Credit Card,9133.11,3,5,7967.52,26029.36,0.136,3,0
+2023-12-15,Clothing,North,In-Store,Net Banking,1976.28,14,0,2712.95,27667.92,0.129,5,0
+2023-12-15,Electronics,South,Mobile App,Net Banking,13763.13,4,20,6417.9,44042.02,0.26,4,1
+2023-12-16,Groceries,West,In-Store,Debit Card,426.2,1,5,4666.69,404.89,0.104,5,0
+2023-12-17,Groceries,Central,Online,Net Banking,479.57,5,20,5088.2,1918.28,0.314,4,0
+2023-12-17,Clothing,Central,Mobile App,UPI,1519.76,11,0,7893.9,16717.36,0.092,4,0
+2023-12-18,Groceries,North,Phone,Net Banking,376.9,2,0,5404.9,753.8,0.061,5,0
+2023-12-18,Electronics,East,In-Store,Credit Card,12328.28,2,10,7241.13,22190.9,0.178,3,0
+2023-12-19,Toys,North,Online,Debit Card,491.28,12,10,5943.13,5305.82,0.127,5,1
+2023-12-20,Beauty,Central,Online,Cash,1006.08,9,15,1455.4,7696.51,0.445,4,0
+2023-12-20,Books,North,Phone,Debit Card,264.75,5,20,5745.68,1059.0,0.171,1,0
+2023-12-21,Furniture,Central,Phone,Net Banking,6459.78,11,15,4132.37,60398.94,0.139,1,1
+2023-12-21,Furniture,North,Online,UPI,6979.57,12,0,7390.98,83754.84,0.129,5,0
+2023-12-22,Groceries,North,Online,UPI,515.78,6,0,6551.26,3094.68,0.2,4,0
+2023-12-23,Clothing,Central,Online,UPI,1396.71,8,20,1281.01,8938.94,0.292,5,0
+2023-12-23,Toys,East,In-Store,Cash,708.14,1,5,1504.37,672.73,0.363,5,0
+2023-12-24,Toys,East,Phone,Credit Card,779.69,5,20,1022.08,3118.76,0.196,4,0
+2023-12-24,Electronics,West,Online,Cash,9053.06,9,5,4199.34,77403.66,0.3,5,0
+2023-12-25,Furniture,South,Phone,Cash,9884.14,3,0,1105.79,29652.42,0.243,5,0
+2023-12-26,Groceries,West,Online,Net Banking,366.15,14,5,5927.59,4869.79,0.389,3,0
+2023-12-26,Clothing,East,Mobile App,Net Banking,1277.45,14,15,4642.69,15201.66,0.278,5,0
+2023-12-27,Books,South,In-Store,Cash,354.67,4,10,6769.14,1276.81,0.166,4,0
+2023-12-27,Toys,South,Phone,UPI,802.11,6,0,2598.47,4812.66,0.331,4,0
+2023-12-28,Books,North,In-Store,UPI,271.95,3,0,4393.56,815.85,0.378,4,0
+2023-12-29,Books,South,In-Store,Debit Card,329.46,8,15,1381.1,,0.236,5,0
+2023-12-29,Beauty,East,Online,Net Banking,722.31,2,20,7134.58,1155.7,0.445,1,0
+2023-12-30,Sports,North,Phone,Debit Card,2720.0,6,15,1812.54,13872.0,0.402,4,0
+2023-12-31,Toys,North,In-Store,UPI,681.18,8,0,1267.72,5449.44,0.129,4,0
