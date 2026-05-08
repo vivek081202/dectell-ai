@@ -123,7 +123,7 @@ streamlit run app.py
      Save as: assets/datadisco_logo.png  then uncomment:
      ![Data & Disco Dreams Studio](assets/datadisco_logo.png) -->
 
-**[Data & Disco Dreams Studio](https://www.datadiscodreams.com)**
+**[Data & Disco Dreams Studio](https://dataanddiscodreamsstudio.com/)**
 Data Consulting & Design for Small Businesses | Atlanta, United States
 
 ---
