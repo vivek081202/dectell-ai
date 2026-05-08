@@ -38,7 +38,7 @@
 
 | Module | Description |
 |--------|-------------|
-| **Smart Data Upload** | AI-driven cleaning — imputes, encodes, caps outliers only when needed |
+| **Smart Data Upload** | AI-driven cleaning - imputes, encodes, caps outliers only when needed |
 | **Automated EDA** | Distribution charts, correlation heatmaps, LLM-generated narrative insights |
 | **AI Analyze** | Business mode (plain language goals) + Technical mode (full ML control) |
 | **Scenario Simulation** | What-if sliders and dropdowns for any dataset type including categoricals |
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ### 3. Add your secrets
 
-Create `.streamlit/secrets.toml` locally — this file is gitignored and never pushed:
+Create `.streamlit/secrets.toml` locally - this file is gitignored and never pushed:
 
 ```toml
 GROQ_API_KEY       = "gsk_your_groq_api_key_here"
@@ -101,8 +101,8 @@ streamlit run app.py
 
 | Key | Where to get it | Required |
 |-----|----------------|----------|
-| `GROQ_API_KEY` | [console.groq.com](https://console.groq.com) — free tier available | Yes — for all AI features |
-| `SHEETS_WEBHOOK_URL` | Google Apps Script deployment URL from your spreadsheet | No — only for contact and feedback forms |
+| `GROQ_API_KEY` | [console.groq.com](https://console.groq.com) - free tier available | Yes - for all AI features |
+| `SHEETS_WEBHOOK_URL` | Google Apps Script deployment URL from your spreadsheet | No - only for contact and feedback forms |
 
 ---
 
@@ -135,7 +135,7 @@ Data Consulting & Design for Small Businesses | Atlanta, United States
      ![Vivek Singh](assets/vivek_photo.jpg) -->
 
 **Vivek Singh**
-MCA — Big Data & Analytics | Jaypee Institute of Information Technology, Noida
+MCA - Big Data & Analytics | Jaypee Institute of Information Technology, Noida
 
 - LinkedIn: [vivek-singh-linkdin](https://www.linkedin.com/in/vivek-singh-linkdin)
 - GitHub: [vivek081202](https://github.com/vivek081202)
@@ -145,8 +145,8 @@ MCA — Big Data & Analytics | Jaypee Institute of Information Technology, Noida
 
 ## Licence
 
-MIT — Free to use, modify, and distribute.
+MIT - Free to use, modify, and distribute.
 
 ---
 
-*DecTell AI — Built with research, analytics, and intelligence.*
+*DecTell AI - Built with research, analytics, and intelligence.*
